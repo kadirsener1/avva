@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/*.m3u
+logs/
