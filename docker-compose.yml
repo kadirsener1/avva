@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  scraper:
+    build: .
+    container_name: iptv_scraper
+    restart: always
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
