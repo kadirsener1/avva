@@ -439,7 +439,7 @@ class M3U8Scraper:
             '.stream-item', '.channel-item', '.live-tv-item',
             '[class*="channel"]', '[class*="kanal"]',
             '[class*="stream"]', '[class*="player"]',
-            'li', '.card', '.item'
+            'channelsGrid', '.card', '.item'
         ]
         
         for selector in selectors:
