@@ -1,206 +1,511 @@
-#!/usr/bin/env python3
-import re
-import time
-import requests
-from datetime import datetime
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
+name: M3U8 Scraper Auto Update
 
-# ========== AYARLAR ==========
-TARGET_URL = "https://avvasportshd1.com/channels.html"  # <-- DEĞİŞTİR
-OUTPUT_FILE = "channels.m3u"
-USE_SELENIUM = True  # False yaparak selenium'u kapatabilirsin
-# =============================
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
 
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36'
-}
+permissions:
+  contents: write
 
-M3U8_PATTERN = re.compile(r'https?://[^\s\"\'\<\>\}\]\)]+\.m3u8[^\s\"\'\<\>\}\]\)]*', re.I)
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
 
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-def get_page_selenium(url):
-    """Selenium ile sayfa al"""
-    try:
-        from selenium import webdriver
-        from selenium.webdriver.chrome.options import Options
-        from selenium.webdriver.chrome.service import Service
-        from webdriver_manager.chrome import ChromeDriverManager
-        
-        options = Options()
-        options.add_argument('--headless')
-        options.add_argument('--no-sandbox')
-        options.add_argument('--disable-dev-shm-usage')
-        options.add_argument('--disable-gpu')
-        options.add_argument(f'--user-agent={HEADERS["User-Agent"]}')
-        
-        driver = webdriver.Chrome(
-            service=Service(ChromeDriverManager().install()),
-            options=options
-        )
-        driver.set_page_load_timeout(30)
-        driver.get(url)
-        time.sleep(5)
-        html = driver.page_source
-        driver.quit()
-        return html
-    except Exception as e:
-        print(f"Selenium hatası: {e}")
-        return None
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
+      - name: Install System Dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y \
+            wget \
+            curl \
+            unzip \
+            gnupg \
+            ca-certificates \
+            fonts-liberation \
+            libasound2 \
+            libatk-bridge2.0-0 \
+            libatk1.0-0 \
+            libatspi2.0-0 \
+            libcups2 \
+            libdbus-1-3 \
+            libdrm2 \
+            libgbm1 \
+            libgtk-3-0 \
+            libnspr4 \
+            libnss3 \
+            libwayland-client0 \
+            libxcomposite1 \
+            libxdamage1 \
+            libxfixes3 \
+            libxkbcommon0 \
+            libxrandr2 \
+            xdg-utils
 
-def get_page_requests(url):
-    """Requests ile sayfa al"""
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=20)
-        return r.text
-    except Exception as e:
-        print(f"Request hatası: {e}")
-        return None
+      - name: Install Google Chrome
+        run: |
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update -qq
+          sudo apt-get install -y google-chrome-stable
+          google-chrome --version
 
+      - name: Install ChromeDriver
+        run: |
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
+          CHROME_MAJOR=$(echo $CHROME_VERSION | cut -d. -f1)
+          echo "Chrome version: $CHROME_VERSION (Major: $CHROME_MAJOR)"
+          
+          CHROMEDRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
+          
+          if wget -q --spider "$CHROMEDRIVER_URL" 2>/dev/null; then
+            wget -q "$CHROMEDRIVER_URL" -O /tmp/chromedriver.zip
+          else
+            LATEST_URL="https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json"
+            CHROMEDRIVER_URL=$(curl -s "$LATEST_URL" | python3 -c "
+          import sys, json
+          data = json.load(sys.stdin)
+          url = data['channels']['Stable']['downloads']['chromedriver']
+          for item in url:
+              if item['platform'] == 'linux64':
+                  print(item['url'])
+                  break
+          ")
+            wget -q "$CHROMEDRIVER_URL" -O /tmp/chromedriver.zip
+          fi
+          
+          unzip -q /tmp/chromedriver.zip -d /tmp/chromedriver_extracted
+          find /tmp/chromedriver_extracted -name "chromedriver" -exec sudo mv {} /usr/local/bin/chromedriver \;
+          sudo chmod +x /usr/local/bin/chromedriver
+          chromedriver --version
 
-def get_page(url):
-    """Sayfa içeriğini al"""
-    if USE_SELENIUM:
-        html = get_page_selenium(url)
-        if html:
-            return html
-    return get_page_requests(url)
+      - name: Install Python Packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install \
+            requests \
+            beautifulsoup4 \
+            lxml \
+            selenium \
+            webdriver-manager
 
+      - name: Create Scraper Script
+        run: |
+          cat > run_scraper.py << 'PYTHON_SCRIPT'
+          #!/usr/bin/env python3
+          # -*- coding: utf-8 -*-
 
-def find_m3u8_links(html, base_url):
-    """HTML içinden m3u8 linklerini bul"""
-    links = set()
-    
-    if not html:
-        return links
-    
-    # Regex ile bul
-    for match in M3U8_PATTERN.finditer(html):
-        url = match.group(0).strip('"\'')
-        links.add(url)
-    
-    # BeautifulSoup ile script ve iframe tara
-    try:
-        soup = BeautifulSoup(html, 'lxml')
-        
-        # Script tagları
-        for script in soup.find_all('script'):
-            text = script.string or ''
-            for match in M3U8_PATTERN.finditer(text):
-                links.add(match.group(0).strip('"\''))
-        
-        # Video/source tagları
-        for tag in soup.find_all(['video', 'source']):
-            src = tag.get('src', '') or tag.get('data-src', '')
-            if '.m3u8' in src:
-                if src.startswith('//'):
-                    src = 'https:' + src
-                elif src.startswith('/'):
-                    src = urljoin(base_url, src)
-                links.add(src)
-        
-        # iframe'ler
-        for iframe in soup.find_all('iframe'):
-            src = iframe.get('src', '') or iframe.get('data-src', '')
-            if src and not src.startswith('about:'):
-                iframe_url = urljoin(base_url, src)
-                print(f"  iframe: {iframe_url}")
-                iframe_html = get_page(iframe_url)
-                if iframe_html:
-                    sub_links = find_m3u8_links(iframe_html, iframe_url)
-                    links.update(sub_links)
-                time.sleep(1)
-                
-    except Exception as e:
-        print(f"Parse hatası: {e}")
-    
-    return links
+          import re
+          import os
+          import sys
+          import time
+          import requests
+          from datetime import datetime
+          from urllib.parse import urljoin, urlparse
+          from bs4 import BeautifulSoup
 
+          # ============================================================
+          # AYARLAR - TARGET_URL'yi değiştir
+          # ============================================================
+          TARGET_URL = os.environ.get("TARGET_URL", "https://avvasportshd1.com/channels.html")
+          OUTPUT_FILE = "channels.m3u"
+          USE_SELENIUM = True
 
-def check_alive(url):
-    """Link canlı mı?"""
-    try:
-        r = requests.head(url, headers=HEADERS, timeout=8, allow_redirects=True)
-        if r.status_code == 200:
-            return True
-        r = requests.get(url, headers=HEADERS, timeout=8, stream=True)
-        return r.status_code == 200
-    except:
-        return False
+          HEADERS = {
+              "User-Agent": (
+                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/120.0.0.0 Safari/537.36"
+              ),
+              "Accept": "*/*",
+              "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8",
+              "Connection": "keep-alive",
+          }
 
+          M3U8_REGEX = re.compile(
+              r'https?://[^\s\"\'\<\>\}\]\)\,\\]+\.m3u8[^\s\"\'\<\>\}\]\)\,\\]*',
+              re.IGNORECASE
+          )
 
-def url_to_name(url):
-    """URL'den isim çıkar"""
-    path = urlparse(url).path
-    parts = path.split('/')
-    for p in reversed(parts):
-        name = p.replace('.m3u8', '').replace('-', ' ').replace('_', ' ').strip()
-        if name and len(name) > 1 and not name.isdigit():
-            if name.lower() not in ['index', 'playlist', 'live', 'stream', 'hls', 'video']:
-                return name.title()
-    return urlparse(url).netloc.split('.')[0].title()
+          # ============================================================
 
-
-def save_m3u(channels):
-    """M3U kaydet"""
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        f.write('#EXTM3U\n')
-        f.write(f'# Updated: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}\n')
-        f.write(f'# Source: {TARGET_URL}\n')
-        f.write(f'# Channels: {len(channels)}\n\n')
-        
-        for name, url, alive in sorted(channels):
-            group = "Active" if alive else "Unknown"
-            f.write(f'#EXTINF:-1 group-title="{group}",{name}\n')
-            f.write(f'{url}\n\n')
-    
-    print(f"✓ Saved {len(channels)} channels to {OUTPUT_FILE}")
+          def log(msg):
+              ts = datetime.now().strftime("%H:%M:%S")
+              print(f"[{ts}] {msg}", flush=True)
 
 
-def main():
-    print("=" * 50)
-    print(f"M3U8 Scraper - {datetime.now()}")
-    print(f"Target: {TARGET_URL}")
-    print("=" * 50)
-    
-    # Sayfa al
-    print("\n[1] Fetching page...")
-    html = get_page(TARGET_URL)
-    
-    if not html:
-        print("Failed to fetch page!")
-        return
-    
-    # Linkleri bul
-    print("\n[2] Finding m3u8 links...")
-    links = find_m3u8_links(html, TARGET_URL)
-    print(f"Found {len(links)} links")
-    
-    if not links:
-        print("No links found!")
-        # Boş M3U oluştur
-        with open(OUTPUT_FILE, 'w') as f:
-            f.write(f'#EXTM3U\n# No channels found - {datetime.now()}\n')
-        return
-    
-    # Kontrol et
-    print("\n[3] Checking streams...")
-    channels = []
-    for url in links:
-        name = url_to_name(url)
-        alive = check_alive(url)
-        status = "✓" if alive else "✗"
-        print(f"  {status} {name}")
-        channels.append((name, url, alive))
-    
-    # Kaydet
-    print("\n[4] Saving...")
-    save_m3u(channels)
-    
-    print("\n" + "=" * 50)
-    print("Done!")
+          def get_page_selenium(url):
+              try:
+                  from selenium import webdriver
+                  from selenium.webdriver.chrome.options import Options
+                  from selenium.webdriver.chrome.service import Service
+
+                  options = Options()
+                  options.add_argument("--headless=new")
+                  options.add_argument("--no-sandbox")
+                  options.add_argument("--disable-dev-shm-usage")
+                  options.add_argument("--disable-gpu")
+                  options.add_argument("--disable-extensions")
+                  options.add_argument("--disable-infobars")
+                  options.add_argument("--window-size=1920,1080")
+                  options.add_argument(f"--user-agent={HEADERS['User-Agent']}")
+                  options.add_argument("--disable-blink-features=AutomationControlled")
+                  options.add_experimental_option("excludeSwitches", ["enable-automation"])
+                  options.add_argument("--log-level=3")
+
+                  service = Service("/usr/local/bin/chromedriver")
+                  driver = webdriver.Chrome(service=service, options=options)
+                  driver.set_page_load_timeout(30)
+                  driver.implicitly_wait(10)
+
+                  log(f"Selenium ile açılıyor: {url}")
+                  driver.get(url)
+                  time.sleep(6)
+
+                  # Sayfayı kaydır
+                  driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                  time.sleep(2)
+
+                  html = driver.page_source
+                  driver.quit()
+                  return html
+
+              except Exception as e:
+                  log(f"Selenium hatası: {e}")
+                  return None
 
 
-if __name__ == '__main__':
-    main()
+          def get_page_requests(url):
+              try:
+                  session = requests.Session()
+                  session.headers.update(HEADERS)
+                  r = session.get(url, timeout=20, allow_redirects=True)
+                  r.raise_for_status()
+                  return r.text
+              except Exception as e:
+                  log(f"Request hatası: {url} → {e}")
+                  return None
+
+
+          def get_page(url):
+              if USE_SELENIUM:
+                  html = get_page_selenium(url)
+                  if html and len(html) > 100:
+                      return html
+              return get_page_requests(url)
+
+
+          def extract_links(html, base_url, visited=None):
+              if visited is None:
+                  visited = set()
+
+              links = set()
+              if not html:
+                  return links
+
+              # Regex ile tüm metinden bul
+              for m in M3U8_REGEX.finditer(html):
+                  raw = m.group(0).strip().strip('"').strip("'").rstrip("\\,;")
+                  if raw.startswith("//"):
+                      raw = "https:" + raw
+                  if is_valid_m3u8(raw):
+                      links.add(raw)
+
+              try:
+                  soup = BeautifulSoup(html, "lxml")
+
+                  # Script tagları
+                  for script in soup.find_all("script"):
+                      src = script.get("src", "")
+                      text = script.string or ""
+
+                      if src and not src.startswith("data:"):
+                          js_url = urljoin(base_url, src)
+                          if js_url not in visited:
+                              visited.add(js_url)
+                              js_html = get_page_requests(js_url)
+                              if js_html:
+                                  for m in M3U8_REGEX.finditer(js_html):
+                                      raw = m.group(0).strip().strip('"').strip("'")
+                                      if is_valid_m3u8(raw):
+                                          links.add(raw)
+
+                      for m in M3U8_REGEX.finditer(text):
+                          raw = m.group(0).strip().strip('"').strip("'")
+                          if is_valid_m3u8(raw):
+                              links.add(raw)
+
+                  # Video / source tagları
+                  for tag in soup.find_all(["video", "source", "audio"]):
+                      for attr in ["src", "data-src", "data-url", "data-stream", "data-hls"]:
+                          val = tag.get(attr, "")
+                          if ".m3u8" in val:
+                              full = urljoin(base_url, val)
+                              if is_valid_m3u8(full):
+                                  links.add(full)
+
+                  # data-* attribute tarama
+                  for tag in soup.find_all(True):
+                      for attr, val in tag.attrs.items():
+                          if isinstance(val, str) and ".m3u8" in val:
+                              for m in M3U8_REGEX.finditer(val):
+                                  raw = m.group(0).strip()
+                                  if is_valid_m3u8(raw):
+                                      links.add(raw)
+
+                  # iframe tarama
+                  for iframe in soup.find_all("iframe"):
+                      src = iframe.get("src", "") or iframe.get("data-src", "")
+                      if src and not src.startswith(("about:", "javascript:")):
+                          iframe_url = urljoin(base_url, src)
+                          if iframe_url not in visited:
+                              visited.add(iframe_url)
+                              log(f"  iframe taranıyor: {iframe_url}")
+                              iframe_html = get_page(iframe_url)
+                              sub = extract_links(iframe_html, iframe_url, visited)
+                              links.update(sub)
+                              time.sleep(1)
+
+              except Exception as e:
+                  log(f"Parse hatası: {e}")
+
+              return links
+
+
+          def is_valid_m3u8(url):
+              try:
+                  p = urlparse(url)
+                  return (
+                      p.scheme in ("http", "https")
+                      and bool(p.netloc)
+                      and ".m3u8" in p.path.lower()
+                      and len(url) > 15
+                  )
+              except:
+                  return False
+
+
+          def check_alive(url):
+              try:
+                  r = requests.head(url, headers=HEADERS, timeout=8, allow_redirects=True)
+                  if r.status_code == 200:
+                      return True
+              except:
+                  pass
+              try:
+                  r = requests.get(url, headers=HEADERS, timeout=8, stream=True)
+                  if r.status_code == 200:
+                      content = ""
+                      for chunk in r.iter_content(512):
+                          content += chunk.decode("utf-8", errors="ignore")
+                          break
+                      return "#EXTM3U" in content or "#EXT-X" in content or ".ts" in content or len(content) > 10
+              except:
+                  pass
+              return False
+
+
+          def url_to_name(url):
+              try:
+                  path = urlparse(url).path
+                  parts = path.replace(".m3u8", "").split("/")
+                  skip = {"index", "playlist", "live", "stream", "hls",
+                          "video", "mono", "tracks", "master", "chunklist", ""}
+                  for p in reversed(parts):
+                      clean = p.replace("-", " ").replace("_", " ").strip()
+                      if clean.lower() not in skip and len(clean) > 1 and not clean.isdigit():
+                          return clean.title()
+                  host = urlparse(url).hostname or ""
+                  return host.replace("www.", "").split(".")[0].title()
+              except:
+                  return "Channel"
+
+
+          def get_sub_pages(html, base_url):
+              pages = set()
+              if not html:
+                  return pages
+              try:
+                  soup = BeautifulSoup(html, "lxml")
+                  keywords = [
+                      "kanal", "channel", "canli", "live", "tv",
+                      "stream", "izle", "watch", "player", "yayın"
+                  ]
+                  for a in soup.find_all("a", href=True):
+                      href = a["href"]
+                      full = urljoin(base_url, href)
+                      if urlparse(full).netloc == urlparse(base_url).netloc:
+                          text = (a.get_text() + href).lower()
+                          if any(k in text for k in keywords):
+                              pages.add(full)
+              except:
+                  pass
+              return pages
+
+
+          def save_m3u(channels):
+              alive = [c for c in channels if c[2]]
+              save_list = alive if alive else channels
+
+              with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+                  f.write("#EXTM3U\n")
+                  f.write(f"# Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+                  f.write(f"# Source: {TARGET_URL}\n")
+                  f.write(f"# Total: {len(save_list)} channels\n")
+                  f.write(f"# Active: {len(alive)} channels\n\n")
+
+                  for name, url, is_alive in sorted(save_list, key=lambda x: x[0]):
+                      group = "Active" if is_alive else "Offline"
+                      f.write(f'#EXTINF:-1 group-title="{group}",{name}\n')
+                      f.write(f"{url}\n\n")
+
+              log(f"Kaydedildi: {OUTPUT_FILE} ({len(save_list)} kanal, {len(alive)} aktif)")
+
+
+          def main():
+              log("=" * 50)
+              log(f"M3U8 Scraper Başladı")
+              log(f"Hedef: {TARGET_URL}")
+              log("=" * 50)
+
+              all_links = set()
+              visited = set()
+              visited.add(TARGET_URL)
+
+              # Ana sayfa
+              log("\n[1] Ana sayfa alınıyor...")
+              html = get_page(TARGET_URL)
+
+              if not html:
+                  log("HATA: Sayfa alınamadı!")
+                  with open(OUTPUT_FILE, "w") as f:
+                      f.write(f"#EXTM3U\n# Error: Could not fetch page\n# {datetime.now()}\n")
+                  sys.exit(0)
+
+              log(f"Sayfa boyutu: {len(html)} karakter")
+
+              # M3U8 linklerini bul
+              log("\n[2] Linkler aranıyor...")
+              links = extract_links(html, TARGET_URL, visited)
+              all_links.update(links)
+              log(f"Ana sayfadan: {len(links)} link")
+
+              # Alt sayfalar
+              log("\n[3] Alt sayfalar taranıyor...")
+              sub_pages = get_sub_pages(html, TARGET_URL)
+              log(f"{len(sub_pages)} alt sayfa bulundu")
+
+              for sub_url in list(sub_pages)[:10]:
+                  if sub_url in visited:
+                      continue
+                  visited.add(sub_url)
+                  log(f"  → {sub_url}")
+                  sub_html = get_page(sub_url)
+                  if sub_html:
+                      sub_links = extract_links(sub_html, sub_url, visited)
+                      all_links.update(sub_links)
+                      log(f"    {len(sub_links)} link bulundu")
+                  time.sleep(2)
+
+              log(f"\nToplam benzersiz link: {len(all_links)}")
+
+              if not all_links:
+                  log("Hiç link bulunamadı!")
+                  with open(OUTPUT_FILE, "w") as f:
+                      f.write(f"#EXTM3U\n# No channels found\n# {datetime.now()}\n# Source: {TARGET_URL}\n")
+                  sys.exit(0)
+
+              # Canlılık kontrolü
+              log("\n[4] Linkler kontrol ediliyor...")
+              channels = []
+              for i, url in enumerate(all_links, 1):
+                  name = url_to_name(url)
+                  alive = check_alive(url)
+                  status = "✓" if alive else "✗"
+                  log(f"  [{i}/{len(all_links)}] {status} {name}")
+                  channels.append((name, url, alive))
+
+              # Kaydet
+              log("\n[5] M3U dosyası kaydediliyor...")
+              save_m3u(channels)
+
+              log("\n" + "=" * 50)
+              log("Tamamlandı!")
+              log("=" * 50)
+
+
+          if __name__ == "__main__":
+              main()
+          PYTHON_SCRIPT
+
+      - name: Run Scraper
+        env:
+          TARGET_URL: ${{ vars.TARGET_URL }}
+        run: |
+          python run_scraper.py
+
+      - name: Show Results
+        if: always()
+        run: |
+          echo "=========================="
+          echo "M3U Dosya İçeriği (İlk 30 satır):"
+          echo "=========================="
+          if [ -f channels.m3u ]; then
+            head -30 channels.m3u
+            echo ""
+            echo "Toplam satır: $(wc -l < channels.m3u)"
+            echo "Toplam kanal: $(grep -c '^#EXTINF' channels.m3u || echo 0)"
+          else
+            echo "channels.m3u bulunamadı!"
+          fi
+
+      - name: Commit and Push
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add channels.m3u || true
+
+          if git diff --staged --quiet; then
+            echo "Değişiklik yok."
+          else
+            CHANNEL_COUNT=$(grep -c '^#EXTINF' channels.m3u 2>/dev/null || echo "0")
+            git commit -m "🔄 Auto Update | $(date +'%Y-%m-%d %H:%M') | ${CHANNEL_COUNT} kanal"
+            git push
+            echo "✓ Push edildi."
+          fi
+
+      - name: Job Summary
+        if: always()
+        run: |
+          echo "## 📺 M3U8 Scraper Sonuçları" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Bilgi | Değer |" >> $GITHUB_STEP_SUMMARY
+          echo "|-------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| 🕐 Zaman | $(date +'%Y-%m-%d %H:%M:%S') |" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f channels.m3u ]; then
+            COUNT=$(grep -c '^#EXTINF' channels.m3u 2>/dev/null || echo "0")
+            ACTIVE=$(grep -c 'group-title="Active"' channels.m3u 2>/dev/null || echo "0")
+            echo "| 📡 Toplam Kanal | ${COUNT} |" >> $GITHUB_STEP_SUMMARY
+            echo "| ✅ Aktif Kanal | ${ACTIVE} |" >> $GITHUB_STEP_SUMMARY
+            echo "| 📁 Dosya | channels.m3u |" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "| ❌ Durum | Dosya oluşturulamadı |" >> $GITHUB_STEP_SUMMARY
+          fi
