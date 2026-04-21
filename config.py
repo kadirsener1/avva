@@ -3,7 +3,7 @@
 # ============================================
 
 # Taranacak web sitesi URL'si
-TARGET_URL = "https://example.com"  # <-- Buraya hedef siteyi yazın
+TARGET_URL = "https://avvasportshd1.com/channels.html"  # <-- Buraya hedef siteyi yazın
 
 # Taranacak alt sayfalar (varsa)
 SUB_PAGES = [
