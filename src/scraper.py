@@ -1,24 +1,44 @@
 from playwright.sync_api import sync_playwright
+from concurrent.futures import ThreadPoolExecutor
 
-def get_m3u8_links(url):
+def scrape_page(context, url):
+    page = context.new_page()
     links = []
+
+    def handle_response(response):
+        if ".m3u8" in response.url:
+            links.append(response.url)
+
+    page.on("response", handle_response)
+
+    try:
+        page.goto(url, timeout=30000)
+        page.wait_for_timeout(5000)
+    except:
+        pass
+
+    page.close()
+    return list(set(links))
+
+
+def get_m3u8_links_bulk(urls, max_workers=5):
+    results = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
+        context = browser.new_context()
 
-        def handle_response(response):
-            if ".m3u8" in response.url:
-                links.append(response.url)
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = [executor.submit(scrape_page, context, url) for url in urls]
 
-        page.on("response", handle_response)
-
-        try:
-            page.goto(url, timeout=60000)
-            page.wait_for_timeout(8000)
-        except Exception as e:
-            print("ERROR:", e)
+            for future, url in zip(futures, urls):
+                try:
+                    links = future.result()
+                    if links:
+                        results.append((url, links[0]))
+                except:
+                    pass
 
         browser.close()
 
-    return list(set(links))
+    return results
