@@ -945,4 +945,32 @@ def main():
     
     print("""
     ╔══════════════════════════════════════════════╗
-    ║       M3U8 Link Scraper 
+    ║       M3U8 Link Scraper & Güncelleyici      ║
+    ╠══════════════════════════════════════════════╣
+    ║  Hedef:    {:<33}║
+    ║  Çıktı:    {:<33}║
+    ║  Aralık:   {:<33}║
+    ║  Selenium: {:<33}║
+    ╚══════════════════════════════════════════════╝
+    """.format(
+        TARGET_URL[:33],
+        OUTPUT_FILE[:33],
+        f"{UPDATE_INTERVAL} dakika",
+        "Evet" if USE_SELENIUM and SELENIUM_AVAILABLE else "Hayır"
+    ))
+    
+    if args.once:
+        # Tek seferlik çalıştırma
+        scraper = M3U8Scraper()
+        try:
+            scraper.scrape()
+        finally:
+            scraper._close_selenium()
+    else:
+        # Sürekli çalıştırma
+        scheduler = Scheduler()
+        scheduler.start()
+
+
+if __name__ == '__main__':
+    main()
