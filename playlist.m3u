@@ -1971,3 +1971,5 @@ https://zeus324232.cfd/xatv/index.m3u8
 https://livetv.work/play/tr/ntv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Haber",test
 ttps://k.testworkery0.workers.dev/liderhaber?key=patr0n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="Haber",Trt Haber test
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
