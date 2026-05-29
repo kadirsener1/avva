@@ -45,10 +45,9 @@ https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/smartsport1/index
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/smartsport2/index.m3u8?o=1%26e=1780100376%26tk=3fbbfc43ba9c02701eb9ab26ed86476b
 #EXTINF:-1 tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2026/03/tabii-spor.png" group-title="Spor",TABİİ SPOR
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/tabiispor/index.m3u8?o=1%26e=1780100376%26tk=3fbbfc43ba9c02701eb9ab26ed86476b
-#EXTINF:-1 tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2026/03/tabii-spor.png" group-title="Spor",TABİİ SPOR
+#EXTINF:-1 tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2026/03/tabii-spor.png" group-title="TabiiSpor",TABİİ SPOR
 https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43023.jpeg" group-title="TabiiSpor",Tabii Spor
-http://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2026/03/tabii-spor-1.png" group-title="Spor",TABİİ SPOR 1
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/tabiispor1a/index.m3u8?o=1%26e=1780100376%26tk=3fbbfc43ba9c02701eb9ab26ed86476b
 #EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor1" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2026/03/tabii-spor-1.png" group-title="TabiiSpor",Tabii Spor 1
