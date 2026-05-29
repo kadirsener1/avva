@@ -306,7 +306,7 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/47fcca43-c2ac-4ab8-ae92-2b007655be9f.png" group-title="Çocuk",TRT Eba TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003212.png" group-title="Çocuk",Cartoon Network
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMzkiLCJ0cyI6MTc4MDA3NjEwNjU2NH0=
+http://65.108.239.207:80/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYTEuoR.png" group-title="TR Spor",A Spor-2
 https://zeus324232.cfd/xaspor/index.m3u8
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="beinsportsmax2.tr",S SPORT 2
@@ -1967,3 +1967,7 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Ulusal",ATV-2
 https://zeus324232.cfd/xatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Haber",Ntv test
+https://livetv.work/play/tr/ntv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Haber",test
+ttps://k.testworkery0.workers.dev/liderhaber?key=patr0n
