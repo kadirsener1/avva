@@ -248,7 +248,7 @@ https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="beinsportsmax2.tr",SPOR SMART 2 HD
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2726496671ea6fd3c6dc54
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="beinsportsmax2.tr",S SPORT 2
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/1313768516926dc999c43b
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/1234604880d226de6d47be
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VWygoj9.png" group-title="TR Spor",Trt Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR Spor",beIN Sports Haber
@@ -1378,7 +1378,7 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4ODciLCJ0cy
 #EXTINF:-1 tvg-id="sky-sport-bundesliga-2" tvg-name="Sky Sport Bundesliga 2-DE" group-title="World Sports",Sky Sport Bundesliga 2-DE
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDYiLCJ0cyI6MTc4MDE2NDc4MTA3N30=
 #EXTINF:-1 tvg-id="sky-sport-bundesliga-3" tvg-name="Sky Sport Bundesliga 3-DE" group-title="World Sports",Sky Sport Bundesliga 3-DE
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDciLCJ0cyI6MTc4MDE2NDc4MjA3N30=
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDkiLCJ0cyI6MTc4MDE2NDc4NDA3OH0=
 #EXTINF:-1 tvg-id="sky-sport-bundesliga-4" tvg-name="Sky Sport Bundesliga 4-DE" group-title="World Sports",Sky Sport Bundesliga 4-DE
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDgiLCJ0cyI6MTc4MDE2NDc4MzA3OH0=
 #EXTINF:-1 tvg-id="spectrum-sportsnet-usa" tvg-name="Spectrum SportsNet USA-US" group-title="World Sports",Spectrum SportsNet USA-US
