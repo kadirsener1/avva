@@ -19,24 +19,32 @@ https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein2/index.m3u8?
 https://netspor.tecostream.xyz/bs2.m3u8
 #EXTINF:-1 tvg-id="bein-sports-2-turkey" tvg-name="beIN Sports 2 Turkey" group-title="Spor",beIN Sports 2 Turkey
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzc5OTY4MDkwNjQ2fQ==
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="Spor",BeIN Sport 2 zeus
+https://zeus324232.cfd/b2/index.txt
 #EXTINF:-1 tvg-logo="https://avvasportshd1.com/uploads/logos/1777559846_2789e29889c0139bb875.png" group-title="Spor",beIN SPORTS 3 HD
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein3/index.m3u8?o=1%26e=1780262790%26tk=be524083bc176ec627bf47a18aaa95fc
 #EXTINF:-1 tvg-logo="https://avvasportshd1.com/uploads/logos/1777559846_2789e29889c0139bb875.png" group-title="Spor",beIN SPORTS 3 HD-Kral
 https://netspor.tecostream.xyz/bs3.m3u8
 #EXTINF:-1 tvg-id="bein-sports-3-turkey" tvg-name="beIN Sports 3 Turkey" group-title="Spor",beIN Sports 3 Turkey
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzc5OTY4MDkxNjQ2fQ==
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="Spor",BeIN Sport 3 zeus
+https://zeus324232.cfd/b3/index.txt
 #EXTINF:-1 tvg-logo="https://avvasportshd1.com/uploads/logos/1777559866_63b20549dd277e685e49.png" group-title="Spor",beIN SPORTS 4 HD
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein4/index.m3u8?o=1%26e=1780262790%26tk=be524083bc176ec627bf47a18aaa95fc
 #EXTINF:-1 tvg-logo="https://avvasportshd1.com/uploads/logos/1777559866_63b20549dd277e685e49.png" group-title="Spor",beIN SPORTS 4 HD-kral
 https://netspor.tecostream.xyz/bs4.m3u8
 #EXTINF:-1 tvg-id="bein-sports-4-turkey" tvg-name="beIN Sports 4 Turkey" group-title="Spor",beIN Sports 4 Turkey
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjoxNzc5OTY4MDkyNjQ2fQ==
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="Spor",BeIN Sport 4 zeus
+https://zeus324232.cfd/b4/index.txt
 #EXTINF:-1 tvg-logo="https://avvasportshd1.com/uploads/logos/1777559890_040f71e54618a5a7e704.png" group-title="Spor",beIN SPORTS 5 HD
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein5/index.m3u8?o=1%26e=1780262790%26tk=be524083bc176ec627bf47a18aaa95fc
 #EXTINF:-1 tvg-logo="https://avvasportshd1.com/uploads/logos/1777559890_040f71e54618a5a7e704.png" group-title="Spor",beIN SPORTS 5 HD-Kral
 https://netspor.tecostream.xyz/bs5.m3u8
 #EXTINF:-1 tvg-id="bein-sports-5-turkey" tvg-name="beIN Sports 5 Turkey" group-title="Spor",beIN Sports 5 Turkey
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3Nzk5NjgwOTM2NDd9
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="Spor",BeIN Sport 5 zeus
+https://zeus324232.cfd/b5/index.txt
 #EXTINF:-1 tvg-logo="https://avvasportshd1.com/uploads/logos/1777559926_af52bf56050d3d1bb98d.png" group-title="Spor",beIN SPORTS HD MAX 1
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/beinhdmax1/index.m3u8?o=1%26e=1780262790%26tk=be524083bc176ec627bf47a18aaa95fc
 #EXTINF:-1 tvg-logo="https://avvasportshd1.com/uploads/logos/1777559944_7e98e4acce869d0f86e4.png" group-title="Spor",beIN SPORTS HD MAX 2
