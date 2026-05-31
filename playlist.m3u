@@ -2029,3 +2029,5 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTgiLCJ0cy
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTkiLCJ0cyI6MTc4MDI1NjA1NTYzOH0=
 #EXTINF:-1 tvg-id="18-plus-18-alt19" tvg-name="18+ (Player-20)-WW" group-title="XXX",18+ (Player-20)-WW
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MjAiLCJ0cyI6MTc4MDI1NjA1NjYzOH0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYTEuoR.png" group-title="TR Spor",Tivibu Spor-Ze
+https://zeus324232.cfd/tivibu/index.txt
