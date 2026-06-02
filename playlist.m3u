@@ -269,7 +269,6 @@ https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2228088973f56fff74c71f
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" tvg-id="beinsportsmax2.tr",SPOR SMART 2 HD
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2726496671ea6fd3c6dc54
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/bein.png" group-title="Spor",beIN Sports 1-HİT refe
 #EXTVLCOPT:http-referrer= https://www.hitv.fun
 https://api.hitnova.net/s/zirve/mono.m3u8
@@ -309,7 +308,6 @@ https://api.hitnova.net/s/eu1/mono.m3u8
 https://api.hitnova.net/s/eu2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A Spor-HİT
 https://api.hitnova.net/s/as/mono.m3u8
-
 #EXTINF:-1 tvg-id="abc-usa" tvg-name="ABC USA-US" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",ABC USA-US
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MSIsInRzIjoxNzgwNDIwNjkzNzM3fQ==
 #EXTINF:-1 tvg-id="ahc-american-heroes-channel" tvg-name="AHC (American Heroes Channel)-US" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",AHC (American Heroes Channel)-US
