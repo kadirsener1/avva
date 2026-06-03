@@ -9,14 +9,12 @@ http://cdn.bittv.ltd/ottplayer/bigteisti3/FAST_FUN_BOX_TR/czJyNHd4MGtpczp5eTN3OT
 http://cdn.bittv.ltd/ottplayer/bigteisti3/FLASH_TV_HD_TR/czJyNHd4MGtpczp5eTN3OTk2bDh5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 3 HD-Bit
 http://cdn.bittv.ltd/ottplayer/bigteisti3/AKILLI_TR/czJyNHd4MGtpczp5eTN3OTk2bDh5/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Smart Spor-Lİne
 http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/7008/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Eurosport 1-Line
 http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/10542/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Eurosport 2-Line
 http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/10543/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 1-İP
 https://65.108.239.207/t1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 2-İP
@@ -25,11 +23,6 @@ https://65.108.239.207/t2/index.m3u8
 https://65.108.239.207/t3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 4-İP
 https://65.108.239.207/t4/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",beIN SPORTS 1 HD
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/95f0000dd0e/index.m3u8?o=1%26e=1780466917%26tk=530a74dac4495fadb8c6e677c34030bb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",beIN SPORTS 2 HD
@@ -84,8 +77,6 @@ https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/exxen3/index.m3u8
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/exxen4/index.m3u8?o=1%26e=1780466917%26tk=530a74dac4495fadb8c6e677c34030bb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",EXXEN 5
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/exxen5/index.m3u8?o=1%26e=1780466917%26tk=530a74dac4495fadb8c6e677c34030bb
-
-
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 1 zeus
 https://zeus324232.cfd/b1/index.txt
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 2 zeus
@@ -109,7 +100,7 @@ https://zeus324232.cfd/smart1/index.txt
 #EXTINF:-1 tvg-id="spor_smart" tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/a8c6ywb.jpg" group-title="Spor-Neon",Spor Smart 2
 https://zeus324232.cfd/smart2/index.txt
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Spor-Neon",Tivibu Spor
-https://zeus324232.cfd/tivibu/index.txt
+https://netspor.tecostream.xyz/ts.m3u8
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Spor-Neon",Tivibu Spor 1
 https://zeus324232.cfd/tivibu1/index.txt
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Spor-Neon",Tivibu Spor 2
@@ -118,10 +109,6 @@ https://zeus324232.cfd/tivibu2/index.txt
 https://zeus324232.cfd/tivibu3/index.txt
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Spor-Neon",Tivibu Spor 4
 https://zeus324232.cfd/tivibu4/index.txt
-
-
-
-
 #EXTINF:-1 tvg-id="bein-sports-1-turkey" tvg-name="beIN Sports 1 Turkey" group-title="Spor-Daddy" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN Sports 1 Turkey
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzc5OTY4MDg5NjQ1fQ==
 #EXTINF:-1 tvg-id="bein-sports-2-turkey" tvg-name="beIN Sports 2 Turkey" group-title="Spor-Daddy" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN Sports 2 Turkey
@@ -132,9 +119,6 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIj
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjoxNzc5OTY4MDkyNjQ2fQ==
 #EXTINF:-1 tvg-id="bein-sports-5-turkey" tvg-name="beIN Sports 5 Turkey" group-title="Spor-Daddy" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN Sports 5 Turkey
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3Nzk5NjgwOTM2NDd9
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",beIN SPORTS 1
 https://netspor.tecostream.xyz/bs1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",beIN SPORTS 2
@@ -187,9 +171,6 @@ https://netspor.tecostream.xyz/exn6.m3u8
 https://netspor.tecostream.xyz/exn7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",Exxen 8
 https://netspor.tecostream.xyz/exn8.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Atom",beIN Sports 1-Ron
 https://ronaldo.magnitude.workers.dev/?url=https://corestream.ronaldovurdu.help//bein1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Spor-Atom" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN Sports 2-R
@@ -208,9 +189,6 @@ https://ronaldo.magnitude.workers.dev/?url=https://corestream.ronaldovurdu.help/
 https://ronaldo.magnitude.workers.dev/?url=https://corestream.ronaldovurdu.help//s-sportt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Spor-Atom" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",S Sport 2-R
 https://ronaldo.magnitude.workers.dev/?url=https://corestream.ronaldovurdu.help//s-sport2/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43023.jpeg" group-title="TabiiSpor",TABİİ SPOR
 https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43005.jpeg" group-title="TabiiSpor",Tabii Spor 1
@@ -229,9 +207,6 @@ https://nw5mr1vl9xp4zk2sh7tq3gj6b.medya.trt.com.tr/master_1080p.m3u8
 https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor8" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/60594_0-73-1920-933.jpeg" group-title="TabiiSpor",Tabii Spor 8
 https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master_1080p.m3u8
-
-
-
 #EXTINF:-1 group-title="Spor-Vavoo" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" tvg-id="BeinSports1.tr",BEIN SPOTS1 SD
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/143239535a2e3c23c1d16
 #EXTINF:-1 group-title="Spor-Vavoo" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" tvg-id="BeinSports1.tr",BEIN 1 FEED (720P)
@@ -376,11 +351,6 @@ https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2228088973f56fff74c71f
 #EXTINF:-1 group-title="Spor-Vavoo" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" tvg-id="beinsportsmax2.tr",SPOR SMART 2 HD
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2726496671ea6fd3c6dc54
-
-
-
-
-
 #EXTINF:-1 tvg-id="abc-usa" tvg-name="ABC USA-US" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",ABC USA-US
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MSIsInRzIjoxNzgwNDUxMDAyNDM1fQ==
 #EXTINF:-1 tvg-id="ahc-american-heroes-channel" tvg-name="AHC (American Heroes Channel)-US" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",AHC (American Heroes Channel)-US
