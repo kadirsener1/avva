@@ -23,7 +23,7 @@ https://65.108.239.207/t2/index.m3u8
 https://65.108.239.207/t3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 4-İP
 https://65.108.239.207/t4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",beIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",beIN SPORTS 1 HD-Avva
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/95f0000dd0e/index.m3u8?o=1%26e=1780471653%26tk=82ad5895343a146ff9527ea99c4ca773
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",beIN SPORTS 2 HD
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein2/index.m3u8?o=1%26e=1780471653%26tk=82ad5895343a146ff9527ea99c4ca773
@@ -39,7 +39,7 @@ https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/beinhdmax1/index.
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein2hdmax/index.m3u8?o=1%26e=1780471653%26tk=82ad5895343a146ff9527ea99c4ca773
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",S SPORT 1
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/ssport1/index.m3u8?o=1%26e=1780471653%26tk=82ad5895343a146ff9527ea99c4ca773
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",S SPORT 2 avva
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",S SPORT 2
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/ssport2/index.m3u8?o=1%26e=1780471653%26tk=82ad5895343a146ff9527ea99c4ca773
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Avva",S SPORT PLUS
 https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/ssportplus/index.m3u8?o=1%26e=1780471653%26tk=82ad5895343a146ff9527ea99c4ca773
@@ -100,7 +100,7 @@ https://zeus324232.cfd/smart1/index.txt
 #EXTINF:-1 tvg-id="spor_smart" tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/a8c6ywb.jpg" group-title="Spor-Neon",Spor Smart 2
 https://zeus324232.cfd/smart2/index.txt
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Spor-Neon",Tivibu Spor
-https://netspor.tecostream.xyz/ts.m3u8
+https://zeus324232.cfd/tivibu/index.txt
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Spor-Neon",Tivibu Spor 1
 https://zeus324232.cfd/tivibu1/index.txt
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Spor-Neon",Tivibu Spor 2
@@ -109,6 +109,7 @@ https://zeus324232.cfd/tivibu2/index.txt
 https://zeus324232.cfd/tivibu3/index.txt
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Spor-Neon",Tivibu Spor 4
 https://zeus324232.cfd/tivibu4/index.txt
+
 #EXTINF:-1 tvg-id="bein-sports-1-turkey" tvg-name="beIN Sports 1 Turkey" group-title="Spor-Daddy" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN Sports 1 Turkey
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzc5OTY4MDg5NjQ1fQ==
 #EXTINF:-1 tvg-id="bein-sports-2-turkey" tvg-name="beIN Sports 2 Turkey" group-title="Spor-Daddy" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN Sports 2 Turkey
@@ -119,6 +120,7 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIj
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjoxNzc5OTY4MDkyNjQ2fQ==
 #EXTINF:-1 tvg-id="bein-sports-5-turkey" tvg-name="beIN Sports 5 Turkey" group-title="Spor-Daddy" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN Sports 5 Turkey
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3Nzk5NjgwOTM2NDd9
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",beIN SPORTS 1
 https://netspor.tecostream.xyz/bs1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",beIN SPORTS 2
