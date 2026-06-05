@@ -475,22 +475,25 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="TR Spor",Tjk Tv2
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
-#EXTINF:-1 tvg-id="antenna-tv-usa" tvg-name="Antenna TV USA-US" group-title="World Sports",Antenna TV USA-US
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIyODMiLCJ0cyI6MTc4MDY5NDQ5ODU0Nn0=
-#EXTINF:-1 tvg-id="a-e-usa" tvg-name="A&E USA-US" group-title="World Sports",A&E USA-US
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDIiLCJ0cyI6MTc4MDY5NDQ5OTU0N30=
-#EXTINF:-1 tvg-id="amc-usa" tvg-name="AMC USA-US" group-title="World Sports",AMC USA-US
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDMiLCJ0cyI6MTc4MDY5NDUwMDU0N30=
-#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet-US" group-title="World Sports",Animal Planet-US
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4MDY5NDUwMTU0N30=
-#EXTINF:-1 tvg-id="astro-supersport-1" tvg-name="Astro SuperSport 1-MY" group-title="World Sports",Astro SuperSport 1-MY
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMjMiLCJ0cyI6MTc4MDY5NDUwMjU0N30=
-#EXTINF:-1 tvg-id="astro-supersport-2" tvg-name="Astro SuperSport 2-MY" group-title="World Sports",Astro SuperSport 2-MY
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMjQiLCJ0cyI6MTc4MDY5NDUwMzU0OH0=
-#EXTINF:-1 tvg-id="astro-supersport-3" tvg-name="Astro SuperSport 3-MY" group-title="World Sports",Astro SuperSport 3-MY
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMjUiLCJ0cyI6MTc4MDY5NDUwNDU0OH0=
-#EXTINF:-1 tvg-id="astro-supersport-4" tvg-name="Astro SuperSport 4-MY" group-title="World Sports",Astro SuperSport 4-MY
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMjYiLCJ0cyI6MTc4MDY5NDUwNTU0OH0=
+
+
+
+#EXTINF:-1 tvg-id="bein-sports-1-turkey" tvg-name="beIN SPORTS 1 Turkey-TR" group-title="World Sports",beIN SPORTS 1 Turkey-TR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzgwNjk0NTcxNTY2fQ==
+#EXTINF:-1 tvg-id="bein-sports-2-turkey" tvg-name="beIN SPORTS 2 Turkey-TR" group-title="World Sports",beIN SPORTS 2 Turkey-TR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzgwNjk0NTcyNTY2fQ==
+#EXTINF:-1 tvg-id="bein-sports-3-turkey" tvg-name="beIN SPORTS 3 Turkey-TR" group-title="World Sports",beIN SPORTS 3 Turkey-TR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzgwNjk0NTczNTY3fQ==
+#EXTINF:-1 tvg-id="bein-sports-4-turkey" tvg-name="beIN SPORTS 4 Turkey-TR" group-title="World Sports",beIN SPORTS 4 Turkey-TR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjoxNzgwNjk0NTc0NTY3fQ==
+#EXTINF:-1 tvg-id="bein-sports-5-turkey" tvg-name="bein Sports 5 Turkey-TR" group-title="World Sports",bein Sports 5 Turkey-TR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3ODA2OTQ2MDQ1NzV9
+#EXTINF:-1 tvg-id="atv-turkey" tvg-name="ATV Turkey-TR" group-title="World Sports",ATV Turkey-TR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDAwIiwidHMiOjE3ODA2OTQ1NDc1NTl9
+#EXTINF:-1 tvg-id="now-tv-turkey" tvg-name="NOW TV Turkey-TR" group-title="World Sports",NOW TV Turkey-TR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDAzIiwidHMiOjE3ODA2OTQ5NTQ2NzN9
+#EXTINF:-1 tvg-id="a-spor-turkey" tvg-name="A Spor Turkey-TR" group-title="World Sports",A Spor Turkey-TR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDExIiwidHMiOjE3ODA2OTQ1NDg1NTl9
 #EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="Arena Sport 1 Premium-RS" group-title="World Sports",Arena Sport 1 Premium-RS
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMzQiLCJ0cyI6MTc4MDY5NDUwNjU0OX0=
 #EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="Arena Sport 2 Premium-RS" group-title="World Sports",Arena Sport 2 Premium-RS
@@ -513,6 +516,99 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MzMiLCJ0cy
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MzQiLCJ0cyI6MTc4MDY5NDUxNTU1MX0=
 #EXTINF:-1 tvg-id="arena-sport-4-croatia" tvg-name="Arena Sport 4 Croatia-HR" group-title="World Sports",Arena Sport 4 Croatia-HR
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1ODAiLCJ0cyI6MTc4MDY5NDUxNjU1MX0=
+#EXTINF:-1 tvg-id="arena-sport-5-serbia" tvg-name="Arena Sport 5 Serbia-RS" group-title="World Sports",Arena Sport 5 Serbia-RS
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDAiLCJ0cyI6MTc4MDY5NDUzOTU1N30=
+#EXTINF:-1 tvg-id="arena-sport-6-serbia" tvg-name="Arena Sport 6 Serbia-RS" group-title="World Sports",Arena Sport 6 Serbia-RS
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDEiLCJ0cyI6MTc4MDY5NDU0MDU1N30=
+#EXTINF:-1 tvg-id="arena-sport-7-serbia" tvg-name="Arena Sport 7 Serbia-RS" group-title="World Sports",Arena Sport 7 Serbia-RS
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDIiLCJ0cyI6MTc4MDY5NDU0MTU1N30=
+#EXTINF:-1 tvg-id="arena-sport-8-serbia" tvg-name="Arena Sport 8 Serbia-RS" group-title="World Sports",Arena Sport 8 Serbia-RS
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDMiLCJ0cyI6MTc4MDY5NDU0MjU1OH0=
+#EXTINF:-1 tvg-id="arena-sport-9-serbia" tvg-name="Arena Sport 9 Serbia-RS" group-title="World Sports",Arena Sport 9 Serbia-RS
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDQiLCJ0cyI6MTc4MDY5NDU0MzU1OH0=
+#EXTINF:-1 tvg-id="arena-sport-10-serbia" tvg-name="Arena Sport 10 Serbia-RS" group-title="World Sports",Arena Sport 10 Serbia-RS
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDUiLCJ0cyI6MTc4MDY5NDU0NDU1OH0=
+#EXTINF:-1 tvg-id="arena-sport-1-bih" tvg-name="Arena Sport 1 BiH-BA" group-title="World Sports",Arena Sport 1 BiH-BA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1NzkiLCJ0cyI6MTc4MDY5NDUyMTU1Mn0=
+#EXTINF:-1 tvg-id="arena-sports-tenis-serbia" tvg-name="Arena Sports Tenis Serbia-RS" group-title="World Sports",Arena Sports Tenis Serbia-RS
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MTIiLCJ0cyI6MTc4MDY5NDUyODU1NH0=
+
+#EXTINF:-1 tvg-id="astro-supersport-1" tvg-name="Astro SuperSport 1-MY" group-title="World Sports",Astro SuperSport 1-MY
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMjMiLCJ0cyI6MTc4MDY5NDUwMjU0N30=
+#EXTINF:-1 tvg-id="astro-supersport-2" tvg-name="Astro SuperSport 2-MY" group-title="World Sports",Astro SuperSport 2-MY
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMjQiLCJ0cyI6MTc4MDY5NDUwMzU0OH0=
+#EXTINF:-1 tvg-id="astro-supersport-3" tvg-name="Astro SuperSport 3-MY" group-title="World Sports",Astro SuperSport 3-MY
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMjUiLCJ0cyI6MTc4MDY5NDUwNDU0OH0=
+#EXTINF:-1 tvg-id="astro-supersport-4" tvg-name="Astro SuperSport 4-MY" group-title="World Sports",Astro SuperSport 4-MY
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMjYiLCJ0cyI6MTc4MDY5NDUwNTU0OH0=
+
+#EXTINF:-1 tvg-id="bein-sports-1-france" tvg-name="beIN SPORTS 1 France-FR" group-title="World Sports",beIN SPORTS 1 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMTYiLCJ0cyI6MTc4MDY5NDU2ODU2NX0=
+#EXTINF:-1 tvg-id="bein-sports-2-france" tvg-name="beIN SPORTS 2 France-FR" group-title="World Sports",beIN SPORTS 2 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMTciLCJ0cyI6MTc4MDY5NDU2OTU2Nn0=
+#EXTINF:-1 tvg-id="bein-sports-3-france" tvg-name="beIN SPORTS 3 France-FR" group-title="World Sports",beIN SPORTS 3 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMTgiLCJ0cyI6MTc4MDY5NDU3MDU2Nn0=
+#EXTINF:-1 tvg-id="bein-sports-max-4-france" tvg-name="beIN Sports MAX 4 France-FR" group-title="World Sports",beIN Sports MAX 4 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTQiLCJ0cyI6MTc4MDY5NDU2MTU2Mn0=
+#EXTINF:-1 tvg-id="bein-sports-max-5-france" tvg-name="beIN Sports MAX 5 France-FR" group-title="World Sports",beIN Sports MAX 5 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTUiLCJ0cyI6MTc4MDY5NDU2MjU2M30=
+#EXTINF:-1 tvg-id="bein-sports-max-6-france" tvg-name="beIN Sports MAX 6 France-FR" group-title="World Sports",beIN Sports MAX 6 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTYiLCJ0cyI6MTc4MDY5NDU2MzU2M30=
+#EXTINF:-1 tvg-id="bein-sports-max-7-france" tvg-name="beIN Sports MAX 7 France-FR" group-title="World Sports",beIN Sports MAX 7 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTciLCJ0cyI6MTc4MDY5NDU2NDU2M30=
+#EXTINF:-1 tvg-id="bein-sports-max-8-france" tvg-name="beIN Sports MAX 8 France-FR" group-title="World Sports",beIN Sports MAX 8 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTgiLCJ0cyI6MTc4MDY5NDU2NTU2M30=
+#EXTINF:-1 tvg-id="bein-sports-max-9-france" tvg-name="beIN Sports MAX 9 France-FR" group-title="World Sports",beIN Sports MAX 9 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTkiLCJ0cyI6MTc4MDY5NDU2NjU2NH0=
+#EXTINF:-1 tvg-id="bein-sports-max-10-france" tvg-name="beIN Sports MAX 10 France-FR" group-title="World Sports",beIN Sports MAX 10 France-FR
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDAiLCJ0cyI6MTc4MDY5NDU2NzU2NX0=
+#EXTINF:-1 tvg-id="bein-sports-xtra-1" tvg-name="beIN SPORTS XTRA 1-US" group-title="World Sports",beIN SPORTS XTRA 1-US
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDAiLCJ0cyI6MTc4MDY5NDU2MDU2Mn0=
+#EXTINF:-1 tvg-id="bein-sports-hd-qatar" tvg-name="BeIN Sports HD Qatar-QA" group-title="World Sports",BeIN Sports HD Qatar-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1NzgiLCJ0cyI6MTc4MDY5NDU3NTU2N30=
+#EXTINF:-1 tvg-id="bein-sports-usa" tvg-name="BeIN SPORTS USA-US" group-title="World Sports",BeIN SPORTS USA-US
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MjUiLCJ0cyI6MTc4MDY5NDU3NjU2OH0=
+#EXTINF:-1 tvg-id="bein-sports-en-espanol" tvg-name="beIN SPORTS en Español-US" group-title="World Sports",beIN SPORTS en Español-US
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNzIiLCJ0cyI6MTc4MDY5NDU3NzU2OH0=
+#EXTINF:-1 tvg-id="bein-sports-1-australia" tvg-name="beIN SPORTS Australia 1-AU" group-title="World Sports",beIN SPORTS Australia 1-AU
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTEiLCJ0cyI6MTc4MDY5NDU3ODU2OH0=
+#EXTINF:-1 tvg-id="bein-sports-2-australia" tvg-name="beIN SPORTS Australia 2-AU" group-title="World Sports",beIN SPORTS Australia 2-AU
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTIiLCJ0cyI6MTc4MDY5NDU3OTU2OX0=
+#EXTINF:-1 tvg-id="bein-sports-3-australia" tvg-name="beIN SPORTS Australia 3-AU" group-title="World Sports",beIN SPORTS Australia 3-AU
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTMiLCJ0cyI6MTc4MDY5NDU4MDU2OX0=
+#EXTINF:-1 tvg-id="bein-sports-1-arabic" tvg-name="beIN Sports 1 Arabic-QA" group-title="World Sports",beIN Sports 1 Arabic-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MSIsInRzIjoxNzgwNjk0NTUxNTYwfQ==
+#EXTINF:-1 tvg-id="bein-sports-2-arabic" tvg-name="beIN Sports 2 Arabic-QA" group-title="World Sports",beIN Sports 2 Arabic-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MiIsInRzIjoxNzgwNjk0NTUyNTYwfQ==
+#EXTINF:-1 tvg-id="bein-sports-3-arabic" tvg-name="beIN Sports 3 Arabic-QA" group-title="World Sports",beIN Sports 3 Arabic-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MyIsInRzIjoxNzgwNjk0NTUzNTYxfQ==
+#EXTINF:-1 tvg-id="bein-sports-4-arabic" tvg-name="beIN Sports 4 Arabic-QA" group-title="World Sports",beIN Sports 4 Arabic-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NCIsInRzIjoxNzgwNjk0NTU0NTYxfQ==
+#EXTINF:-1 tvg-id="bein-sports-5-arabic" tvg-name="beIN Sports 5 Arabic-QA" group-title="World Sports",beIN Sports 5 Arabic-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NSIsInRzIjoxNzgwNjk0NTU1NTYxfQ==
+#EXTINF:-1 tvg-id="bein-sports-6-arabic" tvg-name="beIN Sports 6 Arabic-QA" group-title="World Sports",beIN Sports 6 Arabic-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NiIsInRzIjoxNzgwNjk0NTU2NTYxfQ==
+#EXTINF:-1 tvg-id="bein-sports-7-arabic" tvg-name="beIN Sports 7 Arabic-QA" group-title="World Sports",beIN Sports 7 Arabic-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NyIsInRzIjoxNzgwNjk0NTU3NTYxfQ==
+#EXTINF:-1 tvg-id="bein-sports-8-arabic" tvg-name="beIN Sports 8 Arabic-QA" group-title="World Sports",beIN Sports 8 Arabic-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5OCIsInRzIjoxNzgwNjk0NTU4NTYyfQ==
+#EXTINF:-1 tvg-id="bein-sports-9-arabic" tvg-name="beIN Sports 9 Arabic-QA" group-title="World Sports",beIN Sports 9 Arabic-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5OSIsInRzIjoxNzgwNjk0NTU5NTYyfQ==
+#EXTINF:-1 tvg-id="bein-sports-mena-english-1" tvg-name="beIN Sports MENA English 1-QA" group-title="World Sports",beIN Sports MENA English 1-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MSIsInRzIjoxNzgwNjk0NTQ5NTYwfQ==
+#EXTINF:-1 tvg-id="bein-sports-mena-english-2" tvg-name="beIN Sports MENA English 2-QA" group-title="World Sports",beIN Sports MENA English 2-QA
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MCIsInRzIjoxNzgwNjk0NTUwNTYwfQ==
+
+#EXTINF:-1 tvg-id="antenna-tv-usa" tvg-name="Antenna TV USA-US" group-title="World Sports",Antenna TV USA-US
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIyODMiLCJ0cyI6MTc4MDY5NDQ5ODU0Nn0=
+#EXTINF:-1 tvg-id="a-e-usa" tvg-name="A&E USA-US" group-title="World Sports",A&E USA-US
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDIiLCJ0cyI6MTc4MDY5NDQ5OTU0N30=
+#EXTINF:-1 tvg-id="amc-usa" tvg-name="AMC USA-US" group-title="World Sports",AMC USA-US
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDMiLCJ0cyI6MTc4MDY5NDUwMDU0N30=
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet-US" group-title="World Sports",Animal Planet-US
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDQiLCJ0cyI6MTc4MDY5NDUwMTU0N30=
+
+
 #EXTINF:-1 tvg-id="alkass-one" tvg-name="Alkass One-QA" group-title="World Sports",Alkass One-QA
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI3ODEiLCJ0cyI6MTc4MDY5NDUxNzU1MX0=
 #EXTINF:-1 tvg-id="alkass-two" tvg-name="Alkass Two-QA" group-title="World Sports",Alkass Two-QA
@@ -521,8 +617,7 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI3ODIiLCJ0cy
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI3ODMiLCJ0cyI6MTc4MDY5NDUxOTU1Mn0=
 #EXTINF:-1 tvg-id="alkass-four" tvg-name="Alkass Four-QA" group-title="World Sports",Alkass Four-QA
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI3ODQiLCJ0cyI6MTc4MDY5NDUyMDU1Mn0=
-#EXTINF:-1 tvg-id="arena-sport-1-bih" tvg-name="Arena Sport 1 BiH-BA" group-title="World Sports",Arena Sport 1 BiH-BA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1NzkiLCJ0cyI6MTc4MDY5NDUyMTU1Mn0=
+
 #EXTINF:-1 tvg-id="abu-dhabi-sports-1-uae" tvg-name="Abu Dhabi Sports 1 UAE-AE" group-title="World Sports",Abu Dhabi Sports 1 UAE-AE
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MDAiLCJ0cyI6MTc4MDY5NDUyMjU1M30=
 #EXTINF:-1 tvg-id="abu-dhabi-sports-2-uae" tvg-name="Abu Dhabi Sports 2 UAE-AE" group-title="World Sports",Abu Dhabi Sports 2 UAE-AE
@@ -535,8 +630,7 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MTAiLCJ0cy
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNzAiLCJ0cyI6MTc4MDY5NDUyNjU1NH0=
 #EXTINF:-1 tvg-id="antena-3-spain" tvg-name="Antena 3 Spain-ES" group-title="World Sports",Antena 3 Spain-ES
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MzEiLCJ0cyI6MTc4MDY5NDUyNzU1NH0=
-#EXTINF:-1 tvg-id="arena-sports-tenis-serbia" tvg-name="Arena Sports Tenis Serbia-RS" group-title="World Sports",Arena Sports Tenis Serbia-RS
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MTIiLCJ0cyI6MTc4MDY5NDUyODU1NH0=
+
 #EXTINF:-1 tvg-id="acc-network-usa" tvg-name="ACC Network USA-US" group-title="World Sports",ACC Network USA-US
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NjQiLCJ0cyI6MTc4MDY5NDUyOTU1NX0=
 #EXTINF:-1 tvg-id="adult-swim" tvg-name="Adult Swim-US" group-title="World Sports",Adult Swim-US
@@ -557,90 +651,16 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4NDQiLCJ0cy
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MjMiLCJ0cyI6MTc4MDY5NDUzNzU1N30=
 #EXTINF:-1 tvg-id="azteca-uno-mx" tvg-name="Azteca Uno MX-MX" group-title="World Sports",Azteca Uno MX-MX
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MzQiLCJ0cyI6MTc4MDY5NDUzODU1N30=
-#EXTINF:-1 tvg-id="arena-sport-5-serbia" tvg-name="Arena Sport 5 Serbia-RS" group-title="World Sports",Arena Sport 5 Serbia-RS
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDAiLCJ0cyI6MTc4MDY5NDUzOTU1N30=
-#EXTINF:-1 tvg-id="arena-sport-6-serbia" tvg-name="Arena Sport 6 Serbia-RS" group-title="World Sports",Arena Sport 6 Serbia-RS
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDEiLCJ0cyI6MTc4MDY5NDU0MDU1N30=
-#EXTINF:-1 tvg-id="arena-sport-7-serbia" tvg-name="Arena Sport 7 Serbia-RS" group-title="World Sports",Arena Sport 7 Serbia-RS
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDIiLCJ0cyI6MTc4MDY5NDU0MTU1N30=
-#EXTINF:-1 tvg-id="arena-sport-8-serbia" tvg-name="Arena Sport 8 Serbia-RS" group-title="World Sports",Arena Sport 8 Serbia-RS
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDMiLCJ0cyI6MTc4MDY5NDU0MjU1OH0=
-#EXTINF:-1 tvg-id="arena-sport-9-serbia" tvg-name="Arena Sport 9 Serbia-RS" group-title="World Sports",Arena Sport 9 Serbia-RS
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDQiLCJ0cyI6MTc4MDY5NDU0MzU1OH0=
-#EXTINF:-1 tvg-id="arena-sport-10-serbia" tvg-name="Arena Sport 10 Serbia-RS" group-title="World Sports",Arena Sport 10 Serbia-RS
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NDUiLCJ0cyI6MTc4MDY5NDU0NDU1OH0=
+
 #EXTINF:-1 tvg-id="arte-france" tvg-name="Arte France-FR" group-title="World Sports",Arte France-FR
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NTgiLCJ0cyI6MTc4MDY5NDU0NTU1OX0=
 #EXTINF:-1 tvg-id="automoto-la-chaine" tvg-name="Automoto La chaîne-FR" group-title="World Sports",Automoto La chaîne-FR
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NjEiLCJ0cyI6MTc4MDY5NDU0NjU1OX0=
-#EXTINF:-1 tvg-id="atv-turkey" tvg-name="ATV Turkey-TR" group-title="World Sports",ATV Turkey-TR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDAwIiwidHMiOjE3ODA2OTQ1NDc1NTl9
-#EXTINF:-1 tvg-id="a-spor-turkey" tvg-name="A Spor Turkey-TR" group-title="World Sports",A Spor Turkey-TR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDExIiwidHMiOjE3ODA2OTQ1NDg1NTl9
-#EXTINF:-1 tvg-id="bein-sports-mena-english-1" tvg-name="beIN Sports MENA English 1-QA" group-title="World Sports",beIN Sports MENA English 1-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MSIsInRzIjoxNzgwNjk0NTQ5NTYwfQ==
-#EXTINF:-1 tvg-id="bein-sports-mena-english-2" tvg-name="beIN Sports MENA English 2-QA" group-title="World Sports",beIN Sports MENA English 2-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MCIsInRzIjoxNzgwNjk0NTUwNTYwfQ==
-#EXTINF:-1 tvg-id="bein-sports-1-arabic" tvg-name="beIN Sports 1 Arabic-QA" group-title="World Sports",beIN Sports 1 Arabic-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MSIsInRzIjoxNzgwNjk0NTUxNTYwfQ==
-#EXTINF:-1 tvg-id="bein-sports-2-arabic" tvg-name="beIN Sports 2 Arabic-QA" group-title="World Sports",beIN Sports 2 Arabic-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MiIsInRzIjoxNzgwNjk0NTUyNTYwfQ==
-#EXTINF:-1 tvg-id="bein-sports-3-arabic" tvg-name="beIN Sports 3 Arabic-QA" group-title="World Sports",beIN Sports 3 Arabic-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MyIsInRzIjoxNzgwNjk0NTUzNTYxfQ==
-#EXTINF:-1 tvg-id="bein-sports-4-arabic" tvg-name="beIN Sports 4 Arabic-QA" group-title="World Sports",beIN Sports 4 Arabic-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NCIsInRzIjoxNzgwNjk0NTU0NTYxfQ==
-#EXTINF:-1 tvg-id="bein-sports-5-arabic" tvg-name="beIN Sports 5 Arabic-QA" group-title="World Sports",beIN Sports 5 Arabic-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NSIsInRzIjoxNzgwNjk0NTU1NTYxfQ==
-#EXTINF:-1 tvg-id="bein-sports-6-arabic" tvg-name="beIN Sports 6 Arabic-QA" group-title="World Sports",beIN Sports 6 Arabic-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NiIsInRzIjoxNzgwNjk0NTU2NTYxfQ==
-#EXTINF:-1 tvg-id="bein-sports-7-arabic" tvg-name="beIN Sports 7 Arabic-QA" group-title="World Sports",beIN Sports 7 Arabic-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NyIsInRzIjoxNzgwNjk0NTU3NTYxfQ==
-#EXTINF:-1 tvg-id="bein-sports-8-arabic" tvg-name="beIN Sports 8 Arabic-QA" group-title="World Sports",beIN Sports 8 Arabic-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5OCIsInRzIjoxNzgwNjk0NTU4NTYyfQ==
-#EXTINF:-1 tvg-id="bein-sports-9-arabic" tvg-name="beIN Sports 9 Arabic-QA" group-title="World Sports",beIN Sports 9 Arabic-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5OSIsInRzIjoxNzgwNjk0NTU5NTYyfQ==
-#EXTINF:-1 tvg-id="bein-sports-xtra-1" tvg-name="beIN SPORTS XTRA 1-US" group-title="World Sports",beIN SPORTS XTRA 1-US
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDAiLCJ0cyI6MTc4MDY5NDU2MDU2Mn0=
-#EXTINF:-1 tvg-id="bein-sports-max-4-france" tvg-name="beIN Sports MAX 4 France-FR" group-title="World Sports",beIN Sports MAX 4 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTQiLCJ0cyI6MTc4MDY5NDU2MTU2Mn0=
-#EXTINF:-1 tvg-id="bein-sports-max-5-france" tvg-name="beIN Sports MAX 5 France-FR" group-title="World Sports",beIN Sports MAX 5 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTUiLCJ0cyI6MTc4MDY5NDU2MjU2M30=
-#EXTINF:-1 tvg-id="bein-sports-max-6-france" tvg-name="beIN Sports MAX 6 France-FR" group-title="World Sports",beIN Sports MAX 6 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTYiLCJ0cyI6MTc4MDY5NDU2MzU2M30=
-#EXTINF:-1 tvg-id="bein-sports-max-7-france" tvg-name="beIN Sports MAX 7 France-FR" group-title="World Sports",beIN Sports MAX 7 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTciLCJ0cyI6MTc4MDY5NDU2NDU2M30=
-#EXTINF:-1 tvg-id="bein-sports-max-8-france" tvg-name="beIN Sports MAX 8 France-FR" group-title="World Sports",beIN Sports MAX 8 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTgiLCJ0cyI6MTc4MDY5NDU2NTU2M30=
-#EXTINF:-1 tvg-id="bein-sports-max-9-france" tvg-name="beIN Sports MAX 9 France-FR" group-title="World Sports",beIN Sports MAX 9 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTkiLCJ0cyI6MTc4MDY5NDU2NjU2NH0=
-#EXTINF:-1 tvg-id="bein-sports-max-10-france" tvg-name="beIN Sports MAX 10 France-FR" group-title="World Sports",beIN Sports MAX 10 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDAiLCJ0cyI6MTc4MDY5NDU2NzU2NX0=
-#EXTINF:-1 tvg-id="bein-sports-1-france" tvg-name="beIN SPORTS 1 France-FR" group-title="World Sports",beIN SPORTS 1 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMTYiLCJ0cyI6MTc4MDY5NDU2ODU2NX0=
-#EXTINF:-1 tvg-id="bein-sports-2-france" tvg-name="beIN SPORTS 2 France-FR" group-title="World Sports",beIN SPORTS 2 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMTciLCJ0cyI6MTc4MDY5NDU2OTU2Nn0=
-#EXTINF:-1 tvg-id="bein-sports-3-france" tvg-name="beIN SPORTS 3 France-FR" group-title="World Sports",beIN SPORTS 3 France-FR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMTgiLCJ0cyI6MTc4MDY5NDU3MDU2Nn0=
-#EXTINF:-1 tvg-id="bein-sports-1-turkey" tvg-name="beIN SPORTS 1 Turkey-TR" group-title="World Sports",beIN SPORTS 1 Turkey-TR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzgwNjk0NTcxNTY2fQ==
-#EXTINF:-1 tvg-id="bein-sports-2-turkey" tvg-name="beIN SPORTS 2 Turkey-TR" group-title="World Sports",beIN SPORTS 2 Turkey-TR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzgwNjk0NTcyNTY2fQ==
-#EXTINF:-1 tvg-id="bein-sports-3-turkey" tvg-name="beIN SPORTS 3 Turkey-TR" group-title="World Sports",beIN SPORTS 3 Turkey-TR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzgwNjk0NTczNTY3fQ==
-#EXTINF:-1 tvg-id="bein-sports-4-turkey" tvg-name="beIN SPORTS 4 Turkey-TR" group-title="World Sports",beIN SPORTS 4 Turkey-TR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjoxNzgwNjk0NTc0NTY3fQ==
-#EXTINF:-1 tvg-id="bein-sports-hd-qatar" tvg-name="BeIN Sports HD Qatar-QA" group-title="World Sports",BeIN Sports HD Qatar-QA
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1NzgiLCJ0cyI6MTc4MDY5NDU3NTU2N30=
-#EXTINF:-1 tvg-id="bein-sports-usa" tvg-name="BeIN SPORTS USA-US" group-title="World Sports",BeIN SPORTS USA-US
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MjUiLCJ0cyI6MTc4MDY5NDU3NjU2OH0=
-#EXTINF:-1 tvg-id="bein-sports-en-espanol" tvg-name="beIN SPORTS en Español-US" group-title="World Sports",beIN SPORTS en Español-US
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNzIiLCJ0cyI6MTc4MDY5NDU3NzU2OH0=
-#EXTINF:-1 tvg-id="bein-sports-1-australia" tvg-name="beIN SPORTS Australia 1-AU" group-title="World Sports",beIN SPORTS Australia 1-AU
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTEiLCJ0cyI6MTc4MDY5NDU3ODU2OH0=
-#EXTINF:-1 tvg-id="bein-sports-2-australia" tvg-name="beIN SPORTS Australia 2-AU" group-title="World Sports",beIN SPORTS Australia 2-AU
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTIiLCJ0cyI6MTc4MDY5NDU3OTU2OX0=
-#EXTINF:-1 tvg-id="bein-sports-3-australia" tvg-name="beIN SPORTS Australia 3-AU" group-title="World Sports",beIN SPORTS Australia 3-AU
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0OTMiLCJ0cyI6MTc4MDY5NDU4MDU2OX0=
+
+
+
+
+
 #EXTINF:-1 tvg-id="barca-tv-spain" tvg-name="Barca TV Spain-ES" group-title="World Sports",Barca TV Spain-ES
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MjIiLCJ0cyI6MTc4MDY5NDU4MTU2OX0=
 #EXTINF:-1 tvg-id="benfica-tv-pt" tvg-name="Benfica TV PT-PT" group-title="World Sports",Benfica TV PT-PT
@@ -687,8 +707,6 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI3MTMiLCJ0cy
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI3MTQiLCJ0cyI6MTc4MDY5NDYwMjU3NX0=
 #EXTINF:-1 tvg-id="bfm-tv-france" tvg-name="BFM TV France-FR" group-title="World Sports",BFM TV France-FR
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5NTciLCJ0cyI6MTc4MDY5NDYwMzU3NX0=
-#EXTINF:-1 tvg-id="bein-sports-5-turkey" tvg-name="bein Sports 5 Turkey-TR" group-title="World Sports",bein Sports 5 Turkey-TR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3ODA2OTQ2MDQ1NzV9
 #EXTINF:-1 tvg-id="bandsports-brasil" tvg-name="Bandsports Brasil-BR" group-title="World Sports",Bandsports Brasil-BR
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIyNzUiLCJ0cyI6MTc4MDY5NDYwNTU3NX0=
 #EXTINF:-1 tvg-id="canal-plus-motogp-france" tvg-name="Canal+ MotoGP France-FR" group-title="World Sports",Canal+ MotoGP France-FR
@@ -1387,8 +1405,7 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI3NDUiLCJ0cy
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4MzUiLCJ0cyI6MTc4MDY5NDk1MjY3Mn0=
 #EXTINF:-1 tvg-id="nbc-universo" tvg-name="NBC Universo-US" group-title="World Sports",NBC Universo-US
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4NDUiLCJ0cyI6MTc4MDY5NDk1MzY3M30=
-#EXTINF:-1 tvg-id="now-tv-turkey" tvg-name="NOW TV Turkey-TR" group-title="World Sports",NOW TV Turkey-TR
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDAzIiwidHMiOjE3ODA2OTQ5NTQ2NzN9
+
 #EXTINF:-1 tvg-id="nova-sport" tvg-name="Nova Sport 1 CZ-CZ" group-title="World Sports",Nova Sport 1 CZ-CZ
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDIxIiwidHMiOjE3ODA2OTQ5NTU2NzN9
 #EXTINF:-1 tvg-id="nova-sport-cz-2" tvg-name="Nova Sport 2 CZ-CZ" group-title="World Sports",Nova Sport 2 CZ-CZ
