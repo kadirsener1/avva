@@ -475,46 +475,6 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="TR Spor",Tjk Tv2
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
-#EXTINF:-1 tvg-id="18-plus-18" tvg-name="18+ (Player-01)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-01)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDEiLCJ0cyI6MTc4MDY5MzgwMDE4OX0=
-#EXTINF:-1 tvg-id="18-plus-18-alt1" tvg-name="18+ (Player-02)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-02)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDIiLCJ0cyI6MTc4MDY5MzgwMTE4OX0=
-#EXTINF:-1 tvg-id="18-plus-18-alt2" tvg-name="18+ (Player-03)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-03)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDMiLCJ0cyI6MTc4MDY5MzgwMjE5MH0=
-#EXTINF:-1 tvg-id="18-plus-18-alt3" tvg-name="18+ (Player-04)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-04)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDQiLCJ0cyI6MTc4MDY5MzgwMzE5MH0=
-#EXTINF:-1 tvg-id="18-plus-18-alt4" tvg-name="18+ (Player-05)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-05)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDUiLCJ0cyI6MTc4MDY5MzgwNDE5MH0=
-#EXTINF:-1 tvg-id="18-plus-18-alt5" tvg-name="18+ (Player-06)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-06)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDYiLCJ0cyI6MTc4MDY5MzgwNTE5MX0=
-#EXTINF:-1 tvg-id="18-plus-18-alt6" tvg-name="18+ (Player-07)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-07)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDciLCJ0cyI6MTc4MDY5MzgwNjE5MX0=
-#EXTINF:-1 tvg-id="18-plus-18-alt7" tvg-name="18+ (Player-08)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-08)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDgiLCJ0cyI6MTc4MDY5MzgwNzE5MX0=
-#EXTINF:-1 tvg-id="18-plus-18-alt8" tvg-name="18+ (Player-09)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-09)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDkiLCJ0cyI6MTc4MDY5MzgwODE5MX0=
-#EXTINF:-1 tvg-id="18-plus-18-alt9" tvg-name="18+ (Player-10)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-10)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTAiLCJ0cyI6MTc4MDY5MzgwOTE5Mn0=
-#EXTINF:-1 tvg-id="18-plus-18-alt10" tvg-name="18+ (Player-11)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-11)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTEiLCJ0cyI6MTc4MDY5MzgxMDE5Mn0=
-#EXTINF:-1 tvg-id="18-plus-18-alt11" tvg-name="18+ (Player-12)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-12)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTIiLCJ0cyI6MTc4MDY5MzgxMTE5Mn0=
-#EXTINF:-1 tvg-id="18-plus-18-alt12" tvg-name="18+ (Player-13)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-13)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTMiLCJ0cyI6MTc4MDY5MzgxMjE5M30=
-#EXTINF:-1 tvg-id="18-plus-18-alt13" tvg-name="18+ (Player-14)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-14)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTQiLCJ0cyI6MTc4MDY5MzgxMzE5M30=
-#EXTINF:-1 tvg-id="18-plus-18-alt14" tvg-name="18+ (Player-15)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-15)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTUiLCJ0cyI6MTc4MDY5MzgxNDE5M30=
-#EXTINF:-1 tvg-id="18-plus-18-alt15" tvg-name="18+ (Player-16)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-16)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTYiLCJ0cyI6MTc4MDY5MzgxNTE5NH0=
-#EXTINF:-1 tvg-id="18-plus-18-alt16" tvg-name="18+ (Player-17)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-17)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTciLCJ0cyI6MTc4MDY5MzgxNjE5NH0=
-#EXTINF:-1 tvg-id="18-plus-18-alt17" tvg-name="18+ (Player-18)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-18)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTgiLCJ0cyI6MTc4MDY5MzgxNzE5NH0=
-#EXTINF:-1 tvg-id="18-plus-18-alt18" tvg-name="18+ (Player-19)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-19)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTkiLCJ0cyI6MTc4MDY5MzgxODE5NH0=
-#EXTINF:-1 tvg-id="18-plus-18-alt19" tvg-name="18+ (Player-20)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-20)-WW
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MjAiLCJ0cyI6MTc4MDY5MzgxOTE5NX0=
 #EXTINF:-1 tvg-id="antenna-tv-usa" tvg-name="Antenna TV USA-US" group-title="World Sports",Antenna TV USA-US
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIyODMiLCJ0cyI6MTc4MDY5Mjk5NDk1MH0=
 #EXTINF:-1 tvg-id="a-e-usa" tvg-name="A&E USA-US" group-title="World Sports",A&E USA-US
@@ -2123,5 +2083,44 @@ https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4MDAiLCJ0cy
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNjAiLCJ0cyI6MTc4MDY5Mzc5ODE4OX0=
 #EXTINF:-1 tvg-id="3sat" tvg-name="3sat DE-DE" group-title="World Sports",3sat DE-DE
 https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI3MjYiLCJ0cyI6MTc4MDY5Mzc5OTE4OX0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR Spor",beIN Sports Haber-YTB
-https://youtube.magnitude.workers.dev/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+#EXTINF:-1 tvg-id="18-plus-18" tvg-name="18+ (Player-01)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-01)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDEiLCJ0cyI6MTc4MDY5MzgwMDE4OX0=
+#EXTINF:-1 tvg-id="18-plus-18-alt1" tvg-name="18+ (Player-02)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-02)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDIiLCJ0cyI6MTc4MDY5MzgwMTE4OX0=
+#EXTINF:-1 tvg-id="18-plus-18-alt2" tvg-name="18+ (Player-03)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-03)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDMiLCJ0cyI6MTc4MDY5MzgwMjE5MH0=
+#EXTINF:-1 tvg-id="18-plus-18-alt3" tvg-name="18+ (Player-04)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-04)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDQiLCJ0cyI6MTc4MDY5MzgwMzE5MH0=
+#EXTINF:-1 tvg-id="18-plus-18-alt4" tvg-name="18+ (Player-05)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-05)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDUiLCJ0cyI6MTc4MDY5MzgwNDE5MH0=
+#EXTINF:-1 tvg-id="18-plus-18-alt5" tvg-name="18+ (Player-06)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-06)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDYiLCJ0cyI6MTc4MDY5MzgwNTE5MX0=
+#EXTINF:-1 tvg-id="18-plus-18-alt6" tvg-name="18+ (Player-07)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-07)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDciLCJ0cyI6MTc4MDY5MzgwNjE5MX0=
+#EXTINF:-1 tvg-id="18-plus-18-alt7" tvg-name="18+ (Player-08)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-08)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDgiLCJ0cyI6MTc4MDY5MzgwNzE5MX0=
+#EXTINF:-1 tvg-id="18-plus-18-alt8" tvg-name="18+ (Player-09)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-09)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MDkiLCJ0cyI6MTc4MDY5MzgwODE5MX0=
+#EXTINF:-1 tvg-id="18-plus-18-alt9" tvg-name="18+ (Player-10)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-10)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTAiLCJ0cyI6MTc4MDY5MzgwOTE5Mn0=
+#EXTINF:-1 tvg-id="18-plus-18-alt10" tvg-name="18+ (Player-11)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-11)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTEiLCJ0cyI6MTc4MDY5MzgxMDE5Mn0=
+#EXTINF:-1 tvg-id="18-plus-18-alt11" tvg-name="18+ (Player-12)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-12)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTIiLCJ0cyI6MTc4MDY5MzgxMTE5Mn0=
+#EXTINF:-1 tvg-id="18-plus-18-alt12" tvg-name="18+ (Player-13)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-13)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTMiLCJ0cyI6MTc4MDY5MzgxMjE5M30=
+#EXTINF:-1 tvg-id="18-plus-18-alt13" tvg-name="18+ (Player-14)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-14)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTQiLCJ0cyI6MTc4MDY5MzgxMzE5M30=
+#EXTINF:-1 tvg-id="18-plus-18-alt14" tvg-name="18+ (Player-15)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-15)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTUiLCJ0cyI6MTc4MDY5MzgxNDE5M30=
+#EXTINF:-1 tvg-id="18-plus-18-alt15" tvg-name="18+ (Player-16)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-16)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTYiLCJ0cyI6MTc4MDY5MzgxNTE5NH0=
+#EXTINF:-1 tvg-id="18-plus-18-alt16" tvg-name="18+ (Player-17)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-17)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTciLCJ0cyI6MTc4MDY5MzgxNjE5NH0=
+#EXTINF:-1 tvg-id="18-plus-18-alt17" tvg-name="18+ (Player-18)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-18)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTgiLCJ0cyI6MTc4MDY5MzgxNzE5NH0=
+#EXTINF:-1 tvg-id="18-plus-18-alt18" tvg-name="18+ (Player-19)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-19)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTkiLCJ0cyI6MTc4MDY5MzgxODE5NH0=
+#EXTINF:-1 tvg-id="18-plus-18-alt19" tvg-name="18+ (Player-20)-WW" group-title="XXX" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",18+ (Player-20)-WW
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MjAiLCJ0cyI6MTc4MDY5MzgxOTE5NX0=
+
