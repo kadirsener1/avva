@@ -7,6 +7,10 @@ http://cdn.bittv.ltd/ottplayer/bigteisti3/FAST_FUN_BOX_TR/czJyNHd4MGtpczp5eTN3OT
 http://cdn.bittv.ltd/ottplayer/bigteisti3/FLASH_TV_HD_TR/czJyNHd4MGtpczp5eTN3OTk2bDh5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 3 HD-Bit
 http://cdn.bittv.ltd/ottplayer/bigteisti3/AKILLI_TR/czJyNHd4MGtpczp5eTN3OTk2bDh5/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",S Sport-Lİne
+http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/10870/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",S Sport 2-Lİne
+http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/10873/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Smart Spor-Lİne
 http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/7008/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Eurosport 1-Line
