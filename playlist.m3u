@@ -234,11 +234,11 @@ https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN 1 SD (360P)
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/3692337241ec1b0872b06e
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1
-https://vavooproxy3.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad
+https://vavooproxy33.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1 (720P)
-https://vavooproxy40.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/38404756531618c87fcc66
+https://vavooproxy30.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/38404756531618c87fcc66
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1 (720PFEED)
-https://vavooproxy12.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/22330664333ebb4acbb6ab
+https://vavooproxy18.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/22330664333ebb4acbb6ab
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
 https://vavooproxy35.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/342898470360b159ef8301
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1 +
@@ -2301,3 +2301,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" tvg-id="Dummy" ,KNTV-AZ
 https://cdn4.yayin.com.tr/kntv/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",SİNEMA AKSİYON
+http://65.108.239.207/bsaction1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",BEİN BOX OFFİCE 1
+http://65.108.239.207/box1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",FİLM SCREEN
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
