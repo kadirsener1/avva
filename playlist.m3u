@@ -234,11 +234,11 @@ https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN 1 SD (360P)
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/3692337241ec1b0872b06e
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1
-https://vavooproxy7.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad
+https://vavooproxy36.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1 (720P)
-https://vavooproxy3.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/38404756531618c87fcc66
+https://vavooproxy19.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/38404756531618c87fcc66
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1 (720PFEED)
-https://vavooproxy36.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/22330664333ebb4acbb6ab
+https://vavooproxy47.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/22330664333ebb4acbb6ab
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
 https://vavooproxy35.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/342898470360b159ef8301
 #EXTINF:-1 group-title="Vavoo Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPORTS 1 +
@@ -2389,3 +2389,31 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003212.png" group-title="Çocuk",5 MINUTES CRAFT
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Max Yeşilçam
+https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Max Korku
+https://forum.sinetech.tr/harici-link?to=aHR0cHM6Ly9jYXRjYXN0LmlzbWFpbHR1cnJldC53b3JrZXJzLmRldi9mYW5hdGlrbWF4a29ya3UubTN1OA==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Max Deadpool
+https://catcast.ismailturret.workers.dev/fanatikmaxdeadpool.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Max Dağ
+https://catcast.ismailturret.workers.dev/fanatikmaxdag.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Prime Kurtlar Vadisi
+https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Prime Eşref Tek
+https://catcast.ismailturret.workers.dev/fanatikprimeesreftek.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Prime Bizimkiler
+https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Prime Avrupa Yakası
+https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Kids Pepee
+https://catcast.ismailturret.workers.dev/fanatikkidspepee.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Kids Caillou
+https://catcast.ismailturret.workers.dev/fanatikkidscaillou.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Kids Şarkılar
+https://catcast.ismailturret.workers.dev/fanatikkidsarkilar.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Prime Ed Stafford
+https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Music Nostalji
+https://catcast.ismailturret.workers.dev/fanatikmusicnostalji.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Music Neşet Ertaş
+https://catcast.ismailturret.workers.dev/fanatikmusicnesetertas.m3u8
