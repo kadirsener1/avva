@@ -2389,3 +2389,35 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003212.png" group-title="Çocuk",5 MINUTES CRAFT
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Max Yeşilçam
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Max Korku
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxkorku.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Max Deadpool
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxdeadpool.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Max Dağ
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxdag.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Prime Kurtlar Vadisi
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Prime Eşref Tek
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimeesreftek.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Prime Bizimkiler
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",Fanatik Prime Avrupa Yakası
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimeavrupayakasi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Çocuk",Fanatik Tom ve Jerry
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikkidstomjerry.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Çocuk",Fanatik Kids Pepee
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikkidspepee.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Çocuk",Fanatik Kids Caillou
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikkidscaillou.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Çocuk",Fanatik Kids Şarkılar
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikkidsarkilar.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",Fanatik Prime Ed Stafford
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimeEdStafford.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Müzik",Fanatik Music Nostalji
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmusicnostalji.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Müzik",Fanatik Music Rojda
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmusicrojda.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Müzik",Fanatik Music Neşet Ertaş
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmusicnesetertas.m3u8
