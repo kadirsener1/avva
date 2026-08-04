@@ -2211,3 +2211,17 @@ https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTgiLCJ0c
 https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTkiLCJ0cyI6MTc4NTg3MTY0MjM0OH0=
 #EXTINF:-1 tvg-id="18-plus-18-alt19" tvg-name="18+ (Player-20)-WW" group-title="TV247",18+ (Player-20)-WW
 https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MjAiLCJ0cyI6MTc4NTg3MTY0MzM0OH0=
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="Spor",beIN Sports 1
+https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2" group-title="Spor",beIN Sports 2
+https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 3" group-title="Spor",beIN Sports 3
+https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 4" group-title="Spor",beIN Sports 4
+https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 5" group-title="Spor",beIN Sports 5
+https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//bein5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 1" group-title="Spor",beIN Sports Max 1
+https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//trtspor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 2" group-title="Spor",beIN Sports Max 2
+https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//hls/s-sport.m3u8
