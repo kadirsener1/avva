@@ -280,7 +280,7 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="Haber",DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w489522622.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VWygoj9.png" group-title="TR Spor",TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+https://corestream.siteyaptim.live//trt-spor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VWygoj9.png" group-title="TR Spor",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_1440p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR Spor",Bein Sport Haber-YTube
@@ -288,7 +288,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783696706/ei/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR Spor",beIN Sports Haber
 https://netspor.tecostream.xyz/bsh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="TR Spor",A Spor
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TR Spor",HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYTEuoR.png" group-title="TR Spor",Ekol Sports
@@ -2230,8 +2230,48 @@ https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s
 #EXTINF:-1 tvg-name="S Sport 2" group-title="Spor",S Sport 2
 https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Spor",A Spor
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",HİSTORY
 https://tr.livev.xyz/hist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",BBC EARTH
 https://tr.livev.xyz/bbce/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="BEIN SPORTS 1" group-title="Atom Spor",BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//telegramardaspor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="BEIN SPORTS 2" group-title="Atom Spor",BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="BEIN SPORTS 3" group-title="Atom Spor",BEIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="BEIN SPORTS 4" group-title="Atom Spor",BEIN SPORTS 4
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein-sports-5" tvg-name="BEIN SPORTS 5" group-title="Atom Spor",BEIN SPORTS 5
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//bein5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein-sports-max-1" tvg-name="BEIN SPORTS MAX 1" group-title="Atom Spor",BEIN SPORTS MAX 1
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//trtspor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein-sports-max-2" tvg-name="BEIN SPORTS MAX 2" group-title="Atom Spor",BEIN SPORTS MAX 2
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//hls/s-sport.m3u8
+#EXTINF:-1 tvg-id="s-sport" tvg-name="S SPORT" group-title="Atom Spor",S SPORT
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//s-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="s-sport-2" tvg-name="S SPORT 2" group-title="Atom Spor",S SPORT 2
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="a-spor" tvg-name="A SPOR" group-title="Atom Spor",A SPOR
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://corestream.siteyaptim.live//aspor/tracks-v1a1/mono.m3u8
