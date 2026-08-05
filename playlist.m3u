@@ -288,7 +288,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783696706/ei/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR Spor",beIN Sports Haber
 https://netspor.tecostream.xyz/bsh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="TR Spor",A Spor
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//aspor/tracks-v1a1/mono.m3u8
+https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TR Spor",HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYTEuoR.png" group-title="TR Spor",Ekol Sports
@@ -2230,7 +2230,7 @@ https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s
 #EXTINF:-1 tvg-name="S Sport 2" group-title="Spor",S Sport 2
 https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Spor",A Spor
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//aspor/tracks-v1a1/mono.m3u8
+https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",HİSTORY
 https://tr.livev.xyz/hist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",BBC EARTH
