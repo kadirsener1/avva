@@ -241,8 +241,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786314091/ei/
 http://cdn.vizitv.workers.dev/56.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="Haber",Sözcü TV-Ytube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786314100/ei/E6l4avCoK7HV0u8P4NqkiAw/ip/212.227.226.146/id/ztmY_cCtUl0.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-5uh5o-f5fk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhPhJ9178BViCVwbzEO9xsGxD4_oyY6InUbpOX4vkwYHZ_xjHV7maoZA3AlJiC0BnqXrBes2170R/spc/KBGBciBdfgIuffTRZDMgW7xk2zJpbOKOJhlCHiMmBY2apwqPbA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/493750/met/1786292500,/mh/2L/mm/44/mn/sn-5uh5o-f5fk/ms/lva/mv/m/mvi/5/pcm2cms/yes/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52089683/mt/1786291942/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgSk46pNk50BFDGeHH0YcvVlytDrZc6BJ47E6IMeE0iusCIEoCVcrk5TX0KuTtrEp_tIP37xGD8JC5kE-2TrSsh37F/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIhANJEXNpbe7VwmpdX8DEMGj0lz3zPIRt4NvU8Vv1GTUMmAiATmF1Ai__lpD0dQBYCPyy_fJz6-ZWTkwmrQf-98QJ_uw%3D%3D/playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="Haber",Sözcü
-https://helga.iptv2022.com/sh/szc_tv/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="Haber",Sözcü-03
+https://trn03.tulix.tv/gt-sozcu-livetv/index.m3u8?token=b9b136447f039cce5dab614e0d25c5e7
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="Haber",Halk Tv
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="Haber",Tele 1
