@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",BİLGİLENDİRME
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/info.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",bein livetv
-https://proxy.hdtvcanli.com/https://tgn.bozztv.com/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8?nimblesessionid=1757587978&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI2IDg6Mzc6NDIgUE0maGFzaF92YWx1ZT03aFBudGZjeFpId1haMXBhMFNMOURnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzE=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",bein stream
+https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76ccc04/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYzA0OjE3ODY3NDA2NDk5MzI6Y2RubGl2ZXR2LmlzOmEzNDBhNWJkZWU4NmY0MjIuNDRmMTQyMzBiYTIxMWYwZDczOWFiN2M4MzJlNzEyYjZlZjZmNmNiNzg2YTJkZTBkMWQ5M2VjNzJkN2MzZjc4NA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",BeIN SPORTS HABER-Ace
 http://88.99.165.164:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",BeIN SPORTS 1-Ace
