@@ -1,8 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",BİLGİLENDİRME
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/info.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",BeIN SPORTS 5-Ace
-http://88.99.165.164:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c2009b6fa&pid=213
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",BeIN SPORTS HABER-Ace
+http://88.99.165.164:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",BeIN SPORTS 1-Ace
+http://88.99.165.164:6878/ace/getstream?infohash=071b49a1c52d304cae6300e2776022eec7ebe6cd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",BeIN SPORTS 2-Ace
+http://88.99.165.164:6878/ace/getstream?infohash=36e9427b55dd3574f9f40eab30aef8e0f34f477e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",BeIN SPORTS 3-Ace
+http://88.99.165.164:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6fa4552
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",BeIN SPORTS 4-Ace
+http://88.99.165.164:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c2009b6fa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",BeIN SPORTS 5-Tal
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:4D:06:6C&stream=620422&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 1-İP
