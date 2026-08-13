@@ -7863,3 +7863,15 @@ https://channels.forestgump.space/ch1/track/431
 #EXTVLCOPT:http-referrer=https://sportsbite.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://channels.forestgump.space/ch1/track/434
+#EXTINF:-1 group-title="TR" tvg-name="A Spor",A Spor (TR)
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1011
+#EXTINF:-1 group-title="TR" tvg-name="A Tv",A Tv (TR)
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1000
+#EXTINF:-1 group-title="TR" tvg-name="Now Tv",Now Tv (TR)
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1003
