@@ -148,9 +148,9 @@ https://netspor.tecostream.xyz/sm1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",Smart Spor 2
 https://netspor.tecostream.xyz/sm2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",Eurosport 1
-https://netspor.tecostream.xyz/es1.m3u8
+https://channels.forestgump.space/ch1/track/772
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",Eurosport 1
-https://netspor.tecostream.xyz/es2.m3u8
+https://channels.forestgump.space/ch1/track/772
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",Cbs Sport
 https://netspor.tecostream.xyz/cbcs.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Kral",Exxen
@@ -196,7 +196,7 @@ https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a4/Kanal_D_logo.png" group-title="Ulusal",Kanal D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Ulusal",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://channels.forestgump.space/ch1/track/1000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Ulusal",ATV-tulix
 https://trn03.tulix.tv/gt-atv-live/index.m3u8?token=10a5253f5ee4a368d5ffae3e332099c8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Ulusal",Show Tv
@@ -302,7 +302,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786367351/ei/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR Spor",beIN Sports Haber-talip
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:4D:06:6C&stream=620421&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="TR Spor",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+https://channels.forestgump.space/ch1/track/1011
 #EXTINF:-1 tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TR Spor",HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYTEuoR.png" group-title="TR Spor",Ekol Sports
@@ -350,7 +350,7 @@ http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/6968/index.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",BEİN SERİES 4
 http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/6971/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",FX
-https://saran-live.ercdn.net/fx/index.m3u8
+https://channels.forestgump.space/ch1/track/317
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",MOVİE SMART TÜRK
@@ -382,7 +382,7 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/47fcca43-c2ac-4ab8-ae92-2b007655be9f.png" group-title="Çocuk",TRT Eba TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003212.png" group-title="Çocuk",Cartoon Network
-http://65.108.239.207:80/cartoonnetwork/index.m3u8
+https://channels.forestgump.space/ch1/track/339
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",NATIONAL GEOGRAPHIC
 https://tr.livev.xyz/geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",NATIONAL GEOGRAPHIC WILD
@@ -2226,15 +2226,15 @@ https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTkiLCJ0c
 #EXTINF:-1 tvg-id="18-plus-18-alt19" tvg-name="18+ (Player-20)-WW" group-title="TV247",18+ (Player-20)-WW
 https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MjAiLCJ0cyI6MTc4NjU3MTA5MjU0MH0=
 #EXTINF:-1 tvg-name="beIN Sports 1" group-title="Spor",beIN Sports 1
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//telegramardaspor/tracks-v1a1/mono.m3u8
+https://channels.forestgump.space/ch1/track/712
 #EXTINF:-1 tvg-name="beIN Sports 2" group-title="Spor",beIN Sports 2
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
+https://channels.forestgump.space/ch1/track/713
 #EXTINF:-1 tvg-name="beIN Sports 3" group-title="Spor",beIN Sports 3
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//bein3/tracks-v1a1/mono.m3u8
+https://channels.forestgump.space/ch1/track/714
 #EXTINF:-1 tvg-name="beIN Sports 4" group-title="Spor",beIN Sports 4
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
+https://channels.forestgump.space/ch1/track/67
 #EXTINF:-1 tvg-name="beIN Sports 5" group-title="Spor",beIN Sports 5
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//bein5/tracks-v1a1/mono.m3u8
+https://channels.forestgump.space/ch1/track/1010
 #EXTINF:-1 tvg-name="beIN Sports Max 1" group-title="Spor",beIN Sports Max 1
 https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//trtspor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="beIN Sports Max 2" group-title="Spor",beIN Sports Max 2
@@ -2244,7 +2244,7 @@ https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s
 #EXTINF:-1 tvg-name="S Sport 2" group-title="Spor",S Sport 2
 https://ronaldo.magnitude.workers.dev/?url=https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Spor",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+https://channels.forestgump.space/ch1/track/1011
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",HİSTORY
 https://tr.livev.xyz/hist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",BBC EARTH
@@ -4715,3 +4715,3039 @@ https://channels.forestgump.space/ch1/track/433
 #EXTVLCOPT:http-referrer=https://sportsbite.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://channels.forestgump.space/ch1/track/435
+#EXTINF:-1 group-title="USA" tvg-name="ABC",ABC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/51
+#EXTINF:-1 group-title="USA" tvg-name="AHC American Heroes Channel",AHC American Heroes Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/206
+#EXTINF:-1 group-title="USA" tvg-name="Antenna TV",Antenna TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/283
+#EXTINF:-1 group-title="USA" tvg-name="A&E",A&E
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/302
+#EXTINF:-1 group-title="USA" tvg-name="AMC",AMC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/303
+#EXTINF:-1 group-title="USA" tvg-name="Animal Planet",Animal Planet
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/304
+#EXTINF:-1 group-title="Malaysia" tvg-name="Astro SuperSport 1",Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/123
+#EXTINF:-1 group-title="Malaysia" tvg-name="Astro SuperSport 2",Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/124
+#EXTINF:-1 group-title="Malaysia" tvg-name="Astro SuperSport 3",Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/125
+#EXTINF:-1 group-title="Malaysia" tvg-name="Astro SuperSport 4",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/126
+#EXTINF:-1 group-title="Bosnia" tvg-name="Arena Sport 1 Premium",Arena Sport 1 Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/134
+#EXTINF:-1 group-title="Bosnia" tvg-name="Arena Sport 2 Premium",Arena Sport 2 Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/135
+#EXTINF:-1 group-title="Bosnia" tvg-name="Arena Sport 3 Premium",Arena Sport 3 Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/139
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 1",Arena Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/429
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 2",Arena Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/430
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 3",Arena Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/431
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 4",Arena Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/581
+#EXTINF:-1 group-title="Qatar" tvg-name="Al Kass One",Al Kass One
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/781
+#EXTINF:-1 group-title="Qatar" tvg-name="Al Kass Two",Al Kass Two
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/782
+#EXTINF:-1 group-title="Qatar" tvg-name="Al Kass Three",Al Kass Three
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/783
+#EXTINF:-1 group-title="Qatar" tvg-name="Al Kass Four",Al Kass Four
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/784
+#EXTINF:-1 group-title="UAE" tvg-name="Abu Dhabi Sports 1",Abu Dhabi Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/600
+#EXTINF:-1 group-title="UAE" tvg-name="Abu Dhabi Sports 2",Abu Dhabi Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/601
+#EXTINF:-1 group-title="UAE" tvg-name="Abu Dhabi Sports 1 Premium",Abu Dhabi Sports 1 Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/609
+#EXTINF:-1 group-title="UAE" tvg-name="Abu Dhabi Sports 2 Premium",Abu Dhabi Sports 2 Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/610
+#EXTINF:-1 group-title="Malaysia" tvg-name="Astro Cricket",Astro Cricket
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/370
+#EXTINF:-1 group-title="Spain" tvg-name="Antena 3",Antena 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/531
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport Tenis",Arena Sport Tenis
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/612
+#EXTINF:-1 group-title="USA" tvg-name="ACC Network",ACC Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/664
+#EXTINF:-1 group-title="USA" tvg-name="Adult Swim",Adult Swim
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/295
+#EXTINF:-1 group-title="Pakistan" tvg-name="A Sports",A Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/269
+#EXTINF:-1 group-title="Portugal" tvg-name="AXN Movies",AXN Movies
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/717
+#EXTINF:-1 group-title="Germany" tvg-name="Arte",Arte
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/725
+#EXTINF:-1 group-title="USA" tvg-name="AXS TV",AXS TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/742
+#EXTINF:-1 group-title="USA" tvg-name="ABC NY",ABC NY
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/766
+#EXTINF:-1 group-title="Mexico" tvg-name="Azteca 7",Azteca 7
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/844
+#EXTINF:-1 group-title="USA" tvg-name="Altitude Sports",Altitude Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/923
+#EXTINF:-1 group-title="Mexico" tvg-name="Azteca Uno",Azteca Uno
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/934
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 5",Arena Sport 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/940
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 6",Arena Sport 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/941
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 7",Arena Sport 7
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/942
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 8",Arena Sport 8
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/943
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 9",Arena Sport 9
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/944
+#EXTINF:-1 group-title="Serbia" tvg-name="Arena Sport 10",Arena Sport 10
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/945
+#EXTINF:-1 group-title="France" tvg-name="Automoto",Automoto
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/961
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports MENA EN 1",beIN Sports MENA EN 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/61
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports MENA EN 2",beIN Sports MENA EN 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/90
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports 1 AR",beIN Sports 1 AR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/91
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports 2 AR",beIN Sports 2 AR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/92
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports 3 AR",beIN Sports 3 AR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/93
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports 4 AR",beIN Sports 4 AR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/94
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports 5 AR",beIN Sports 5 AR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/95
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports 6 AR",beIN Sports 6 AR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/96
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports 7 AR",beIN Sports 7 AR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/97
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports 8 AR",beIN Sports 8 AR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/98
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports 9 AR",beIN Sports 9 AR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/99
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports Xtra 1",beIN Sports Xtra 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/100
+#EXTINF:-1 group-title="France" tvg-name="beIN Sports MAX 4",beIN Sports MAX 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/494
+#EXTINF:-1 group-title="France" tvg-name="beIN Sports MAX 5",beIN Sports MAX 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/495
+#EXTINF:-1 group-title="France" tvg-name="beIN Sports MAX 6",beIN Sports MAX 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/496
+#EXTINF:-1 group-title="France" tvg-name="beIN Sports MAX 7",beIN Sports MAX 7
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/497
+#EXTINF:-1 group-title="France" tvg-name="beIN Sports MAX 8",beIN Sports MAX 8
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/498
+#EXTINF:-1 group-title="France" tvg-name="beIN Sports MAX 9",beIN Sports MAX 9
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/499
+#EXTINF:-1 group-title="France" tvg-name="beIN Sports MAX 10",beIN Sports MAX 10
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/500
+#EXTINF:-1 group-title="Qatar" tvg-name="beIN Sports HD",beIN Sports HD
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/578
+#EXTINF:-1 group-title="USA" tvg-name="beIN Sports",beIN Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/425
+#EXTINF:-1 group-title="USA" tvg-name="beIN Sports en Espanol",beIN Sports en Espanol
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/372
+#EXTINF:-1 group-title="Spain" tvg-name="Barca TV",Barca TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/522
+#EXTINF:-1 group-title="Portugal" tvg-name="Benfica TV",Benfica TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/380
+#EXTINF:-1 group-title="Kids" tvg-name="Boomerang",Boomerang
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/648
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 1",BNT 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/476
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 2",BNT 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/477
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 3",BNT 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/478
+#EXTINF:-1 group-title="Germany" tvg-name="BR Fernsehen",BR Fernsehen
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/737
+#EXTINF:-1 group-title="Bulgaria" tvg-name="bTV",bTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/479
+#EXTINF:-1 group-title="Bulgaria" tvg-name="bTV Action",bTV Action
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/481
+#EXTINF:-1 group-title="Bulgaria" tvg-name="bTV Lady",bTV Lady
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/484
+#EXTINF:-1 group-title="UK" tvg-name="BBC America",BBC America
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/305
+#EXTINF:-1 group-title="Other" tvg-name="Bet USA",Bet USA
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/306
+#EXTINF:-1 group-title="Other" tvg-name="Bravo USA",Bravo USA
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/307
+#EXTINF:-1 group-title="UK" tvg-name="BBC News",BBC News
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/349
+#EXTINF:-1 group-title="UK" tvg-name="BBC One",BBC One
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/356
+#EXTINF:-1 group-title="UK" tvg-name="BBC Two",BBC Two
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/357
+#EXTINF:-1 group-title="UK" tvg-name="BBC Three",BBC Three
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/358
+#EXTINF:-1 group-title="UK" tvg-name="BBC Four",BBC Four
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/359
+#EXTINF:-1 group-title="USA" tvg-name="Big Ten Network",Big Ten Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/397
+#EXTINF:-1 group-title="France" tvg-name="BFM TV",BFM TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/957
+#EXTINF:-1 group-title="Brazil" tvg-name="BandSports",BandSports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/275
+#EXTINF:-1 group-title="France" tvg-name="Canal+ MotoGP",Canal+ MotoGP
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/271
+#EXTINF:-1 group-title="France" tvg-name="Canal+ Formula 1",Canal+ Formula 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/273
+#EXTINF:-1 group-title="USA" tvg-name="CW PIX 11",CW PIX 11
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/280
+#EXTINF:-1 group-title="USA" tvg-name="CBS",CBS
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/52
+#EXTINF:-1 group-title="USA" tvg-name="Court TV",Court TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/281
+#EXTINF:-1 group-title="USA" tvg-name="CW",CW
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/300
+#EXTINF:-1 group-title="USA" tvg-name="CNBC",CNBC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/309
+#EXTINF:-1 group-title="USA" tvg-name="Comedy Central",Comedy Central
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/310
+#EXTINF:-1 group-title="USA" tvg-name="CNN",CNN
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/345
+#EXTINF:-1 group-title="USA" tvg-name="Cinemax",Cinemax
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/374
+#EXTINF:-1 group-title="Spain" tvg-name="Cuatro",Cuatro
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/535
+#EXTINF:-1 group-title="UK" tvg-name="Channel 4",Channel 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/354
+#EXTINF:-1 group-title="UK" tvg-name="Channel 5",Channel 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/355
+#EXTINF:-1 group-title="USA" tvg-name="CBS Sports Network",CBS Sports Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/308
+#EXTINF:-1 group-title="France" tvg-name="Canal+",Canal+
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/121
+#EXTINF:-1 group-title="France" tvg-name="Canal+ Sport",Canal+ Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/122
+#EXTINF:-1 group-title="France" tvg-name="Canal+ Foot",Canal+ Foot
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/463
+#EXTINF:-1 group-title="France" tvg-name="Canal+ Sport 360",Canal+ Sport 360
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/464
+#EXTINF:-1 group-title="Portugal" tvg-name="Canal 11",Canal 11
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/540
+#EXTINF:-1 group-title="Poland" tvg-name="Canal+ Sport 2",Canal+ Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/73
+#EXTINF:-1 group-title="Poland" tvg-name="Canal+ Sport 3",Canal+ Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/259
+#EXTINF:-1 group-title="Poland" tvg-name="Canal+ Sport 5",Canal+ Sport 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/75
+#EXTINF:-1 group-title="Poland" tvg-name="Canal+ Premium",Canal+ Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/566
+#EXTINF:-1 group-title="Poland" tvg-name="Canal+ Family",Canal+ Family
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/567
+#EXTINF:-1 group-title="Poland" tvg-name="Canal+ Seriale",Canal+ Seriale
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/570
+#EXTINF:-1 group-title="Africa" tvg-name="Canal+ Sport 1",Canal+ Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/486
+#EXTINF:-1 group-title="Africa" tvg-name="Canal+ Sport 4",Canal+ Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/489
+#EXTINF:-1 group-title="Denmark" tvg-name="Canal 9",Canal 9
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/805
+#EXTINF:-1 group-title="Brazil" tvg-name="Combate",Combate
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/89
+#EXTINF:-1 group-title="Greece" tvg-name="Cosmote Sport 1",Cosmote Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/622
+#EXTINF:-1 group-title="Greece" tvg-name="Cosmote Sport 2",Cosmote Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/623
+#EXTINF:-1 group-title="Greece" tvg-name="Cosmote Sport 3",Cosmote Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/624
+#EXTINF:-1 group-title="Greece" tvg-name="Cosmote Sport 4",Cosmote Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/625
+#EXTINF:-1 group-title="Greece" tvg-name="Cosmote Sport 5",Cosmote Sport 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/626
+#EXTINF:-1 group-title="Greece" tvg-name="Cosmote Sport 6",Cosmote Sport 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/627
+#EXTINF:-1 group-title="Greece" tvg-name="Cosmote Sport 7",Cosmote Sport 7
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/628
+#EXTINF:-1 group-title="Greece" tvg-name="Cosmote Sport 8",Cosmote Sport 8
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/629
+#EXTINF:-1 group-title="Greece" tvg-name="Cosmote Sport 9",Cosmote Sport 9
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/630
+#EXTINF:-1 group-title="Israel" tvg-name="Channel 9",Channel 9
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/546
+#EXTINF:-1 group-title="Israel" tvg-name="Channel 10",Channel 10
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/547
+#EXTINF:-1 group-title="Israel" tvg-name="Channel 11",Channel 11
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/548
+#EXTINF:-1 group-title="Israel" tvg-name="Channel 12",Channel 12
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/549
+#EXTINF:-1 group-title="Israel" tvg-name="Channel 13",Channel 13
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/551
+#EXTINF:-1 group-title="Israel" tvg-name="Channel 14",Channel 14
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/552
+#EXTINF:-1 group-title="Sweden" tvg-name="C More First",C More First
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/812
+#EXTINF:-1 group-title="Sweden" tvg-name="C More Hits",C More Hits
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/813
+#EXTINF:-1 group-title="Sweden" tvg-name="C More Series",C More Series
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/814
+#EXTINF:-1 group-title="USA" tvg-name="Cozi TV",Cozi TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/748
+#EXTINF:-1 group-title="USA" tvg-name="CMT",CMT
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/647
+#EXTINF:-1 group-title="Canada" tvg-name="CTV",CTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/602
+#EXTINF:-1 group-title="Canada" tvg-name="CTV 2",CTV 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/838
+#EXTINF:-1 group-title="USA" tvg-name="Crime + Investigation",Crime + Investigation
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/669
+#EXTINF:-1 group-title="USA" tvg-name="Comet",Comet
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/696
+#EXTINF:-1 group-title="USA" tvg-name="Cooking Channel",Cooking Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/697
+#EXTINF:-1 group-title="USA" tvg-name="Cleo TV",Cleo TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/715
+#EXTINF:-1 group-title="USA" tvg-name="C-SPAN 1",C-SPAN 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/750
+#EXTINF:-1 group-title="USA" tvg-name="CBS NY",CBS NY
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/767
+#EXTINF:-1 group-title="USA" tvg-name="Chicago Sports Network",Chicago Sports Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/776
+#EXTINF:-1 group-title="Canada" tvg-name="CityTV",CityTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/831
+#EXTINF:-1 group-title="Canada" tvg-name="CBC",CBC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/832
+#EXTINF:-1 group-title="Mexico" tvg-name="Claro Sports",Claro Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/933
+#EXTINF:-1 group-title="Mexico" tvg-name="Canal 5",Canal 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/936
+#EXTINF:-1 group-title="France" tvg-name="C8",C8
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/956
+#EXTINF:-1 group-title="France" tvg-name="CNews",CNews
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/964
+#EXTINF:-1 group-title="Czech Republic" tvg-name="CT Sport",CT Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1033
+#EXTINF:-1 group-title="USA" tvg-name="CBS Sports Golazo",CBS Sports Golazo
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/910
+#EXTINF:-1 group-title="Portugal" tvg-name="CMTV",CMTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/790
+#EXTINF:-1 group-title="Cyprus" tvg-name="Cytavision Sports 1",Cytavision Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/911
+#EXTINF:-1 group-title="Cyprus" tvg-name="Cytavision Sports 2",Cytavision Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/912
+#EXTINF:-1 group-title="Cyprus" tvg-name="Cytavision Sports 3",Cytavision Sports 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/913
+#EXTINF:-1 group-title="Cyprus" tvg-name="Cytavision Sports 4",Cytavision Sports 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/914
+#EXTINF:-1 group-title="Cyprus" tvg-name="Cytavision Sports 5",Cytavision Sports 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/915
+#EXTINF:-1 group-title="Cyprus" tvg-name="Cytavision Sports 6",Cytavision Sports 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/916
+#EXTINF:-1 group-title="Cyprus" tvg-name="Cytavision Sports 7",Cytavision Sports 7
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/917
+#EXTINF:-1 group-title="UK" tvg-name="DAZN 1",DAZN 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/230
+#EXTINF:-1 group-title="Canada" tvg-name="Discovery Velocity",Discovery Velocity
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/285
+#EXTINF:-1 group-title="Germany" tvg-name="DAZN 2",DAZN 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/427
+#EXTINF:-1 group-title="Spain" tvg-name="DAZN 3",DAZN 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/447
+#EXTINF:-1 group-title="Spain" tvg-name="DAZN 4",DAZN 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/448
+#EXTINF:-1 group-title="Spain" tvg-name="DAZN F1",DAZN F1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/537
+#EXTINF:-1 group-title="Spain" tvg-name="DAZN LaLiga",DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/538
+#EXTINF:-1 group-title="Portugal" tvg-name="DAZN Portugal",DAZN Portugal
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/918
+#EXTINF:-1 group-title="Denmark" tvg-name="DR1",DR1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/801
+#EXTINF:-1 group-title="Denmark" tvg-name="DR2",DR2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/802
+#EXTINF:-1 group-title="Romania" tvg-name="Digi Sport 1",Digi Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/400
+#EXTINF:-1 group-title="Romania" tvg-name="Digi Sport 2",Digi Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/401
+#EXTINF:-1 group-title="Romania" tvg-name="Digi Sport 3",Digi Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/402
+#EXTINF:-1 group-title="Romania" tvg-name="Digi Sport 4",Digi Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/403
+#EXTINF:-1 group-title="Bulgaria" tvg-name="Diema Sport",Diema Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/465
+#EXTINF:-1 group-title="Bulgaria" tvg-name="Diema Sport 2",Diema Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/466
+#EXTINF:-1 group-title="Bulgaria" tvg-name="Diema Sport 3",Diema Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/467
+#EXTINF:-1 group-title="Bulgaria" tvg-name="Diema",Diema
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/482
+#EXTINF:-1 group-title="Bulgaria" tvg-name="Diema Family",Diema Family
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/485
+#EXTINF:-1 group-title="UAE" tvg-name="Dubai Sports 1",Dubai Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/604
+#EXTINF:-1 group-title="UAE" tvg-name="Dubai Sports 2",Dubai Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/605
+#EXTINF:-1 group-title="UAE" tvg-name="Dubai Sports 3",Dubai Sports 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/606
+#EXTINF:-1 group-title="UAE" tvg-name="Dubai Racing 2",Dubai Racing 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/608
+#EXTINF:-1 group-title="South Africa" tvg-name="Mzansi Magic",Mzansi Magic
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/786
+#EXTINF:-1 group-title="South Africa" tvg-name="M-Net",M-Net
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/827
+#EXTINF:-1 group-title="South Africa" tvg-name="kykNET",kykNET
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/828
+#EXTINF:-1 group-title="Italy" tvg-name="DAZN Zona",DAZN Zona
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/877
+#EXTINF:-1 group-title="USA" tvg-name="Discovery Life",Discovery Life
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/311
+#EXTINF:-1 group-title="USA" tvg-name="Disney Channel",Disney Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/312
+#EXTINF:-1 group-title="USA" tvg-name="Discovery Channel",Discovery Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/313
+#EXTINF:-1 group-title="USA" tvg-name="Discovery Family",Discovery Family
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/657
+#EXTINF:-1 group-title="USA" tvg-name="Disney XD",Disney XD
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/314
+#EXTINF:-1 group-title="USA" tvg-name="Destination America",Destination America
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/651
+#EXTINF:-1 group-title="USA" tvg-name="Disney Jr",Disney Jr
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/652
+#EXTINF:-1 group-title="UK" tvg-name="Dave",Dave
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/348
+#EXTINF:-1 group-title="USA" tvg-name="ESPN",ESPN
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/44
+#EXTINF:-1 group-title="USA" tvg-name="ESPN 2",ESPN 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/45
+#EXTINF:-1 group-title="USA" tvg-name="ESPNU",ESPNU
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/316
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN 1",ESPN 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/379
+#EXTINF:-1 group-title="Poland" tvg-name="Eleven Sports 1",Eleven Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/71
+#EXTINF:-1 group-title="Poland" tvg-name="Eleven Sports 2",Eleven Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/72
+#EXTINF:-1 group-title="Poland" tvg-name="Eleven Sports 3",Eleven Sports 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/428
+#EXTINF:-1 group-title="Portugal" tvg-name="Eleven Sports 4",Eleven Sports 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/458
+#EXTINF:-1 group-title="Portugal" tvg-name="Eleven Sports 5",Eleven Sports 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/459
+#EXTINF:-1 group-title="Bulgaria" tvg-name="Eurosport 2",Eurosport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/42
+#EXTINF:-1 group-title="Argentina" tvg-name="ESPN Premium",ESPN Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/387
+#EXTINF:-1 group-title="Brazil" tvg-name="ESPN Brasil",ESPN Brasil
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/81
+#EXTINF:-1 group-title="Brazil" tvg-name="ESPN 2 Brasil",ESPN 2 Brasil
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/82
+#EXTINF:-1 group-title="Brazil" tvg-name="ESPN 3 Brasil",ESPN 3 Brasil
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/83
+#EXTINF:-1 group-title="Brazil" tvg-name="ESPN 4 Brasil",ESPN 4 Brasil
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/85
+#EXTINF:-1 group-title="Argentina" tvg-name="ESPN Argentina",ESPN Argentina
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/149
+#EXTINF:-1 group-title="Argentina" tvg-name="ESPN 2 Argentina",ESPN 2 Argentina
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/150
+#EXTINF:-1 group-title="USA" tvg-name="ESPN Deportes",ESPN Deportes
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/375
+#EXTINF:-1 group-title="USA" tvg-name="ESPNews",ESPNews
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/288
+#EXTINF:-1 group-title="USA" tvg-name="E! Entertainment",E! Entertainment
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/315
+#EXTINF:-1 group-title="UK" tvg-name="E4",E4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/363
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN 3",ESPN 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/888
+#EXTINF:-1 group-title="Greece" tvg-name="ERT 1",ERT 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/774
+#EXTINF:-1 group-title="Argentina" tvg-name="ESPN 3 Argentina",ESPN 3 Argentina
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/798
+#EXTINF:-1 group-title="Mexico" tvg-name="ESPN 4",ESPN 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/928
+#EXTINF:-1 group-title="USA" tvg-name="Fuse TV",Fuse TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/279
+#EXTINF:-1 group-title="USA" tvg-name="Fox Sports 1",Fox Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/39
+#EXTINF:-1 group-title="USA" tvg-name="Fox Sports 2",Fox Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/758
+#EXTINF:-1 group-title="USA" tvg-name="Fox Soccer Plus",Fox Soccer Plus
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/756
+#EXTINF:-1 group-title="Australia" tvg-name="Fox Cricket",Fox Cricket
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/369
+#EXTINF:-1 group-title="USA" tvg-name="Fox Deportes",Fox Deportes
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/643
+#EXTINF:-1 group-title="Australia" tvg-name="Fox Sports 502",Fox Sports 502
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/820
+#EXTINF:-1 group-title="Australia" tvg-name="Fox Sports 503",Fox Sports 503
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/821
+#EXTINF:-1 group-title="Australia" tvg-name="Fox Sports 504",Fox Sports 504
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/822
+#EXTINF:-1 group-title="Australia" tvg-name="Fox Sports 505",Fox Sports 505
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/823
+#EXTINF:-1 group-title="Australia" tvg-name="Fox Sports 506",Fox Sports 506
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/824
+#EXTINF:-1 group-title="Australia" tvg-name="Fox Sports 507",Fox Sports 507
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/825
+#EXTINF:-1 group-title="Mexico" tvg-name="Fox Sports 3",Fox Sports 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/931
+#EXTINF:-1 group-title="Argentina" tvg-name="Fox Sports",Fox Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/787
+#EXTINF:-1 group-title="Mexico" tvg-name="Fox Sports Premium",Fox Sports Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/830
+#EXTINF:-1 group-title="Poland" tvg-name="FilmBox Premium",FilmBox Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/568
+#EXTINF:-1 group-title="USA" tvg-name="Fight Network",Fight Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/757
+#EXTINF:-1 group-title="USA" tvg-name="Fox Business",Fox Business
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/297
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FOX HD",FOX HD
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/483
+#EXTINF:-1 group-title="USA" tvg-name="FOX",FOX
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/54
+#EXTINF:-1 group-title="USA" tvg-name="FXX",FXX
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/298
+#EXTINF:-1 group-title="USA" tvg-name="Freeform",Freeform
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/301
+#EXTINF:-1 group-title="USA" tvg-name="Fox News",Fox News
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/347
+#EXTINF:-1 group-title="USA" tvg-name="FX Movie Channel",FX Movie Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/381
+#EXTINF:-1 group-title="USA" tvg-name="FYI",FYI
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/665
+#EXTINF:-1 group-title="UK" tvg-name="Film4",Film4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/688
+#EXTINF:-1 group-title="Entertainment" tvg-name="Fashion TV",Fashion TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/744
+#EXTINF:-1 group-title="USA" tvg-name="FETV",FETV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/751
+#EXTINF:-1 group-title="USA" tvg-name="FOX NY",FOX NY
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/768
+#EXTINF:-1 group-title="USA" tvg-name="Fox Weather",Fox Weather
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/775
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Arizona",FanDuel SN Arizona
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/890
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Detroit",FanDuel SN Detroit
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/891
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Florida",FanDuel SN Florida
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/892
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Great Lakes",FanDuel SN Great Lakes
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/893
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Indiana",FanDuel SN Indiana
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/894
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Kansas City",FanDuel SN Kansas City
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/895
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Midwest",FanDuel SN Midwest
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/896
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN New Orleans",FanDuel SN New Orleans
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/897
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN North",FanDuel SN North
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/898
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Ohio",FanDuel SN Ohio
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/899
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Oklahoma",FanDuel SN Oklahoma
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/900
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN SoCal",FanDuel SN SoCal
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/902
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN South",FanDuel SN South
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/903
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Southeast",FanDuel SN Southeast
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/904
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Sun",FanDuel SN Sun
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/905
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN West",FanDuel SN West
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/906
+#EXTINF:-1 group-title="USA" tvg-name="FanDuel SN Wisconsin",FanDuel SN Wisconsin
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/907
+#EXTINF:-1 group-title="France" tvg-name="France 2",France 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/950
+#EXTINF:-1 group-title="France" tvg-name="France 3",France 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/951
+#EXTINF:-1 group-title="France" tvg-name="France 4",France 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/952
+#EXTINF:-1 group-title="France" tvg-name="France 5",France 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/953
+#EXTINF:-1 group-title="Spain" tvg-name="Gol Play",Gol Play
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/530
+#EXTINF:-1 group-title="USA" tvg-name="Golf Channel",Golf Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/318
+#EXTINF:-1 group-title="USA" tvg-name="Game Show Network",Game Show Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/319
+#EXTINF:-1 group-title="USA" tvg-name="GolTV",GolTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/597
+#EXTINF:-1 group-title="UK" tvg-name="Gold",Gold
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/687
+#EXTINF:-1 group-title="USA" tvg-name="Great American Family",Great American Family
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/699
+#EXTINF:-1 group-title="USA" tvg-name="Galavision",Galavision
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/743
+#EXTINF:-1 group-title="USA" tvg-name="Grit",Grit
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/752
+#EXTINF:-1 group-title="Brazil" tvg-name="Globo SP",Globo SP
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/760
+#EXTINF:-1 group-title="Brazil" tvg-name="Globo Rio",Globo Rio
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/761
+#EXTINF:-1 group-title="Canada" tvg-name="Global",Global
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/836
+#EXTINF:-1 group-title="USA" tvg-name="Hallmark Channel",Hallmark Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/320
+#EXTINF:-1 group-title="USA" tvg-name="Hallmark Movies & Mysteries",Hallmark Movies & Mysteries
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/296
+#EXTINF:-1 group-title="USA" tvg-name="Heroes & Icons",Heroes & Icons
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/282
+#EXTINF:-1 group-title="USA" tvg-name="HBO",HBO
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/321
+#EXTINF:-1 group-title="USA" tvg-name="HBO 2",HBO 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/689
+#EXTINF:-1 group-title="USA" tvg-name="HBO Comedy",HBO Comedy
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/690
+#EXTINF:-1 group-title="USA" tvg-name="HBO Family",HBO Family
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/691
+#EXTINF:-1 group-title="USA" tvg-name="HBO Latino",HBO Latino
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/692
+#EXTINF:-1 group-title="USA" tvg-name="HBO Signature",HBO Signature
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/693
+#EXTINF:-1 group-title="USA" tvg-name="HBO Zone",HBO Zone
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/694
+#EXTINF:-1 group-title="USA" tvg-name="History",History
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/322
+#EXTINF:-1 group-title="USA" tvg-name="HLN",HLN
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/323
+#EXTINF:-1 group-title="USA" tvg-name="HGTV",HGTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/382
+#EXTINF:-1 group-title="Serbia" tvg-name="Happy TV",Happy TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/846
+#EXTINF:-1 group-title="Israel" tvg-name="HOT3",HOT3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/553
+#EXTINF:-1 group-title="UK" tvg-name="ITV 1",ITV 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/350
+#EXTINF:-1 group-title="UK" tvg-name="ITV 2",ITV 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/351
+#EXTINF:-1 group-title="UK" tvg-name="ITV 3",ITV 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/352
+#EXTINF:-1 group-title="UK" tvg-name="ITV 4",ITV 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/353
+#EXTINF:-1 group-title="UK" tvg-name="ITVBe",ITVBe
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/876
+#EXTINF:-1 group-title="Italy" tvg-name="Italia 1",Italia 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/854
+#EXTINF:-1 group-title="USA" tvg-name="Investigation Discovery",Investigation Discovery
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/324
+#EXTINF:-1 group-title="USA" tvg-name="ION",ION
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/325
+#EXTINF:-1 group-title="USA" tvg-name="IFC",IFC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/656
+#EXTINF:-1 group-title="Denmark" tvg-name="Kanal 4",Kanal 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/803
+#EXTINF:-1 group-title="Denmark" tvg-name="Kanal 5",Kanal 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/804
+#EXTINF:-1 group-title="Germany" tvg-name="kabel eins",kabel eins
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/731
+#EXTINF:-1 group-title="UK" tvg-name="LaLiga TV",LaLiga TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/276
+#EXTINF:-1 group-title="USA" tvg-name="Law & Crime Network",Law & Crime Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/278
+#EXTINF:-1 group-title="Spain" tvg-name="LaLiga SmartBank",LaLiga SmartBank
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/539
+#EXTINF:-1 group-title="France" tvg-name="L'Equipe",L'Equipe
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/645
+#EXTINF:-1 group-title="Spain" tvg-name="La Sexta",La Sexta
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/534
+#EXTINF:-1 group-title="UK" tvg-name="LFCTV",LFCTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/826
+#EXTINF:-1 group-title="USA" tvg-name="Logo TV",Logo TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/849
+#EXTINF:-1 group-title="Mexico" tvg-name="Las Estrellas",Las Estrellas
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/924
+#EXTINF:-1 group-title="USA" tvg-name="Lifetime",Lifetime
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/326
+#EXTINF:-1 group-title="USA" tvg-name="Lifetime Movies",Lifetime Movies
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/389
+#EXTINF:-1 group-title="Italy" tvg-name="LA7",LA7
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/855
+#EXTINF:-1 group-title="Italy" tvg-name="LA7d",LA7d
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/856
+#EXTINF:-1 group-title="Russia" tvg-name="Match Football 1",Match Football 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/136
+#EXTINF:-1 group-title="Russia" tvg-name="Match Football 2",Match Football 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/137
+#EXTINF:-1 group-title="Russia" tvg-name="Match Football 3",Match Football 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/138
+#EXTINF:-1 group-title="Russia" tvg-name="Match Premier",Match Premier
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/573
+#EXTINF:-1 group-title="Russia" tvg-name="Match TV",Match TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/127
+#EXTINF:-1 group-title="Russia" tvg-name="Match Boec",Match Boec
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/395
+#EXTINF:-1 group-title="Spain" tvg-name="Movistar LaLiga",Movistar LaLiga
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/84
+#EXTINF:-1 group-title="Spain" tvg-name="Movistar Champions League",Movistar Champions League
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/435
+#EXTINF:-1 group-title="Spain" tvg-name="Movistar Deportes 4",Movistar Deportes 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/436
+#EXTINF:-1 group-title="Spain" tvg-name="Movistar Deportes 2",Movistar Deportes 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/438
+#EXTINF:-1 group-title="Spain" tvg-name="Movistar Deportes 3",Movistar Deportes 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/526
+#EXTINF:-1 group-title="Spain" tvg-name="Movistar Deportes 4 ALT",Movistar Deportes 4 ALT
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/527
+#EXTINF:-1 group-title="Spain" tvg-name="Movistar Golf",Movistar Golf
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/528
+#EXTINF:-1 group-title="Poland" tvg-name="Motowizja",Motowizja
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/563
+#EXTINF:-1 group-title="USA" tvg-name="MSG",MSG
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/765
+#EXTINF:-1 group-title="USA" tvg-name="MSNBC",MSNBC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/327
+#EXTINF:-1 group-title="USA" tvg-name="Magnolia Network",Magnolia Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/299
+#EXTINF:-1 group-title="Hungary" tvg-name="M4 Sport",M4 Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/265
+#EXTINF:-1 group-title="Spain" tvg-name="Movistar Supercopa",Movistar Supercopa
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/437
+#EXTINF:-1 group-title="Music" tvg-name="MTV",MTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/367
+#EXTINF:-1 group-title="UK" tvg-name="MUTV",MUTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/377
+#EXTINF:-1 group-title="France" tvg-name="M6",M6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/470
+#EXTINF:-1 group-title="USA" tvg-name="MAVTV",MAVTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/646
+#EXTINF:-1 group-title="Croatia" tvg-name="MAX Sport 1",MAX Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/779
+#EXTINF:-1 group-title="Croatia" tvg-name="MAX Sport 2",MAX Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/780
+#EXTINF:-1 group-title="USA" tvg-name="Marquee Sports Network",Marquee Sports Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/770
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX Sport 3",MAX Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/474
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX Sport 4",MAX Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/475
+#EXTINF:-1 group-title="USA" tvg-name="MLB Network",MLB Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/399
+#EXTINF:-1 group-title="USA" tvg-name="MASN",MASN
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/829
+#EXTINF:-1 group-title="USA" tvg-name="My9 TV",My9 TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/654
+#EXTINF:-1 group-title="USA" tvg-name="Motor Trend",Motor Trend
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/661
+#EXTINF:-1 group-title="USA" tvg-name="MeTV",MeTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/662
+#EXTINF:-1 group-title="Germany" tvg-name="MDR",MDR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/733
+#EXTINF:-1 group-title="Spain" tvg-name="Mundotoro TV",Mundotoro TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/749
+#EXTINF:-1 group-title="USA" tvg-name="Monumental Sports",Monumental Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/778
+#EXTINF:-1 group-title="USA" tvg-name="MGM+",MGM+
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/791
+#EXTINF:-1 group-title="USA" tvg-name="NBC10 Philadelphia",NBC10 Philadelphia
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/277
+#EXTINF:-1 group-title="USA" tvg-name="NHL Network",NHL Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/663
+#EXTINF:-1 group-title="USA" tvg-name="NFL RedZone",NFL RedZone
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/667
+#EXTINF:-1 group-title="Bulgaria" tvg-name="Nova Sport",Nova Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/468
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports 1",Nova Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/631
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports 2",Nova Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/632
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports 3",Nova Sports 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/633
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports 4",Nova Sports 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/634
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports 5",Nova Sports 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/635
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports 6",Nova Sports 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/636
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports PL",Nova Sports PL
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/599
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports Start",Nova Sports Start
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/637
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports Prime",Nova Sports Prime
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/638
+#EXTINF:-1 group-title="Greece" tvg-name="Nova Sports News",Nova Sports News
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/639
+#EXTINF:-1 group-title="USA" tvg-name="Nick Music",Nick Music
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/666
+#EXTINF:-1 group-title="USA" tvg-name="NESN",NESN
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/762
+#EXTINF:-1 group-title="USA" tvg-name="NBC",NBC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/53
+#EXTINF:-1 group-title="USA" tvg-name="NBA TV",NBA TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/404
+#EXTINF:-1 group-title="USA" tvg-name="NBC Sports Philadelphia",NBC Sports Philadelphia
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/777
+#EXTINF:-1 group-title="USA" tvg-name="NFL Network",NFL Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/405
+#EXTINF:-1 group-title="USA" tvg-name="NBC Sports Bay Area",NBC Sports Bay Area
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/753
+#EXTINF:-1 group-title="USA" tvg-name="NBC Sports Boston",NBC Sports Boston
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/754
+#EXTINF:-1 group-title="USA" tvg-name="NBC Sports California",NBC Sports California
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/755
+#EXTINF:-1 group-title="USA" tvg-name="NBC NY",NBC NY
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/769
+#EXTINF:-1 group-title="Bulgaria" tvg-name="Nova TV",Nova TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/480
+#EXTINF:-1 group-title="Serbia" tvg-name="Nova S",Nova S
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/847
+#EXTINF:-1 group-title="USA" tvg-name="NewsNation",NewsNation
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/292
+#EXTINF:-1 group-title="USA" tvg-name="National Geographic",National Geographic
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/328
+#EXTINF:-1 group-title="USA" tvg-name="Nick Jr",Nick Jr
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/329
+#EXTINF:-1 group-title="USA" tvg-name="Nickelodeon",Nickelodeon
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/330
+#EXTINF:-1 group-title="USA" tvg-name="Nicktoons",Nicktoons
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/649
+#EXTINF:-1 group-title="Germany" tvg-name="NDR",NDR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/736
+#EXTINF:-1 group-title="USA" tvg-name="Newsmax",Newsmax
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/613
+#EXTINF:-1 group-title="USA" tvg-name="Nat Geo Wild",Nat Geo Wild
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/745
+#EXTINF:-1 group-title="Canada" tvg-name="Noovo",Noovo
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/835
+#EXTINF:-1 group-title="USA" tvg-name="NBC Universo",NBC Universo
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/845
+#EXTINF:-1 group-title="Turkey" tvg-name="NOW TV",NOW TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1003
+#EXTINF:-1 group-title="Czech Republic" tvg-name="Nova Sport 1",Nova Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1021
+#EXTINF:-1 group-title="Czech Republic" tvg-name="Nova Sport 2",Nova Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1022
+#EXTINF:-1 group-title="Czech Republic" tvg-name="Nova Sport 3",Nova Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1023
+#EXTINF:-1 group-title="Czech Republic" tvg-name="Nova Sport 4",Nova Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1024
+#EXTINF:-1 group-title="Czech Republic" tvg-name="Nova Sport 5",Nova Sport 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1025
+#EXTINF:-1 group-title="Czech Republic" tvg-name="Nova Sport 6",Nova Sport 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1026
+#EXTINF:-1 group-title="Egypt" tvg-name="OnTime Sports",OnTime Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/611
+#EXTINF:-1 group-title="Israel" tvg-name="ONE HD 1",ONE HD 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/541
+#EXTINF:-1 group-title="Israel" tvg-name="ONE HD 2",ONE HD 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/542
+#EXTINF:-1 group-title="Romania" tvg-name="Orange Sport 1",Orange Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/439
+#EXTINF:-1 group-title="Romania" tvg-name="Orange Sport 2",Orange Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/440
+#EXTINF:-1 group-title="Romania" tvg-name="Orange Sport 3",Orange Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/441
+#EXTINF:-1 group-title="Romania" tvg-name="Orange Sport 4",Orange Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/442
+#EXTINF:-1 group-title="USA" tvg-name="OWN",OWN
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/331
+#EXTINF:-1 group-title="USA" tvg-name="Oxygen",Oxygen
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/332
+#EXTINF:-1 group-title="USA" tvg-name="Outdoor Channel",Outdoor Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/848
+#EXTINF:-1 group-title="Czech Republic" tvg-name="OnePlay Sport 1",OnePlay Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1027
+#EXTINF:-1 group-title="Czech Republic" tvg-name="OnePlay Sport 2",OnePlay Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1028
+#EXTINF:-1 group-title="Czech Republic" tvg-name="OnePlay Sport 3",OnePlay Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1029
+#EXTINF:-1 group-title="Poland" tvg-name="Polsat",Polsat
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/562
+#EXTINF:-1 group-title="Poland" tvg-name="Polsat Sport",Polsat Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/47
+#EXTINF:-1 group-title="Poland" tvg-name="Polsat Sport 2",Polsat Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/50
+#EXTINF:-1 group-title="Poland" tvg-name="Polsat Sport 3",Polsat Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/129
+#EXTINF:-1 group-title="Poland" tvg-name="Polsat News",Polsat News
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/443
+#EXTINF:-1 group-title="Poland" tvg-name="Polsat Film",Polsat Film
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/564
+#EXTINF:-1 group-title="Portugal" tvg-name="Porto Canal",Porto Canal
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/718
+#EXTINF:-1 group-title="Germany" tvg-name="ProSieben",ProSieben
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/730
+#EXTINF:-1 group-title="Ireland" tvg-name="Premier Sports 1",Premier Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/771
+#EXTINF:-1 group-title="Pakistan" tvg-name="PTV Sports",PTV Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/450
+#EXTINF:-1 group-title="Darts" tvg-name="PDC TV",PDC TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/43
+#EXTINF:-1 group-title="Brazil" tvg-name="Premiere",Premiere
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/88
+#EXTINF:-1 group-title="Romania" tvg-name="Prima Sport 1",Prima Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/583
+#EXTINF:-1 group-title="Romania" tvg-name="Prima Sport 2",Prima Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/584
+#EXTINF:-1 group-title="Romania" tvg-name="Prima Sport 3",Prima Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/585
+#EXTINF:-1 group-title="Romania" tvg-name="Prima Sport 4",Prima Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/586
+#EXTINF:-1 group-title="USA" tvg-name="Paramount Network",Paramount Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/334
+#EXTINF:-1 group-title="USA" tvg-name="Pop TV",Pop TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/653
+#EXTINF:-1 group-title="Ireland" tvg-name="Premier Sports 2",Premier Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/799
+#EXTINF:-1 group-title="Romania" tvg-name="Prima TV",Prima TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/843
+#EXTINF:-1 group-title="Czech Republic" tvg-name="Premier Sport 1",Premier Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1030
+#EXTINF:-1 group-title="Czech Republic" tvg-name="Premier Sport 2",Premier Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1031
+#EXTINF:-1 group-title="Czech Republic" tvg-name="Premier Sport",Premier Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/1032
+#EXTINF:-1 group-title="USA" tvg-name="PAC-12 Network",PAC-12 Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/287
+#EXTINF:-1 group-title="USA" tvg-name="PBS",PBS
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/210
+#EXTINF:-1 group-title="USA" tvg-name="Reelz",Reelz
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/293
+#EXTINF:-1 group-title="Ireland" tvg-name="RTE 1",RTE 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/364
+#EXTINF:-1 group-title="Ireland" tvg-name="RTE 2",RTE 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/365
+#EXTINF:-1 group-title="France" tvg-name="RMC Sport 1",RMC Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/119
+#EXTINF:-1 group-title="France" tvg-name="RMC Sport 2",RMC Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/120
+#EXTINF:-1 group-title="Portugal" tvg-name="RTP 1",RTP 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/719
+#EXTINF:-1 group-title="Portugal" tvg-name="RTP 2",RTP 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/720
+#EXTINF:-1 group-title="Portugal" tvg-name="RTP 3",RTP 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/721
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 1",RAI 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/850
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 2",RAI 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/851
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 3",RAI 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/852
+#EXTINF:-1 group-title="Italy" tvg-name="RAI 4",RAI 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/853
+#EXTINF:-1 group-title="Italy" tvg-name="RAI Sport",RAI Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/882
+#EXTINF:-1 group-title="Italy" tvg-name="RAI Premium",RAI Premium
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/858
+#EXTINF:-1 group-title="Spain" tvg-name="Real Madrid TV",Real Madrid TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/523
+#EXTINF:-1 group-title="Germany" tvg-name="RTL",RTL
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/740
+#EXTINF:-1 group-title="Canada" tvg-name="RDS 2",RDS 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/839
+#EXTINF:-1 group-title="Canada" tvg-name="RDS 2 ALT",RDS 2 ALT
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/840
+#EXTINF:-1 group-title="Canada" tvg-name="RDS Info",RDS Info
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/841
+#EXTINF:-1 group-title="Bulgaria" tvg-name="Ring",Ring
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/471
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL7",RTL7
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/390
+#EXTINF:-1 group-title="UK" tvg-name="Racing TV",Racing TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/555
+#EXTINF:-1 group-title="Motorsport" tvg-name="Rally TV",Rally TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/607
+#EXTINF:-1 group-title="USA" tvg-name="ROOT Sports NW",ROOT Sports NW
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/920
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Football",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/35
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports+",Sky Sports+
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/36
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Action",Sky Sports Action
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/37
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Main Event",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/38
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Tennis",Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/46
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Premier League",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/130
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports F1",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/60
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Cricket",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/65
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Golf",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/70
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport 1",Sky Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/240
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport 2",Sky Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/241
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport Golf",Sky Sport Golf
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/574
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/575
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport Tennis",Sky Sport Tennis
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/576
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport F1",Sky Sport F1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/577
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports News",Sky Sports News
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/366
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Mix",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/449
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport Top Event",Sky Sport Top Event
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/556
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport Mix",Sky Sport Mix
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/557
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport Bundesliga 1",Sky Sport Bundesliga 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/558
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport Austria",Sky Sport Austria
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/559
+#EXTINF:-1 group-title="USA" tvg-name="SNY",SNY
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/759
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport Max",Sky Sport Max
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/460
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport Uno",Sky Sport Uno
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/461
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport Arena",Sky Sport Arena
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/462
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Racing",Sky Sports Racing
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/554
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Uno",Sky Uno
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/881
+#EXTINF:-1 group-title="India" tvg-name="Sony TEN 1",Sony TEN 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/885
+#EXTINF:-1 group-title="India" tvg-name="Sony TEN 2",Sony TEN 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/886
+#EXTINF:-1 group-title="India" tvg-name="Sony TEN 3",Sony TEN 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/887
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport Bundesliga 2",Sky Sport Bundesliga 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/946
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport Bundesliga 3",Sky Sport Bundesliga 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/947
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport Bundesliga 4",Sky Sport Bundesliga 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/948
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport Bundesliga 3 ALT",Sky Sport Bundesliga 3 ALT
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/949
+#EXTINF:-1 group-title="USA" tvg-name="Spectrum SportsNet",Spectrum SportsNet
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/982
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport NZ 1",Sky Sport NZ 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/588
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport NZ 2",Sky Sport NZ 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/589
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport NZ 3",Sky Sport NZ 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/590
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport NZ 4",Sky Sport NZ 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/591
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport NZ 5",Sky Sport NZ 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/592
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport NZ 6",Sky Sport NZ 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/593
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport NZ 7",Sky Sport NZ 7
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/594
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport NZ 8",Sky Sport NZ 8
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/595
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport NZ 9",Sky Sport NZ 9
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/596
+#EXTINF:-1 group-title="New Zealand" tvg-name="Sky Sport Select",Sky Sport Select
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/587
+#EXTINF:-1 group-title="Portugal" tvg-name="Sport TV 1",Sport TV 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/49
+#EXTINF:-1 group-title="Portugal" tvg-name="Sport TV 2",Sport TV 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/74
+#EXTINF:-1 group-title="Portugal" tvg-name="Sport TV 4",Sport TV 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/289
+#EXTINF:-1 group-title="Portugal" tvg-name="Sport TV 3",Sport TV 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/454
+#EXTINF:-1 group-title="Portugal" tvg-name="Sport TV 5",Sport TV 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/290
+#EXTINF:-1 group-title="Portugal" tvg-name="Sport TV 6",Sport TV 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/291
+#EXTINF:-1 group-title="Portugal" tvg-name="SIC",SIC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/722
+#EXTINF:-1 group-title="USA" tvg-name="SEC Network",SEC Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/385
+#EXTINF:-1 group-title="Brazil" tvg-name="SporTV 1",SporTV 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/78
+#EXTINF:-1 group-title="Brazil" tvg-name="SporTV 2",SporTV 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/79
+#EXTINF:-1 group-title="Brazil" tvg-name="SporTV 3",SporTV 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/80
+#EXTINF:-1 group-title="Serbia" tvg-name="Sport Klub 1",Sport Klub 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/101
+#EXTINF:-1 group-title="Serbia" tvg-name="Sport Klub 2",Sport Klub 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/102
+#EXTINF:-1 group-title="Serbia" tvg-name="Sport Klub 3",Sport Klub 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/103
+#EXTINF:-1 group-title="Serbia" tvg-name="Sport Klub 4",Sport Klub 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/104
+#EXTINF:-1 group-title="Serbia" tvg-name="Sport Klub HD",Sport Klub HD
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/453
+#EXTINF:-1 group-title="Canada" tvg-name="Sportsnet Ontario",Sportsnet Ontario
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/406
+#EXTINF:-1 group-title="Canada" tvg-name="Sportsnet One",Sportsnet One
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/411
+#EXTINF:-1 group-title="Canada" tvg-name="Sportsnet West",Sportsnet West
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/407
+#EXTINF:-1 group-title="Canada" tvg-name="Sportsnet East",Sportsnet East
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/408
+#EXTINF:-1 group-title="Canada" tvg-name="Sportsnet 360",Sportsnet 360
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/409
+#EXTINF:-1 group-title="Canada" tvg-name="Sportsnet World",Sportsnet World
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/410
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Grandstand",SuperSport Grandstand
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/412
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport PSL",SuperSport PSL
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/413
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Premier League",SuperSport Premier League
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/414
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport LaLiga",SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/415
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Variety 1",SuperSport Variety 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/416
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Variety 2",SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/417
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Variety 3",SuperSport Variety 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/418
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Variety 4",SuperSport Variety 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/419
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Action",SuperSport Action
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/420
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Rugby",SuperSport Rugby
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/421
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Golf",SuperSport Golf
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/422
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Tennis",SuperSport Tennis
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/423
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Motorsport",SuperSport Motorsport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/424
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Football",SuperSport Football
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/56
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Cricket",SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/368
+#EXTINF:-1 group-title="South Africa" tvg-name="SuperSport Maximo",SuperSport Maximo
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/572
+#EXTINF:-1 group-title="Portugal" tvg-name="Sporting TV",Sporting TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/716
+#EXTINF:-1 group-title="Germany" tvg-name="Sportdigital Fussball",Sportdigital Fussball
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/571
+#EXTINF:-1 group-title="USA" tvg-name="Spectrum SportsNet LA",Spectrum SportsNet LA
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/764
+#EXTINF:-1 group-title="Germany" tvg-name="Sportdigital",Sportdigital
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/640
+#EXTINF:-1 group-title="Germany" tvg-name="Sport1",Sport1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/641
+#EXTINF:-1 group-title="UK" tvg-name="S4C",S4C
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/670
+#EXTINF:-1 group-title="Croatia" tvg-name="Sport Klub Golf",Sport Klub Golf
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/710
+#EXTINF:-1 group-title="Germany" tvg-name="SAT.1",SAT.1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/729
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Premiere",Sky Cinema Premiere
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/671
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Select",Sky Cinema Select
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/672
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Hits",Sky Cinema Hits
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/673
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Greats",Sky Cinema Greats
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/674
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Animation",Sky Cinema Animation
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/675
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Family",Sky Cinema Family
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/676
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Action",Sky Cinema Action
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/677
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/678
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Thriller",Sky Cinema Thriller
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/679
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Drama",Sky Cinema Drama
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/680
+#EXTINF:-1 group-title="UK" tvg-name="Sky Cinema Sci-Fi",Sky Cinema Sci-Fi
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/681
+#EXTINF:-1 group-title="USA" tvg-name="SHO xBET",SHO xBET
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/695
+#EXTINF:-1 group-title="Denmark" tvg-name="See",See
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/811
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Cinema Collection",Sky Cinema Collection
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/859
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Cinema Uno",Sky Cinema Uno
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/860
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Cinema Uno +24",Sky Cinema Uno +24
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/863
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Cinema Romance",Sky Cinema Romance
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/864
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Cinema Due +24",Sky Cinema Due +24
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/866
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Cinema Suspense",Sky Cinema Suspense
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/868
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport 24",Sky Sport 24
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/869
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport Calcio",Sky Sport Calcio
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/870
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Calcio 1",Sky Calcio 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/871
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Calcio 2",Sky Calcio 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/872
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Calcio 3",Sky Calcio 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/873
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Calcio 4",Sky Calcio 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/874
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Sport Basket",Sky Sport Basket
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/875
+#EXTINF:-1 group-title="Italy" tvg-name="Sky Serie",Sky Serie
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/880
+#EXTINF:-1 group-title="USA" tvg-name="CricLife",CricLife
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/284
+#EXTINF:-1 group-title="UK" tvg-name="Sky Showcase",Sky Showcase
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/682
+#EXTINF:-1 group-title="UK" tvg-name="Sky Arts",Sky Arts
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/683
+#EXTINF:-1 group-title="UK" tvg-name="Sky Comedy",Sky Comedy
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/684
+#EXTINF:-1 group-title="UK" tvg-name="Sky Crime",Sky Crime
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/685
+#EXTINF:-1 group-title="UK" tvg-name="Sky History",Sky History
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/686
+#EXTINF:-1 group-title="UK" tvg-name="Sky Max",Sky Max
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/708
+#EXTINF:-1 group-title="Saudi Arabia" tvg-name="SSC Sport 1",SSC Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/614
+#EXTINF:-1 group-title="Saudi Arabia" tvg-name="SSC Sport 2",SSC Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/615
+#EXTINF:-1 group-title="Saudi Arabia" tvg-name="SSC Sport 3",SSC Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/616
+#EXTINF:-1 group-title="Saudi Arabia" tvg-name="SSC Sport 4",SSC Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/617
+#EXTINF:-1 group-title="Saudi Arabia" tvg-name="SSC Sport 5",SSC Sport 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/618
+#EXTINF:-1 group-title="Saudi Arabia" tvg-name="SSC Sport Extra 1",SSC Sport Extra 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/619
+#EXTINF:-1 group-title="Saudi Arabia" tvg-name="SSC Sport Extra 2",SSC Sport Extra 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/620
+#EXTINF:-1 group-title="Saudi Arabia" tvg-name="SSC Sport Extra 3",SSC Sport Extra 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/621
+#EXTINF:-1 group-title="Israel" tvg-name="Sport 1",Sport 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/140
+#EXTINF:-1 group-title="Israel" tvg-name="Sport 2",Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/141
+#EXTINF:-1 group-title="Israel" tvg-name="Sport 3",Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/142
+#EXTINF:-1 group-title="Israel" tvg-name="Sport 4",Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/143
+#EXTINF:-1 group-title="Israel" tvg-name="Sport 5",Sport 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/144
+#EXTINF:-1 group-title="Israel" tvg-name="Sport 5+",Sport 5+
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/145
+#EXTINF:-1 group-title="Israel" tvg-name="Sport 5 Live",Sport 5 Live
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/146
+#EXTINF:-1 group-title="Israel" tvg-name="Sport 5 Star",Sport 5 Star
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/147
+#EXTINF:-1 group-title="Israel" tvg-name="Sport 5 Gold",Sport 5 Gold
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/148
+#EXTINF:-1 group-title="USA" tvg-name="Science Channel",Science Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/294
+#EXTINF:-1 group-title="USA" tvg-name="Showtime",Showtime
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/333
+#EXTINF:-1 group-title="USA" tvg-name="Starz",Starz
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/335
+#EXTINF:-1 group-title="UK" tvg-name="Sky Witness",Sky Witness
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/361
+#EXTINF:-1 group-title="Germany" tvg-name="sixx",sixx
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/732
+#EXTINF:-1 group-title="UK" tvg-name="Sky Atlantic",Sky Atlantic
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/362
+#EXTINF:-1 group-title="USA" tvg-name="Syfy",Syfy
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/373
+#EXTINF:-1 group-title="USA" tvg-name="Sundance TV",Sundance TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/658
+#EXTINF:-1 group-title="Germany" tvg-name="SWR",SWR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/735
+#EXTINF:-1 group-title="Germany" tvg-name="Super RTL",Super RTL
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/738
+#EXTINF:-1 group-title="Germany" tvg-name="SR Fernsehen",SR Fernsehen
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/739
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Golf ALT",Sky Sports Golf ALT
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/785
+#EXTINF:-1 group-title="USA" tvg-name="Smithsonian Channel",Smithsonian Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/603
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports F1 ALT",Sky Sports F1 ALT
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/274
+#EXTINF:-1 group-title="UK" tvg-name="Sky Sports Tennis ALT",Sky Sports Tennis ALT
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/884
+#EXTINF:-1 group-title="Netherlands" tvg-name="SBS6",SBS6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/883
+#EXTINF:-1 group-title="India" tvg-name="Star Sports",Star Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/267
+#EXTINF:-1 group-title="India" tvg-name="Star Sports Hindi",Star Sports Hindi
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/268
+#EXTINF:-1 group-title="USA" tvg-name="Showtime 2",Showtime 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/792
+#EXTINF:-1 group-title="USA" tvg-name="Showtime Showcase",Showtime Showcase
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/793
+#EXTINF:-1 group-title="USA" tvg-name="Showtime Extreme",Showtime Extreme
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/794
+#EXTINF:-1 group-title="USA" tvg-name="Showtime Family Zone",Showtime Family Zone
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/795
+#EXTINF:-1 group-title="USA" tvg-name="Showtime Next",Showtime Next
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/796
+#EXTINF:-1 group-title="USA" tvg-name="Showtime Women",Showtime Women
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/797
+#EXTINF:-1 group-title="USA" tvg-name="Space City Home Network",Space City Home Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/921
+#EXTINF:-1 group-title="USA" tvg-name="SportsNet Pittsburgh",SportsNet Pittsburgh
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/922
+#EXTINF:-1 group-title="UK" tvg-name="TNT Sports 1",TNT Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/31
+#EXTINF:-1 group-title="UK" tvg-name="TNT Sports 2",TNT Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/32
+#EXTINF:-1 group-title="UK" tvg-name="TNT Sports 3",TNT Sports 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/33
+#EXTINF:-1 group-title="UK" tvg-name="TNT Sports 4",TNT Sports 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/34
+#EXTINF:-1 group-title="Canada" tvg-name="TSN",TSN
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/111
+#EXTINF:-1 group-title="Canada" tvg-name="TSN 2",TSN 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/112
+#EXTINF:-1 group-title="Canada" tvg-name="TSN 3",TSN 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/113
+#EXTINF:-1 group-title="Canada" tvg-name="TSN 4",TSN 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/114
+#EXTINF:-1 group-title="Canada" tvg-name="TSN 5",TSN 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/115
+#EXTINF:-1 group-title="Poland" tvg-name="TVN",TVN
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/565
+#EXTINF:-1 group-title="Poland" tvg-name="TVN24",TVN24
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/444
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 1",TVP 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/560
+#EXTINF:-1 group-title="Poland" tvg-name="TVP 2",TVP 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/561
+#EXTINF:-1 group-title="Spain" tvg-name="Telecinco",Telecinco
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/532
+#EXTINF:-1 group-title="Spain" tvg-name="TVE La 1",TVE La 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/533
+#EXTINF:-1 group-title="Spain" tvg-name="TVE La 2",TVE La 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/536
+#EXTINF:-1 group-title="Portugal" tvg-name="TVI",TVI
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/723
+#EXTINF:-1 group-title="Portugal" tvg-name="TVI Reality",TVI Reality
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/724
+#EXTINF:-1 group-title="Spain" tvg-name="Teledeporte",Teledeporte
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/529
+#EXTINF:-1 group-title="Argentina" tvg-name="TYC Sports",TYC Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/746
+#EXTINF:-1 group-title="Poland" tvg-name="TVP Sport",TVP Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/128
+#EXTINF:-1 group-title="Brazil" tvg-name="TNT Brasil",TNT Brasil
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/87
+#EXTINF:-1 group-title="Argentina" tvg-name="TNT Sports",TNT Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/388
+#EXTINF:-1 group-title="USA" tvg-name="Tennis Channel",Tennis Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/40
+#EXTINF:-1 group-title="Pakistan" tvg-name="Ten Sports",Ten Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/741
+#EXTINF:-1 group-title="USA" tvg-name="TUDN",TUDN
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/66
+#EXTINF:-1 group-title="USA" tvg-name="Telemundo",Telemundo
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/131
+#EXTINF:-1 group-title="USA" tvg-name="TBS",TBS
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/336
+#EXTINF:-1 group-title="USA" tvg-name="TLC",TLC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/337
+#EXTINF:-1 group-title="USA" tvg-name="TNT",TNT
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/338
+#EXTINF:-1 group-title="France" tvg-name="TF1",TF1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/469
+#EXTINF:-1 group-title="Canada" tvg-name="TVA Sports 1",TVA Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/833
+#EXTINF:-1 group-title="Canada" tvg-name="TVA Sports 2",TVA Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/834
+#EXTINF:-1 group-title="Mexico" tvg-name="TVC Deportes",TVC Deportes
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/932
+#EXTINF:-1 group-title="USA" tvg-name="Travel Channel",Travel Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/340
+#EXTINF:-1 group-title="USA" tvg-name="truTV",truTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/341
+#EXTINF:-1 group-title="USA" tvg-name="TV Land",TV Land
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/342
+#EXTINF:-1 group-title="USA" tvg-name="TCM",TCM
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/644
+#EXTINF:-1 group-title="USA" tvg-name="TMC",TMC
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/698
+#EXTINF:-1 group-title="USA" tvg-name="Food Network",Food Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/384
+#EXTINF:-1 group-title="USA" tvg-name="Weather Channel",Weather Channel
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/394
+#EXTINF:-1 group-title="Poland" tvg-name="TVP Info",TVP Info
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/452
+#EXTINF:-1 group-title="USA" tvg-name="TeenNick",TeenNick
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/650
+#EXTINF:-1 group-title="USA" tvg-name="TV One",TV One
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/660
+#EXTINF:-1 group-title="Denmark" tvg-name="TV2 Bornholm",TV2 Bornholm
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/807
+#EXTINF:-1 group-title="Denmark" tvg-name="TV2 Sport X",TV2 Sport X
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/808
+#EXTINF:-1 group-title="Denmark" tvg-name="TV3 Sport",TV3 Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/809
+#EXTINF:-1 group-title="Denmark" tvg-name="TV2 Sport",TV2 Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/810
+#EXTINF:-1 group-title="Denmark" tvg-name="TV2",TV2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/817
+#EXTINF:-1 group-title="Denmark" tvg-name="TV2 Zulu",TV2 Zulu
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/818
+#EXTINF:-1 group-title="Denmark" tvg-name="TV3+",TV3+
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/819
+#EXTINF:-1 group-title="Canada" tvg-name="TVO",TVO
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/842
+#EXTINF:-1 group-title="Sweden" tvg-name="TV4 Hockey",TV4 Hockey
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/700
+#EXTINF:-1 group-title="Denmark" tvg-name="TV3 MAX",TV3 MAX
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/223
+#EXTINF:-1 group-title="Bangladesh" tvg-name="T Sports",T Sports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/270
+#EXTINF:-1 group-title="Sweden" tvg-name="TV4 Tennis",TV4 Tennis
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/701
+#EXTINF:-1 group-title="Sweden" tvg-name="TV4 Motor",TV4 Motor
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/702
+#EXTINF:-1 group-title="Sweden" tvg-name="TV4 Sport Live 4",TV4 Sport Live 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/703
+#EXTINF:-1 group-title="Sweden" tvg-name="TV4 Sport Live 4 ALT1",TV4 Sport Live 4 ALT1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/704
+#EXTINF:-1 group-title="Sweden" tvg-name="TV4 Sport Live 4 ALT2",TV4 Sport Live 4 ALT2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/705
+#EXTINF:-1 group-title="Sweden" tvg-name="TV4 Sport Live 4 ALT3",TV4 Sport Live 4 ALT3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/706
+#EXTINF:-1 group-title="Sweden" tvg-name="TV4 Sportkanalen",TV4 Sportkanalen
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/707
+#EXTINF:-1 group-title="Sweden" tvg-name="TV4 Football",TV4 Football
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/747
+#EXTINF:-1 group-title="Tennis" tvg-name="Tennis+ 10",Tennis+ 10
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/709
+#EXTINF:-1 group-title="Tennis" tvg-name="Tennis+ 12",Tennis+ 12
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/711
+#EXTINF:-1 group-title="Turkey" tvg-name="TRT Spor",TRT Spor
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/889
+#EXTINF:-1 group-title="USA" tvg-name="USA Network",USA Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/343
+#EXTINF:-1 group-title="USA" tvg-name="Universal Kids",Universal Kids
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/668
+#EXTINF:-1 group-title="USA" tvg-name="Univision",Univision
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/132
+#EXTINF:-1 group-title="USA" tvg-name="UniMas",UniMas
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/133
+#EXTINF:-1 group-title="UK" tvg-name="Viaplay Sports 1",Viaplay Sports 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/451
+#EXTINF:-1 group-title="UK" tvg-name="Viaplay Sports 2",Viaplay Sports 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/550
+#EXTINF:-1 group-title="Spain" tvg-name="Vamos",Vamos
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/521
+#EXTINF:-1 group-title="Sweden" tvg-name="V Film Premiere",V Film Premiere
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/815
+#EXTINF:-1 group-title="Sweden" tvg-name="V Film Family",V Film Family
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/816
+#EXTINF:-1 group-title="Hungary" tvg-name="Vodafone Sport",Vodafone Sport
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/260
+#EXTINF:-1 group-title="Sweden" tvg-name="V Sport Motor",V Sport Motor
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/272
+#EXTINF:-1 group-title="USA" tvg-name="VH1",VH1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/344
+#EXTINF:-1 group-title="Netherlands" tvg-name="Veronica",Veronica
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/378
+#EXTINF:-1 group-title="Uruguay" tvg-name="VTV+",VTV+
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/391
+#EXTINF:-1 group-title="USA" tvg-name="Vice TV",Vice TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/659
+#EXTINF:-1 group-title="USA" tvg-name="Willow Cricket",Willow Cricket
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/346
+#EXTINF:-1 group-title="USA" tvg-name="Willow Xtra",Willow Xtra
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/598
+#EXTINF:-1 group-title="USA" tvg-name="WWE Network",WWE Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/376
+#EXTINF:-1 group-title="Colombia" tvg-name="Win Sports+",Win Sports+
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/392
+#EXTINF:-1 group-title="USA" tvg-name="WeTV",WeTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/655
+#EXTINF:-1 group-title="Germany" tvg-name="WDR",WDR
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/734
+#EXTINF:-1 group-title="Canada" tvg-name="YTV",YTV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/286
+#EXTINF:-1 group-title="USA" tvg-name="YES Network",YES Network
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/763
+#EXTINF:-1 group-title="Israel" tvg-name="Yes Movies Action",Yes Movies Action
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/543
+#EXTINF:-1 group-title="Israel" tvg-name="Yes Movies Kids",Yes Movies Kids
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/544
+#EXTINF:-1 group-title="Israel" tvg-name="Yes Movies Comedy",Yes Movies Comedy
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/545
+#EXTINF:-1 group-title="Canada" tvg-name="Yes TV",Yes TV
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/837
+#EXTINF:-1 group-title="Netherlands" tvg-name="Ziggo Sport 6",Ziggo Sport 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/393
+#EXTINF:-1 group-title="Netherlands" tvg-name="Ziggo Sport 2",Ziggo Sport 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/398
+#EXTINF:-1 group-title="Netherlands" tvg-name="Ziggo Sport 3",Ziggo Sport 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/919
+#EXTINF:-1 group-title="Netherlands" tvg-name="Ziggo Sport 4",Ziggo Sport 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/396
+#EXTINF:-1 group-title="Netherlands" tvg-name="Ziggo Sport 5",Ziggo Sport 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/383
+#EXTINF:-1 group-title="Netherlands" tvg-name="Ziggo Sport 6 ALT",Ziggo Sport 6 ALT
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/901
+#EXTINF:-1 group-title="Germany" tvg-name="ZDF",ZDF
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/727
+#EXTINF:-1 group-title="Germany" tvg-name="ZDFinfo",ZDFinfo
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/728
+#EXTINF:-1 group-title="France" tvg-name="6ter",6ter
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/963
+#EXTINF:-1 group-title="Italy" tvg-name="20 Mediaset",20 Mediaset
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/857
+#EXTINF:-1 group-title="Denmark" tvg-name="6'eren",6'eren
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/800
+#EXTINF:-1 group-title="UK" tvg-name="5 USA",5 USA
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/360
+#EXTINF:-1 group-title="Germany" tvg-name="3sat",3sat
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/726
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 1",18+ Channel 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/501
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 2",18+ Channel 2
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/502
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 3",18+ Channel 3
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/503
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 4",18+ Channel 4
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/504
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 5",18+ Channel 5
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/505
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 6",18+ Channel 6
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/506
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 7",18+ Channel 7
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/507
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 8",18+ Channel 8
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/508
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 9",18+ Channel 9
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/509
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 10",18+ Channel 10
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/510
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 11",18+ Channel 11
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/511
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 12",18+ Channel 12
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/512
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 13",18+ Channel 13
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/513
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 14",18+ Channel 14
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/514
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 15",18+ Channel 15
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/515
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 16",18+ Channel 16
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/516
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 17",18+ Channel 17
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/517
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 18",18+ Channel 18
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/518
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 19",18+ Channel 19
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/519
+#EXTINF:-1 group-title="Adult" tvg-name="18+ Channel 20",18+ Channel 20
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/520
