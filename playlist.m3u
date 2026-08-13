@@ -3879,3 +3879,695 @@ http://37.247.98.8/stream/34/
 http://yayin.radyomadyo.com:8770/
 #EXTINF:1 group-title="Radyolar",X Radio
 https://stream.xradio.com.tr:8770/stream
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 36",Channel 36
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/36
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 38",Channel 38
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/38
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 39",Channel 39
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/39
+#EXTINF:-1 group-title="Sports" tvg-name="rugby",rugby
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/40
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 41",Channel 41
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/41
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 42",Channel 42
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/42
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 44",Channel 44
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/44
+#EXTINF:-1 group-title="Sports" tvg-name="motorsports",motorsports
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/45
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 46",Channel 46
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/46
+#EXTINF:-1 group-title="Sports" tvg-name="width",width
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/50
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 51",Channel 51
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/51
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 53",Channel 53
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/53
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 54",Channel 54
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/54
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 57",Channel 57
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/57
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 58",Channel 58
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/58
+#EXTINF:-1 group-title="Sports" tvg-name="fighting",fighting
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/60
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 62",Channel 62
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/62
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 64",Channel 64
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/64
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 66",Channel 66
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/66
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 67",Channel 67
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/67
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 71",Channel 71
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/71
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 72",Channel 72
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/72
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 74",Channel 74
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/74
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 75",Channel 75
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/75
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 79",Channel 79
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/79
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 81",Channel 81
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/81
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 84",Channel 84
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/84
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 85",Channel 85
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/85
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 87",Channel 87
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/87
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 89",Channel 89
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/89
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 91",Channel 91
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/91
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 99",Channel 99
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/99
+#EXTINF:-1 group-title="Sports" tvg-name="american-football",american-football
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/100
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 102",Channel 102
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/102
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 112",Channel 112
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/112
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 114",Channel 114
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/114
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 116",Channel 116
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/116
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 117",Channel 117
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/117
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 126",Channel 126
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/126
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 127",Channel 127
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/127
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 130",Channel 130
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/130
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 134",Channel 134
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/134
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 135",Channel 135
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/135
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 136",Channel 136
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/136
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 137",Channel 137
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/137
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 145",Channel 145
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/145
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 146",Channel 146
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/146
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 147",Channel 147
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/147
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 148",Channel 148
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/148
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 149",Channel 149
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/149
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 206",Channel 206
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/206
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 210",Channel 210
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/210
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 233",Channel 233
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/233
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 234",Channel 234
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/234
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 259",Channel 259
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/259
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 265",Channel 265
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/265
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 268",Channel 268
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/268
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 271",Channel 271
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/271
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 274",Channel 274
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/274
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 281",Channel 281
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/281
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 282",Channel 282
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/282
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 286",Channel 286
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/286
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 291",Channel 291
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/291
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 293",Channel 293
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/293
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 295",Channel 295
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/295
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 296",Channel 296
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/296
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 301",Channel 301
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/301
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 305",Channel 305
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/305
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 306",Channel 306
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/306
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 308",Channel 308
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/308
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 310",Channel 310
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/310
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 312",Channel 312
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/312
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 314",Channel 314
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/314
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 315",Channel 315
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/315
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 318",Channel 318
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/318
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 321",Channel 321
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/321
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 323",Channel 323
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/323
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 324",Channel 324
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/324
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 325",Channel 325
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/325
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 326",Channel 326
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/326
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 327",Channel 327
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/327
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 328",Channel 328
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/328
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 329",Channel 329
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/329
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 330",Channel 330
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/330
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 332",Channel 332
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/332
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 333",Channel 333
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/333
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 335",Channel 335
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/335
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 336",Channel 336
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/336
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 337",Channel 337
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/337
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 338",Channel 338
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/338
+#EXTINF:-1 group-title="Sports" tvg-name="stiffness",stiffness
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/340
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 341",Channel 341
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/341
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 344",Channel 344
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/344
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 346",Channel 346
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/346
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 348",Channel 348
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/348
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 350",Channel 350
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/350
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 353",Channel 353
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/353
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 356",Channel 356
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/356
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 357",Channel 357
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/357
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 359",Channel 359
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/359
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 360",Channel 360
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/360
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 365",Channel 365
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/365
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 368",Channel 368
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/368
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 369",Channel 369
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/369
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 370",Channel 370
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/370
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 372",Channel 372
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/372
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 373",Channel 373
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/373
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 375",Channel 375
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/375
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 378",Channel 378
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/378
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 382",Channel 382
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/382
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 383",Channel 383
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/383
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 384",Channel 384
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/384
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 387",Channel 387
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/387
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 390",Channel 390
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/390
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 393",Channel 393
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/393
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 394",Channel 394
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/394
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 396",Channel 396
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/396
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 398",Channel 398
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/398
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 399",Channel 399
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/399
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 404",Channel 404
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/404
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 406",Channel 406
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/406
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 407",Channel 407
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/407
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 410",Channel 410
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/410
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 412",Channel 412
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/412
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 414",Channel 414
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/414
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 416",Channel 416
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/416
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 417",Channel 417
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/417
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 418",Channel 418
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/418
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 423",Channel 423
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/423
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 424",Channel 424
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/424
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 425",Channel 425
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/425
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 426",Channel 426
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/426
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 430",Channel 430
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/430
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 431",Channel 431
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/431
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 432",Channel 432
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/432
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 433",Channel 433
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/433
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 435",Channel 435
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/435
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 437",Channel 437
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/437
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 443",Channel 443
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/443
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 444",Channel 444
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/444
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 445",Channel 445
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/445
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 447",Channel 447
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/447
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 448",Channel 448
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/448
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 450",Channel 450
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/450
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 454",Channel 454
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/454
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 455",Channel 455
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/455
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 457",Channel 457
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/457
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 459",Channel 459
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/459
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 460",Channel 460
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/460
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 461",Channel 461
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/461
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 462",Channel 462
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/462
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 463",Channel 463
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/463
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 464",Channel 464
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/464
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 465",Channel 465
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/465
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 467",Channel 467
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/467
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 468",Channel 468
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/468
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 471",Channel 471
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/471
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 472",Channel 472
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/472
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 473",Channel 473
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/473
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 474",Channel 474
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/474
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 475",Channel 475
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/475
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 477",Channel 477
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/477
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 478",Channel 478
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/478
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 479",Channel 479
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/479
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 480",Channel 480
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/480
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 481",Channel 481
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/481
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 482",Channel 482
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/482
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 483",Channel 483
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/483
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 484",Channel 484
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/484
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 485",Channel 485
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/485
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 495",Channel 495
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/495
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 496",Channel 496
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/496
+#EXTINF:-1 group-title="Sports" tvg-name="Channel 497",Channel 497
+#EXTVLCOPT:http-referrer=https://sportsbite.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://channels.forestgump.space/ch1/track/497
