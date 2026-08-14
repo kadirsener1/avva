@@ -2095,11 +2095,3 @@ https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTgiLCJ0c
 https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MTkiLCJ0cyI6MTc4NjY3MTU0MTg4OX0=
 #EXTINF:-1 tvg-id="18-plus-18-alt19" tvg-name="18+ (Player-20)-WW" group-title="World",18+ (Player-20)-WW
 https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI1MjAiLCJ0cyI6MTc4NjY3MTU0Mjg4OX0=
-#EXTINF:1 group-title="Radyolar", ASPOR
-http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
-#EXTINF:1 group-title="Radyolar", GİMSA RADYO
-http://yayin1.canliyayin.org:9482/stream
-#EXTINF:1 group-title="Radyolar", LİDER FM - 87.5 ALEMİN LİDERİ
-https://wowza1.radyotvonline.com/shoutcast/liderfm.stream/chunklist_w1344400302.m3u8
-#EXTINF:1 group-title="Radyolar", . Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
