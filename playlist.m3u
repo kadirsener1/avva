@@ -3532,7 +3532,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",VİASAT HİSTORY
 https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",TARİH TV
-https://nord.ayakkabiparti.lol/tarihtv/index.m3u8
+https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTTxc9G3/Bein-gurme-removebg-preview.png" group-title="BELGELSEL KANALLARI",beIN GURME
 https://vavoo.biz-az.workers.dev/play/9503946568377e1ba14c8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",TARIM TV
@@ -3546,3 +3546,11 @@ http://162.212.179.32/akamaissh101/ssh101/cine7__safari/chunks.m3u8
 https://zindikirmancki.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Çocuk",MAX ANİMASYON
 https://nord.ayakkabiparti.lol/bsfamily/index.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="Haber",Cnn Türk-N
+https://nord.ayakkabiparti.lol/cnn/index.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="Haber",SÖZCÜ-N
+https://nord.ayakkabiparti.lol/sozcutv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",DISCOVERY-N
+https://nord.ayakkabiparti.lol/discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",ID-N
+https://nord.ayakkabiparti.lol/discs/index.m3u8
