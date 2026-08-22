@@ -95,15 +95,15 @@ https://proxy.cors.sh/https://channels.forestgump.space/ch1/track/67
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://proxy.cors.sh/https://channels.forestgump.space/ch1/track/1010
 
-#EXTINF:-1 group-title="Bein-TV247", beIN SPORTS HABER [TR]-ace
+#EXTINF:-1 group-title="Bein-TV247",beIN SPORTS HABER [TR]-ace
 http://88.99.165.164:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706&pid=237
-#EXTINF:-1 group-title="Bein-TV247", beIN SPORTS HD 1 [TR]-ace
+#EXTINF:-1 group-title="Bein-TV247",beIN SPORTS HD 1 [TR]-ace
 http://88.99.165.164:6878/ace/getstream?infohash=071b49a1c52d304cae6300e2776022eec7ebe6cd&pid=238
-#EXTINF:-1 group-title="Bein-TV247", beIN SPORTS HD 2 [TR]-ace
+#EXTINF:-1 group-title="Bein-TV247",beIN SPORTS HD 2 [TR]-ace
 http://88.99.165.164:6878/ace/getstream?infohash=36e9427b55dd3574f9f40eab30aef8e0f34f477e&pid=239
-#EXTINF:-1 group-title="Bein-TV247", beIN SPORTS HD 3 [TR]-ace
+#EXTINF:-1 group-title="Bein-TV247",beIN SPORTS HD 3 [TR]-ace
 http://88.99.165.164:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6fa4552&pid=240
-#EXTINF:-1 group-title="Bein-TV247", beIN SPORTS HD 4 [TR]-ace
+#EXTINF:-1 group-title="Bein-TV247",beIN SPORTS HD 4 [TR]-ace
 http://88.99.165.164:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c2009b6fa&pid=241
 
 
