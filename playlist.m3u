@@ -17,8 +17,6 @@ https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbein
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trssport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",S Sport 2
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trssport2.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 5-Tal
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:4D:06:6C&stream=620422&extension=ts
 #EXTINF:-1, group-title="Spor-Diğer",S Sport
