@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",BİLGİLENDİRME
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/info.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",turkey bein 1 git ref
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/Bein%20Sports%201.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",turkey bein 1 js
-https://cdn.jsdelivr.net/gh/kadirsener1/247@refs/heads/main/cdnlive/Bein%20Sports%201.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",turkey bein 1 git ref yeni
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/BeinSports1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",turkey bein 1 js yeni
+https://cdn.jsdelivr.net/gh/kadirsener1/247@refs/heads/main/cdnlive/BeinSports1.m3u8
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 1 zeus
 https://zeus645423.cfd/b1/index.txt
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 2 zeus
