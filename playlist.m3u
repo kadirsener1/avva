@@ -24,6 +24,8 @@ https://7nyaler.streamhostingcdn.top/stream/64/index.m3u8
 #EXTVLCOPT:http-origin=https://www.7nyaler.com/
 https://7nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
+#EXTINF:-1, group-title="World Sport",Uk-Dazn 1
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukDazn1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 1-İP
 https://65.108.239.207/t1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 2-İP
