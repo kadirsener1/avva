@@ -34,16 +34,8 @@ https://7nyaler.streamhostingcdn.top/stream/64/index.m3u8
 #EXTVLCOPT:http-referer=https://www.7nyaler.com/
 #EXTVLCOPT:http-origin=https://www.7nyaler.com/
 https://7nyaler.streamhostingcdn.top/stream/52/index.m3u8
-#EXTINF:-1, group-title="World Sport",Uk-Dazn 1
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukDazn1.m3u8
-#EXTINF:-1, group-title="World Sport",Uk-Tnt Sports 1
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/uktntsports1.m3u8
-#EXTINF:-1, group-title="World Sport",Uk-Tnt Sports 2
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/uktntsports2.m3u8
-#EXTINF:-1, group-title="World Sport",Uk-Tnt Sports 3
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/uktntsports3.m3u8
-#EXTINF:-1, group-title="World Sport",Uk-Tnt Sports 4
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/uktntsports4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 1-İP
 https://65.108.239.207/t1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 2-İP
@@ -56,6 +48,96 @@ https://65.108.239.207/t4/index.m3u8
 https://65.108.239.207/smart1/index.m3u8
 #EXTINF:-1 tvg-id="spor_smart" tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/a8c6ywb.jpg" group-title="Spor-Diğer",Spor Smart 2
 https://65.108.239.207/smart2/index.m3u8
+
+
+#EXTINF:-1 group-title="World Sports",ukskymainevent
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskymainevent.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportspl
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportspl.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportsfootball
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsfootball.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportscricket
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportscricket.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportsf1
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsf1.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportsgolf
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsgolf.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportsaction
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsaction.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportsarena
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsarena.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportsracing
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsracing.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportsmix
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsmix.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportsnews
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsnews.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukskysportstennis
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportstennis.m3u8
+
+#EXTINF:-1 group-title="World Sports",uktnt1
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/uktnt1.m3u8
+
+#EXTINF:-1 group-title="World Sports",uktnt2
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/uktnt2.m3u8
+
+#EXTINF:-1 group-title="World Sports",uktnt3
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/uktnt3.m3u8
+
+#EXTINF:-1 group-title="World Sports",uktnt4
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/uktnt4.m3u8
+
+#EXTINF:-1 group-title="World Sports",uktntultimate
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/uktntultimate.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukeurosport1
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukeurosport1.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukeurosport2
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukeurosport2.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukpremiersports1
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukpremiersports1.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukpremiersports2
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukpremiersports2.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukbbc1
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukbbc1.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukbbc2
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukbbc2.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukitv1
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukitv1.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukitv2
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukitv2.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukitv3
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukitv3.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukitv4
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukitv4.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukchannel4
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukchannel4.m3u8
+
+#EXTINF:-1 group-title="World Sports",ukchannel5
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukchannel5.m3u8
+
+
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 1 zeus
 https://zeus645423.cfd/b1/index.txt
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 2 zeus
