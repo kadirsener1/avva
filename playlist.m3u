@@ -45,10 +45,12 @@ https://65.108.239.207/t4/index.m3u8
 https://65.108.239.207/smart1/index.m3u8
 #EXTINF:-1 tvg-id="spor_smart" tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/a8c6ywb.jpg" group-title="Spor-Diğer",Spor Smart 2
 https://65.108.239.207/smart2/index.m3u8
+
+
 #EXTINF:-1 group-title="World Sports",ukskymainevent
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskymainevent.m3u8
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsmainevent.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportspl
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportspl.m3u8
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportspremierleague.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportsfootball
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsfootball.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportscricket
