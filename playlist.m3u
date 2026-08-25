@@ -69,11 +69,13 @@ https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskys
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsgolf.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportsaction
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsaction.m3u8
-#EXTINF:-1 group-title="World Sports",ukskysportsarena
+#EXTINF:-1 group-title="World Sports",ukskysports+
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsarena.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportsracing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsracing.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportsmix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsmix.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportsnews
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsnews.m3u8
