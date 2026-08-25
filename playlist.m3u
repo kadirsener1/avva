@@ -103,6 +103,11 @@ https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukitv4
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukchannel4.m3u8
 #EXTINF:-1 group-title="World Sports",ukchannel5
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukchannel5.m3u8
+
+#EXTINF:-1 group-title="World Sports",deskysportbundesliga1
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/deskysportbundesliga1.m3u8
+#EXTINF:-1 group-title="World Sports",deskysportpremierleague
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/deskysportpremierleague.m3u8
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 1 zeus
 https://zeus645423.cfd/b1/index.txt
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 2 zeus
