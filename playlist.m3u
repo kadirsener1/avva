@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",BİLGİLENDİRME
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/info.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 1 avva
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://raw.githubusercontent.com/kadirsener1/avva1/refs/heads/main/cdnlive/trbeinsports1.m3u8
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://raw.githubusercontent.com/kadirsener1/avva1/refs/heads/main/cdnlive/trbeinsports2.m3u8
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://raw.githubusercontent.com/kadirsener1/avva1/refs/heads/main/cdnlive/trbeinsports3.m3u8
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://raw.githubusercontent.com/kadirsener1/avva1/refs/heads/main/cdnlive/trbeinsports4.m3u8
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://raw.githubusercontent.com/kadirsener1/avva1/refs/heads/main/cdnlive/trbeinsports5.m3u8
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS Max 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://raw.githubusercontent.com/kadirsener1/avva1/refs/heads/main/cdnlive/trbeinsportsmax1.m3u8
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsportsmax1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://raw.githubusercontent.com/kadirsener1/avva1/refs/heads/main/cdnlive/trbeinsportsmax2.m3u8
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsportsmax2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS Haber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsportshaber.m3u8
@@ -3717,5 +3717,3 @@ https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
 http://37.247.98.8/stream/34/
 #EXTINF:1 group-title="Radyolar",X Radio
 https://stream.xradio.com.tr:8770/stream
-#EXTINF:-1 group-title="AUSTRALIA",aufoxsports503
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports1.m3u8
