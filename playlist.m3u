@@ -1,11 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",BİLGİLENDİRME
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/info.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-# ? https://c.fulltvizle.com/aytv/index.m3u8
-# ? http://stream.tvcdn.net/ulusal/atv.m3u8
-# ? https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports1.m3u8
