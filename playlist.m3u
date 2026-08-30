@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="trbeinsports1" tvg-name="trbeinsports1" tvg-logo="" group-title="TR",Taraftar
+https://cdn.taratv31.shop/M970499/M970499.m3u8
 #EXTINF:-1 tvg-id="trbeinsports1" tvg-name="trbeinsports1" tvg-logo="" group-title="TR",trbeinsports11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
