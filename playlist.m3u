@@ -35,8 +35,9 @@ https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbein
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor",BeIN Sport 1-ZEUS
 https://zeus645423.cfd/b1/index.txt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor",beIN SPORTS 1-MAHSUN
-https://raw.githubusercontent.com/kadirsener1/mahsun/refs/heads/main/channels/TR_beIN_Sport_1_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor", TR:beIN Sport 1 HD-Mahsun
+#EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
+https://andro.evrenesoglu99.click/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 group-title="Spor",beIN SPORTS HD 1 [TR]-ace
 http://88.99.165.164:6878/ace/getstream?infohash=071b49a1c52d304cae6300e2776022eec7ebe6cd&pid=238
