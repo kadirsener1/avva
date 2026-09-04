@@ -2108,7 +2108,7 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="TR Spor",Fight Box
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="Sinema",Sinema Tv
-http://65.108.239.207/sinema/index.m3u8
+http://65.108.239.207/sinema1001/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839032.png" group-title="Sinema",Sinema Tv 2
 http://65.108.239.207/sinema2/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png" group-title="Sinema",Sinema Aksiyon
@@ -2151,44 +2151,16 @@ http://65.108.239.207/box2/index.m3u8
 http://65.108.239.207/box3/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="Moviesmart Turk" tvg-logo="https://i.ibb.co/YDmkmpj/dsmartturk.png" group-title="Sinema",Moviesmart Turk
 http://65.108.239.207/mvturk/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",SİNEMA TV-ip
-http://65.108.239.207/sinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",SİNEMA AKSİYON-ip
-http://65.108.239.207/sinemaaksiyon/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",SİNEMA AKSİYON 2-ip
-http://65.108.239.207/sinemaaksiyon2/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png" group-title="Sinema",Sinema Yerli-ip
-http://65.108.239.207/sinemayerli/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8283b71-81f8-4fc6-8e48-6bb8f7f49ad7.png" group-title="Sinema",Sinema Aile-ip
-http://65.108.239.207/sinemaaile/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8d9fbebd-cade-492d-9cb4-6522cb558794.png" group-title="Sinema",Sinema 1001-ip
-http://65.108.239.207l/sinema1001/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",SİNEMA KOMEDİ-ip
-http://65.108.239.207/sinemakomedi/index.m3u8
-#EXTINF:-1 tvg-id="sinemaaile2" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Action_HD_yeni.png" tvg-name="Sinema Aile 2" group-title="Sinema",Bein Movies Action HD-ip
-http://65.108.239.207/bsaction1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",BEİN MOVİES STAR-ip
-http://65.108.239.207/bsstars/index.m3u8
-#EXTINF:-1 tvg-id="filmscreen" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Family_HD_yeni.png" tvg-name="Film Screen (Aktif)" group-title="Sinema",Bein Movies Family HD-ip
-http://65.108.239.207/bsfamily/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",BEİN MOVİES TÜRK-ip
-http://65.108.239.207/bsturk/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",BEİN BOX OFFİCE 1-ip
-http://65.108.239.207/box1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",BEİN BOX OFFİCE 2-ip
-http://65.108.239.207/box2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",BEİN BOX OFFİCE 3-ip
-http://65.108.239.207/box3/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",BEİN MOVİES PREMİER-ip
-http://65.108.239.207/bspremier1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",FX
 https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",FIX TV
+https://yayin.venomlink.com/live/mystream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png" group-title="Sinema",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" group-title="Sinema",FILMSCREEN
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",FIX TV
-https://yayin.venomlink.com/live/mystream/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Cd5mGN/viasat-epic-drama.png" group-title="Sinema",VİASAT EPİC DRAMA
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1471701&extension=ts&play_token=POSWGUQYoB
