@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskys
 #EXTINF:-1 group-title="World Sports",ukskysportspl
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportspremierleague.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportsfootball
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3ODgzOTEzOTA0ODQ6Y2RubGl2ZXR2LnR2OjM4ZTQzOTg0Yzc5NzE1NzguYmQzODQzY2I1MWVhODNiNmVjMGYwNGM1YjQyNDM5YWQ1OTZjMThhZDdlYThkODE0MjZkZGI3MDNjZGQ2MGNiNA
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsfootball.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportscricket
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3ODgzOTEzOTE0NzY6Y2RubGl2ZXR2LnR2OmIxYTI5NDJkZTY2MTg4ODkuMTRiODMyNmI2NzEzZGI1NGRlNzY0NmE0MzBlMDY0MmIyOTAxZGUzZmM1YjU0ZjUwODNhOGNiMjcyNmI3MjJjYg
 #EXTINF:-1 group-title="World Sports",ukskysportsf1
