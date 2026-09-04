@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskys
 #EXTINF:-1 group-title="World Sports",ukskysportspl
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportspremierleague.m3u8
 #EXTINF:-1 group-title="World Sports",ukskysportsfootball
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/ukskysportsfootball.m3u8
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3ODgzOTEzOTA0ODQ6Y2RubGl2ZXR2LnR2OjM4ZTQzOTg0Yzc5NzE1NzguYmQzODQzY2I1MWVhODNiNmVjMGYwNGM1YjQyNDM5YWQ1OTZjMThhZDdlYThkODE0MjZkZGI3MDNjZGQ2MGNiNA
 #EXTINF:-1 group-title="World Sports",ukskysportscricket
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3ODgzOTEzOTE0NzY6Y2RubGl2ZXR2LnR2OmIxYTI5NDJkZTY2MTg4ODkuMTRiODMyNmI2NzEzZGI1NGRlNzY0NmE0MzBlMDY0MmIyOTAxZGUzZmM1YjU0ZjUwODNhOGNiMjcyNmI3MjJjYg
 #EXTINF:-1 group-title="World Sports",ukskysportsf1
@@ -205,13 +205,13 @@ https://proxy.cors.sh/https://yayinlarfidanafidanlaragaca.xyz/hls/9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Bigo",Smart Spor Bigo tv
 https://proxy.cors.sh/https://yayinlarfidanafidanlaragaca.xyz/hls/10.m3u8
 #EXTINF:-1 tvg-id="bein-sports-2-turkey" tvg-name="beIN SPORTS 2 Turkey-TR" group-title="Bein-TV247",beIN SPORTS 2 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzg4NTE2MTU2MjY3fQ==
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzg4NTI2OTY2OTk2fQ==
 #EXTINF:-1 tvg-id="bein-sports-3-turkey" tvg-name="beIN SPORTS 3 Turkey-TR" group-title="Bein-TV247",beIN SPORTS 3 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzg4NTE2MTU3MjY4fQ==
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzg4NTI2OTY3OTk3fQ==
 #EXTINF:-1 tvg-id="bein-sports-4-turkey" tvg-name="beIN SPORTS 4 Turkey-TR" group-title="Bein-TV247",beIN SPORTS 4 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjoxNzg4NTE2MTU4MjY4fQ==
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NyIsInRzIjoxNzg4NTI2OTY4OTk3fQ==
 #EXTINF:-1 tvg-id="bein-sports-5-turkey" tvg-name="bein Sports 5 Turkey-TR" group-title="Bein-TV247",bein Sports 5 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3ODg1MTYxNTkyNjh9
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIxMDEwIiwidHMiOjE3ODg1MjY5Njk5OTd9
 #EXTINF:-1 group-title="Bein-TV247" tvg-name="beIN Sports 2",beIN Sports 2-forestgump
 #EXTVLCOPT:http-referrer=https://channels.forestgump.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -3744,7 +3744,7 @@ https://stream.xradio.com.tr:8770/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR Spor",beIN Sports Haber-talip
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:4D:06:6C&stream=620421&extension=ts
 #EXTINF:-1 tvg-id="bein-sports-1-turkey" tvg-name="beIN SPORTS 1 Turkey-TR" group-title="Bein-TV247",beIN SPORTS 1 Turkey-TR
-https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzg4NTE2MTU1MjY3fQ==
+https://chunk.tv247.biz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzg4NTI2OTY1OTk2fQ==
 #EXTINF:-1 tvg-id="bein-sports-1" tvg-name="BEIN SPORTS 1" group-title="Atom Spor",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://www.atomsportv513.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
