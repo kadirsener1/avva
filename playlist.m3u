@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/in
 https://corestream.ardastream.live//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="trbeinsports1" tvg-name="trbeinsports1" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" group-title="Spor",beIN SPORTS 1 cdn
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/trbeinsports1cdn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" group-title="Spor",beIN SPORTS 1 tvnow
 #EXTVLCOPT:http-referrer=https://tvnow247.top/
