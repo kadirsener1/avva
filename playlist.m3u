@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbein
 #EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="Spor",beIN SPORTS 1 tvnow
 #EXTVLCOPT:http-referrer=https://tvnow247.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://proxy.cors.sh/https://live.tv247.site/live/62/index.m3u8?v=1&e=1788616999&k=f3762301b37ab906f9a6917afaddad49
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beinsports1.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor",BeIN Sport 1-ZEUS
 https://zeus645423.cfd/b1/index.txt
@@ -27,10 +27,11 @@ http://88.99.165.164:6878/ace/getstream?infohash=071b49a1c52d304cae6300e2776022e
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports2.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="Spor",beIN SPORTS 2 tvnow
 #EXTVLCOPT:http-referrer=https://tvnow247.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.tv247.site/live/63/index.m3u8?v=1&e=1788628572&k=d264af94892e90cbb054de7b7cf961ed
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beinsports1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 5-Tal
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:4D:06:6C&stream=620422&extension=ts
