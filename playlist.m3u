@@ -160,6 +160,955 @@ https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor8" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/60594_0-73-1920-933.jpeg" group-title="TabiiSpor",Tabii Spor 8
 https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master_1080p.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Abu Dhabi Sports 1 Premium-AE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Abu_Dhabi_Sports_1_Premium-AE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Abu Dhabi Sports 1 UAE-AE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Abu_Dhabi_Sports_1_UAE-AE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Abu Dhabi Sports 2 Premium-AE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Abu_Dhabi_Sports_2_Premium-AE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Abu Dhabi Sports 2 UAE-AE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Abu_Dhabi_Sports_2_UAE-AE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Dubai Racing 2 UAE-AE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Dubai_Racing_2_UAE-AE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Dubai Sports 1 UAE-AE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Dubai_Sports_1_UAE-AE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Dubai Sports 2 UAE-AE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Dubai_Sports_2_UAE-AE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Dubai Sports 3 UAE-AE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Dubai_Sports_3_UAE-AE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport MaXimo 1-AO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_MaXimo_1-AO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN Argentina-AR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_Argentina-AR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN Premium Argentina-AR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_Premium_Argentina-AR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN2 Argentina-AR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN2_Argentina-AR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN3 Argentina-AR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN3_Argentina-AR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Sports 2 Argentina-AR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Sports_2_Argentina-AR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Sports 3 Argentina-AR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Sports_3_Argentina-AR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Sports Argentina-AR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Sports_Argentina-AR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TNT Sports Argentina-AR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TNT_Sports_Argentina-AR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TYC Sports Argentina-AR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TYC_Sports_Argentina-AR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Austria 1 HD-AT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Austria_1_HD-AT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN SPORTS Australia 1-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_SPORTS_Australia_1-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN SPORTS Australia 2-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_SPORTS_Australia_2-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN SPORTS Australia 3-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_SPORTS_Australia_3-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Cricket-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Cricket-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FOX Sports 502 AU-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FOX_Sports_502_AU-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FOX Sports 503 AU-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FOX_Sports_503_AU-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FOX Sports 504 AU-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FOX_Sports_504_AU-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FOX Sports 505 AU-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FOX_Sports_505_AU-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FOX Sports 506 AU-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FOX_Sports_506_AU-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FOX Sports 507 AU-AU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FOX_Sports_507_AU-AU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 1 BiH-BA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_1_BiH-BA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",T Sports BD-BD
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/T_Sports_BD-BD.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Diema Sport 2 Bulgaria-BG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Diema_Sport_2_Bulgaria-BG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Diema Sport 3 Bulgaria-BG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Diema_Sport_3_Bulgaria-BG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Diema Sport Bulgaria-BG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Diema_Sport_Bulgaria-BG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Max Sport 1 Bulgaria-BG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Max_Sport_1_Bulgaria-BG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Max Sport 2 Bulgaria-BG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Max_Sport_2_Bulgaria-BG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Max Sport 3 Bulgaria-BG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Max_Sport_3_Bulgaria-BG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Max Sport 4 Bulgaria-BG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Max_Sport_4_Bulgaria-BG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sport Bulgaria-BG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sport_Bulgaria-BG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Ring Bulgaria-BG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Ring_Bulgaria-BG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Bandsports Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Bandsports_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Combate Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Combate_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN2 Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN2_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN3 Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN3_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN4 Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN4_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Premier Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Premier_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SporTV Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SporTV_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SporTV2 Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SporTV2_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SporTV3 Brasil-BR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SporTV3_Brasil-BR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fight Network-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fight_Network-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",RDS 2 CA-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/RDS_2_CA-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",RDS CA-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/RDS_CA-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",RDS Info CA-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/RDS_Info_CA-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sportsnet 360-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sportsnet_360-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sportsnet East-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sportsnet_East-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sportsnet One-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sportsnet_One-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sportsnet Ontario-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sportsnet_Ontario-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sportsnet West-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sportsnet_West-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sportsnet World-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sportsnet_World-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TSN1-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TSN1-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TSN2-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TSN2-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TSN3-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TSN3-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TSN4-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TSN4-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TSN5-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TSN5-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TVA Sports-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TVA_Sports-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TVA Sports 2-CA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TVA_Sports_2-CA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TNT Sports HD Chile-CL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TNT_Sports_HD_Chile-CL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Win Sports+ Columbia-CO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Win_Sports+_Columbia-CO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cytavision Sports 1 Cyprus-CY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cytavision_Sports_1_Cyprus-CY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cytavision Sports 2 Cyprus-CY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cytavision_Sports_2_Cyprus-CY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cytavision Sports 3 Cyprus-CY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cytavision_Sports_3_Cyprus-CY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cytavision Sports 4 Cyprus-CY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cytavision_Sports_4_Cyprus-CY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cytavision Sports 5 Cyprus-CY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cytavision_Sports_5_Cyprus-CY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cytavision Sports 6 Cyprus-CY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cytavision_Sports_6_Cyprus-CY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cytavision Sports 7 Cyprus-CY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cytavision_Sports_7_Cyprus-CY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",CT Sport CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/CT_Sport_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sport 1 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sport_1_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sport 2 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sport_2_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sport 3 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sport_3_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sport 4 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sport_4_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sport 5 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sport_5_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sport 6 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sport_6_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Oneplay Sport 1 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Oneplay_Sport_1_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Oneplay Sport 2 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Oneplay_Sport_2_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Oneplay Sport 3 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Oneplay_Sport_3_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Premier Sport 1 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Premier_Sport_1_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Premier Sport 2 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Premier_Sport_2_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Premier Sport 3 CZ-CZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Premier_Sport_3_CZ-CZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN 1 Bar DE-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_1_Bar_DE-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN 2 Bar DE-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_2_Bar_DE-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Bundesliga 1 HD-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Bundesliga_1_HD-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Bundesliga 2-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Bundesliga_2-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Bundesliga 3-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Bundesliga_3-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Bundesliga 4-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Bundesliga_4-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Mix DE-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Mix_DE-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Top Event DE-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Top_Event_DE-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports 1 DE-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_1_DE-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports 2 DE-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_2_DE-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports F1 DE-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_F1_DE-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Golf DE-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Golf_DE-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Tennis DE-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Tennis_DE-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport1 Germany-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport1_Germany-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SportDigital Fussball-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SportDigital_Fussball-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sportdigital1+ Germany-DE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sportdigital1+_Germany-DE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV2 Sport Denmark-DK
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV2_Sport_Denmark-DK.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV2 Sport X Denmark-DK
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV2_Sport_X_Denmark-DK.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV3 Sport Denmark-DK
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV3_Sport_Denmark-DK.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",OnTime Sports-EG
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/OnTime_Sports-EG.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",#Vamos Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/#Vamos_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Barca TV Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Barca_TV_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN 1 Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_1_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN 2 Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_2_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN 3 Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_3_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN 4 Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_4_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN F1 ES-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_F1_ES-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN LaLiga-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_LaLiga-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",EuroSport 1 Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/EuroSport_1_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",EuroSport 2 Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/EuroSport_2_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",GOL PLAY Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/GOL_PLAY_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",LaLiga SmartBank TV-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/LaLiga_SmartBank_TV-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Movistar Deportes 2 Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Movistar_Deportes_2_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Movistar Deportes 3 Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Movistar_Deportes_3_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Movistar Deportes 4 Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Movistar_Deportes_4_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Movistar Deportes Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Movistar_Deportes_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Movistar Golf Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Movistar_Golf_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Movistar Laliga-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Movistar_Laliga-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Movistar Liga de Campeones-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Movistar_Liga_de_Campeones-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Movistar Supercopa de España-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Movistar_Supercopa_de_España-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Mundotoro TV Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Mundotoro_TV_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Real Madrid TV Spain-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Real_Madrid_TV_Spain-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Teledeporte Spain (TDP)-ES
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Teledeporte_Spain_(TDP)-ES.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Automoto La chaîne-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Automoto_La_chaîne-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Foot France-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Foot_France-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Formula 1-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Formula_1-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ MotoGP France-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_MotoGP_France-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport 1 Afrique-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_1_Afrique-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport 2 Afrique-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_2_Afrique-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport 3 Afrique-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_3_Afrique-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport 4 Afrique-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_4_Afrique-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport 5 Afrique-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_5_Afrique-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport France-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_France-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport360-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport360-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eurosport 1 France-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eurosport_1_France-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eurosport 2 France-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eurosport_2_France-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",L'Equipe France-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/L'Equipe_France-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",RMC Sport 1 France-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/RMC_Sport_1_France-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",RMC Sport 2 France-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/RMC_Sport_2_France-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Tennis+ 10-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Tennis+_10-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Tennis+ 12-FR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Tennis+_12-FR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN 1 UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_1_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",LaLigaTV UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/LaLigaTV_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Liverpool TV (LFC TV)-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Liverpool_TV_(LFC_TV)-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",MUTV UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/MUTV_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",PDC TV-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/PDC_TV-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Racing Tv UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Racing_Tv_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Action UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Action_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Cricket-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Cricket-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports F1 UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_F1_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Football UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Football_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Golf UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Golf_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Main Event-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Main_Event-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports MIX UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_MIX_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports News UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_News_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky sports Premier League-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_sports_Premier_League-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Racing UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Racing_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Tennis UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Tennis_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports+ Plus-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports+_Plus-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TNT Sports 1 UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TNT_Sports_1_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TNT Sports 2 UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TNT_Sports_2_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TNT Sports 3 UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TNT_Sports_3_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TNT Sports 4 UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TNT_Sports_4_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Viaplay Sports 1 UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Viaplay_Sports_1_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Viaplay Sports 2 UK-GB
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Viaplay_Sports_2_UK-GB.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cosmote Sport 1 HD-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cosmote_Sport_1_HD-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cosmote Sport 2 HD-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cosmote_Sport_2_HD-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cosmote Sport 3 HD-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cosmote_Sport_3_HD-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cosmote Sport 4 HD-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cosmote_Sport_4_HD-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cosmote Sport 5 HD-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cosmote_Sport_5_HD-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cosmote Sport 6 HD-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cosmote_Sport_6_HD-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cosmote Sport 7 HD-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cosmote_Sport_7_HD-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cosmote Sport 8 HD-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cosmote_Sport_8_HD-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Cosmote Sport 9 HD-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Cosmote_Sport_9_HD-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",EuroSport 1 Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/EuroSport_1_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",EuroSport 2 Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/EuroSport_2_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports 1 Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_1_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports 2 Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_2_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports 3 Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_3_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports 4 Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_4_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports 5 Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_5_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports 6 Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_6_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports News Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_News_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports Premier League Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_Premier_League_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports Prime Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_Prime_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sports Start Greece-GR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sports_Start_Greece-GR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 1 Croatia-HR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_1_Croatia-HR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 2 Croatia-HR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_2_Croatia-HR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 3 Croatia-HR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_3_Croatia-HR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 4 Croatia-HR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_4_Croatia-HR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Max Sport 1 Croatia-HR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Max_Sport_1_Croatia-HR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Max Sport 2 Croatia-HR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Max_Sport_2_Croatia-HR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport KLUB Golf Croatia-HR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_KLUB_Golf_Croatia-HR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",M4 Sports Hungary-HU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/M4_Sports_Hungary-HU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Premier Sports Ireland 1-IE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Premier_Sports_Ireland_1-IE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Premier Sports Ireland 2-IE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Premier_Sports_Ireland_2-IE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ONE 1 HD Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ONE_1_HD_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ONE 2 HD Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ONE_2_HD_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport 1 Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_1_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport 2 Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_2_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport 3 Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_3_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport 4 Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_4_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport 5 Gold Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_5_Gold_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport 5 Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_5_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport 5 Live Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_5_Live_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport 5 PLUS Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_5_PLUS_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport 5 Star Israel-IL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_5_Star_Israel-IL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SONY TEN 1-IN
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SONY_TEN_1-IN.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SONY TEN 2-IN
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SONY_TEN_2-IN.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SONY TEN 3-IN
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SONY_TEN_3-IN.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Star Sports 1 IN-IN
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Star_Sports_1_IN-IN.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Star Sports Hindi IN-IN
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Star_Sports_Hindi_IN-IN.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN ZONA Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_ZONA_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",EuroSport 1 Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/EuroSport_1_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",EuroSport 2 Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/EuroSport_2_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Rai Sport Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Rai_Sport_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Calcio 1 (251) Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Calcio_1_(251)_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Calcio 2 (252) Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Calcio_2_(252)_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Calcio 3 (253) Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Calcio_3_(253)_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Calcio 4 (254) Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Calcio_4_(254)_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 24 Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_24_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Arena Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Arena_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Basket Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Basket_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Calcio Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Calcio_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport F1 Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_F1_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport MAX Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_MAX_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport MotoGP Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_MotoGP_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Tennis Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Tennis_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport UNO Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_UNO_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sports Golf Italy-IT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sports_Golf_Italy-IT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Claro Sports MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Claro_Sports_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN 1 MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_1_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN 2 MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_2_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN 3 MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_3_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN 4 MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_4_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Sports 1 MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Sports_1_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Sports 2 MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Sports_2_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Sports 3 MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Sports_3_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Sports Premium MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Sports_Premium_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TUDN MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TUDN_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TVC Deportes MX-MX
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TVC_Deportes_MX-MX.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Astro Cricket-MY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Astro_Cricket-MY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Astro SuperSport 1-MY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Astro_SuperSport_1-MY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Astro SuperSport 2-MY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Astro_SuperSport_2-MY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Astro SuperSport 3-MY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Astro_SuperSport_3-MY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Astro SuperSport 4-MY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Astro_SuperSport_4-MY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 1 Malaysia-MY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_1_Malaysia-MY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 2 Malaysia-MY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_2_Malaysia-MY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 3 Malaysia-MY
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_3_Malaysia-MY.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN 1 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_1_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN 2 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_2_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN 3 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_3_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eurosport 1 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eurosport_1_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eurosport 2 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eurosport_2_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Ziggo Sport 2 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Ziggo_Sport_2_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Ziggo Sport 3 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Ziggo_Sport_3_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Ziggo Sport 4 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Ziggo_Sport_4_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Ziggo Sport 5 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Ziggo_Sport_5_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Ziggo Sport 6 NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Ziggo_Sport_6_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Ziggo Sport NL-NL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Ziggo_Sport_NL-NL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 1 NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_1_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 2 NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_2_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 3 NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_3_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 4 NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_4_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 5 NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_5_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 6 NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_6_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 7 NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_7_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 8 NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_8_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport 9 NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_9_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sky Sport Select NZ-NZ
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sky_Sport_Select_NZ-NZ.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",A Sport PK-PK
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/A_Sport_PK-PK.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",PTV Sports-PK
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/PTV_Sports-PK.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Ten Sports PK-PK
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Ten_Sports_PK-PK.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport 2 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_2_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport 3 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_3_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport 5 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_5_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal+ Sport Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal+_Sport_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eleven Sports 1 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eleven_Sports_1_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eleven Sports 2 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eleven_Sports_2_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eleven Sports 3 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eleven_Sports_3_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",EuroSport 1 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/EuroSport_1_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",EuroSport 2 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/EuroSport_2_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Motowizja Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Motowizja_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Polsat Sport 2 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Polsat_Sport_2_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Polsat Sport 3 Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Polsat_Sport_3_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Polsat Sport Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Polsat_Sport_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TVP Sport Poland-PL
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TVP_Sport_Poland-PL.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Benfica TV PT-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Benfica_TV_PT-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Canal 11 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Canal_11_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",DAZN Portugal FIFA Mundial de Clubes-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/DAZN_Portugal_FIFA_Mundial_de_Clubes-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eleven Sports 1 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eleven_Sports_1_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eleven Sports 2 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eleven_Sports_2_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eleven Sports 3 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eleven_Sports_3_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eleven Sports 4 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eleven_Sports_4_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Eleven Sports 5 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Eleven_Sports_5_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Porto Canal Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Porto_Canal_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport TV1 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_TV1_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport TV2 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_TV2_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport TV3 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_TV3_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport TV4 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_TV4_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport TV5 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_TV5_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport TV6 Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_TV6_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sporting TV Portugal-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sporting_TV_Portugal-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Vodafone Sport-PT
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Vodafone_Sport-PT.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Alkass Four-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Alkass_Four-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Alkass One-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Alkass_One-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Alkass Three-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Alkass_Three-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Alkass Two-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Alkass_Two-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 1 Arabic-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_1_Arabic-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 2 Arabic-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_2_Arabic-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 3 Arabic-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_3_Arabic-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 4 Arabic-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_4_Arabic-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 5 Arabic-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_5_Arabic-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 6 Arabic-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_6_Arabic-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 7 Arabic-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_7_Arabic-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 8 Arabic-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_8_Arabic-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports 9 Arabic-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_9_Arabic-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",BeIn Sports HD Qatar-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/BeIn_Sports_HD_Qatar-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports MENA English 1-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_MENA_English_1-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN Sports MENA English 2-QA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_Sports_MENA_English_2-QA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Digi Sport 1 Romania-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Digi_Sport_1_Romania-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Digi Sport 2 Romania-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Digi_Sport_2_Romania-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Digi Sport 3 Romania-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Digi_Sport_3_Romania-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Digi Sport 4 Romania-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Digi_Sport_4_Romania-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Orange Sport 1 Romania-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Orange_Sport_1_Romania-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Orange Sport 2 Romania-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Orange_Sport_2_Romania-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Orange Sport 3 Romania-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Orange_Sport_3_Romania-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Orange Sport 4 Romania-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Orange_Sport_4_Romania-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Prima Sport 1-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Prima_Sport_1-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Prima Sport 2-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Prima_Sport_2-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Prima Sport 3-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Prima_Sport_3-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Prima Sport 4-RO
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Prima_Sport_4-RO.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 1 Premium-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_1_Premium-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 1 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_1_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 10 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_10_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 2 Premium-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_2_Premium-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 2 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_2_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 3 Premium-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_3_Premium-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 3 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_3_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 4 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_4_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 5 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_5_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 6 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_6_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 7 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_7_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 8 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_8_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sport 9 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sport_9_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Arena Sports Tenis Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Arena_Sports_Tenis_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Nova Sport Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Nova_Sport_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport Klub 1 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_Klub_1_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport Klub 2 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_Klub_2_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport Klub 3 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_Klub_3_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport Klub 4 Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_Klub_4_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Sport Klub HD Serbia-RS
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sport_Klub_HD_Serbia-RS.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Match Football 1 Russia-RU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Match_Football_1_Russia-RU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Match Football 2 Russia-RU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Match_Football_2_Russia-RU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Match Football 3 Russia-RU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Match_Football_3_Russia-RU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Match Premier Russia-RU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Match_Premier_Russia-RU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Match TV Russia-RU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Match_TV_Russia-RU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",МАТЧ! БОЕЦ Russia-RU
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/МАТЧ!_БОЕЦ_Russia-RU.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SSC Sport 1-SA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SSC_Sport_1-SA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SSC Sport 2-SA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SSC_Sport_2-SA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SSC Sport 3-SA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SSC_Sport_3-SA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SSC Sport 4-SA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SSC_Sport_4-SA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SSC Sport 5-SA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SSC_Sport_5-SA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SSC Sport Extra 1-SA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SSC_Sport_Extra_1-SA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SSC Sport Extra 2-SA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SSC_Sport_Extra_2-SA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SSC Sport Extra 3-SA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SSC_Sport_Extra_3-SA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV4 Football Sweden-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV4_Football_Sweden-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV4 Hockey-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV4_Hockey-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV4 Motor-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV4_Motor-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV4 Sport Live 1-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV4_Sport_Live_1-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV4 Sport Live 2-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV4_Sport_Live_2-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV4 Sport Live 3-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV4_Sport_Live_3-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV4 Sport Live 4-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV4_Sport_Live_4-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV4 Sportkanalen-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV4_Sportkanalen-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TV4 Tennis-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TV4_Tennis-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",V Sport Motor Sweden-SE
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/V_Sport_Motor_Sweden-SE.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",A Spor Turkey-TR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/A_Spor_Turkey-TR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TRT Spor TR-TR
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TRT_Spor_TR-TR.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ACC Network USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ACC_Network_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Altitude Sports-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Altitude_Sports-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN SPORTS en Español-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_SPORTS_en_Español-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",BeIn SPORTS USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/BeIn_SPORTS_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",beIN SPORTS XTRA 1-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beIN_SPORTS_XTRA_1-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",BIG TEN Network (BTN USA)-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/BIG_TEN_Network_(BTN_USA)-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",CBS Sports Golazo-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/CBS_Sports_Golazo-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",CBS Sports Network (CBSSN)-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/CBS_Sports_Network_(CBSSN)-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Chicago Sports Network-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Chicago_Sports_Network-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN Deportes-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_Deportes-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPN2 USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPN2_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPNews-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPNews-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",ESPNU USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/ESPNU_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Arizona-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Arizona-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Detroit-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Detroit-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Florida-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Florida-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Great Lakes-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Great_Lakes-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Indiana-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Indiana-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Kansas City-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Kansas_City-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Midwest-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Midwest-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network New Orleans-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_New_Orleans-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network North-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_North-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Ohio-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Ohio-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Oklahoma-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Oklahoma-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network SoCal-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_SoCal-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network South-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_South-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Southeast-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Southeast-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Sun-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Sun-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network West-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_West-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FanDuel Sports Network Wisconsin-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FanDuel_Sports_Network_Wisconsin-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FOX Deportes USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FOX_Deportes_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",FOX Soccer Plus-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/FOX_Soccer_Plus-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Sports 1 USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Sports_1_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Fox Sports 2 USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Fox_Sports_2_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",GOLF Channel USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/GOLF_Channel_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",GOLTV USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/GOLTV_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Marquee Sports Network-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Marquee_Sports_Network-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",MASN USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/MASN_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",MAVTV USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/MAVTV_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",MLB Network USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/MLB_Network_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Monumental Sports Network-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Monumental_Sports_Network-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Motor Trend-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Motor_Trend-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",MSG USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/MSG_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",NBA TV USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/NBA_TV_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",NBC Sports Bay Area-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/NBC_Sports_Bay_Area-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",NBC Sports Boston-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/NBC_Sports_Boston-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",NBC Sports California-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/NBC_Sports_California-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",NBC Sports Philadelphia-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/NBC_Sports_Philadelphia-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",NESN USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/NESN_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",NFL Network-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/NFL_Network-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",NFL RedZone-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/NFL_RedZone-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",NHL Network USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/NHL_Network_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Outdoor Channel USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Outdoor_Channel_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Pac-12 Network USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Pac-12_Network_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Rally Tv-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Rally_Tv-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Root Sports Northwest-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Root_Sports_Northwest-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SEC Network USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SEC_Network_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Space City Home Network-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Space_City_Home_Network-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Spectrum Sportsnet LA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Spectrum_Sportsnet_LA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Spectrum SportsNet USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Spectrum_SportsNet_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SportsNet New York (SNY)-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SportsNet_New_York_(SNY)-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SportsNet Pittsburgh-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SportsNet_Pittsburgh-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",StarzPlay CricLife 1 HD-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/StarzPlay_CricLife_1_HD-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Tennis Channel-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Tennis_Channel-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",TUDN USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/TUDN_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Willow Cricket-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Willow_Cricket-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Willow XTRA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Willow_XTRA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",WWE Network-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/WWE_Network-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",YES Network USA-US
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/YES_Network_USA-US.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Action-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Action-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Cricket-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Cricket-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Supersport Football-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Supersport_Football-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Golf-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Golf-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Grandstand-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Grandstand-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport LaLiga-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_LaLiga-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Motorsport-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Motorsport-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Premier league-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Premier_league-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport PSL-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_PSL-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Rugby-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Rugby-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Tennis-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Tennis-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Variety 1-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Variety_1-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Variety 2-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Variety_2-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Variety 3-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Variety_3-ZA.m3u8
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Variety 4-ZA
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Variety_4-ZA.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Ulusal",TRT 2
