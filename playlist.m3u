@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",BİLGİLENDİRME
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/info.m3u8
-
 #EXTINF:-1 tvg-id="bein-sports-1" tvg-name="BEIN SPORTS 1" group-title="Spor",BEIN SPORTS 1-ATOM
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
@@ -10,12 +9,10 @@ https://corestream.ardastream.live//beintv/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports1.m3u8
-
 #EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="Spor",beIN SPORTS 1 tvnow
 #EXTVLCOPT:http-referrer=https://tvnow247.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beinsports1.m3u8
-
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor",BeIN Sport 1-ZEUS
 https://zeus645423.cfd/b1/index.txt
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor", TR:beIN Sport 1 HD-Mahsun
@@ -27,15 +24,12 @@ http://88.99.165.164:6878/ace/getstream?infohash=071b49a1c52d304cae6300e2776022e
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports2.m3u8
-
 #EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="Spor",beIN SPORTS 2 tvnow
 #EXTVLCOPT:http-referrer=https://tvnow247.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beinsports2.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 5-Tal
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:4D:06:6C&stream=620422&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 1-İP
 https://65.108.239.207/t1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",Tivibu 2-İP
@@ -48,7 +42,6 @@ https://65.108.239.207/t4/index.m3u8
 https://65.108.239.207/smart1/index.m3u8
 #EXTINF:-1 tvg-id="spor_smart" tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/a8c6ywb.jpg" group-title="Spor-Diğer",Spor Smart 2
 https://65.108.239.207/smart2/index.m3u8
-
 #EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 2 zeus
 https://zeus645423.cfd/b2/index.txt
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Neon",BeIN Sport 3 zeus
@@ -91,8 +84,6 @@ https://proxy.cors.sh/https://yayinlarfidanafidanlaragaca.xyz/hls/6.m3u8
 https://proxy.cors.sh/https://yayinlarfidanafidanlaragaca.xyz/hls/9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Bigo",Smart Spor Bigo tv
 https://proxy.cors.sh/https://yayinlarfidanafidanlaragaca.xyz/hls/10.m3u8
-
-
 #EXTINF:-1 group-title="Spor",beIN SPORTS HABER [TR]-ace
 http://88.99.165.164:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706&pid=237
 #EXTINF:-1 group-title="Spor",beIN SPORTS HD 2 [TR]-ace
@@ -159,8 +150,6 @@ https://nw5mr1vl9xp4zk2sh7tq3gj6b.medya.trt.com.tr/master_1080p.m3u8
 https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor8" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/60594_0-73-1920-933.jpeg" group-title="TabiiSpor",Tabii Spor 8
 https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master_1080p.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Abu Dhabi Sports 1 Premium-AE
 https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Abu_Dhabi_Sports_1_Premium-AE.m3u8
 #EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",Abu Dhabi Sports 1 UAE-AE
@@ -1107,8 +1096,6 @@ https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/Sup
 https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Variety_3-ZA.m3u8
 #EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sports",SuperSport Variety 4-ZA
 https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/SuperSport_Variety_4-ZA.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Ulusal",TRT 2
@@ -1538,8 +1525,6 @@ https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fa
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmusicrojda.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Müzik",Fanatik Music Neşet Ertaş
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmusicnesetertas.m3u8
-
-
 #EXTINF:1 group-title="Radyolar", ASPOR
 http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 #EXTINF:1 group-title="Radyolar", GİMSA RADYO
@@ -2866,16 +2851,12 @@ https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
 http://37.247.98.8/stream/34/
 #EXTINF:1 group-title="Radyolar",X Radio
 https://stream.xradio.com.tr:8770/stream
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR Spor",beIN Sports Haber-talip
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:4D:06:6C&stream=620421&extension=ts
 #EXTINF:-1 tvg-id="bein-sports-1" tvg-name="BEIN SPORTS 1" group-title="Atom Spor",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://www.atomsportv513.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://corestream.ardastream.live//beintv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Spor", TR:beIN Sport 2 HD-Mahsun
 #EXTVLCOPT:http-referrer=https://mahsunsports13.xyz/
 https://andro.evrenesoglu99.click/checklist/androstreamlivebs2.m3u8
