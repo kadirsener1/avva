@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbein
 #EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="Spor",beIN SPORTS 2 tvnow
 #EXTVLCOPT:http-referrer=https://tvnow247.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beinsports1.m3u8
+https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/tv247tr/beinsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN SPORTS 5-Tal
 http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:4D:06:6C&stream=620422&extension=ts
